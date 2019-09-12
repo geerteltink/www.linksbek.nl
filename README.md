@@ -1,6 +1,6 @@
 # www.linksbek.nl
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/56b9e4f7-b297-49c8-b2ab-9499f84f32a1/deploy-status)](https://app.netlify.com/sites/omfs-eu/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f4ea26d-4757-4401-96c8-451f04504dd2/deploy-status)](https://app.netlify.com/sites/linksbek-nl/deploys)
 ![Action Status](https://github.com/xtreamwayz/www.linksbek.nl/workflows/nightly-build.yml/badge.svg)
 ![Nightly build](https://github.com/xtreamwayz/www.linksbek.nl/workflows/Nightly%20build/badge.svg)
 

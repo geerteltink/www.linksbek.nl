@@ -1,0 +1,10 @@
+---
+title: "Luinge leugenaar!"
+date: "2006-04-13"
+---
+
+Enkele weken geleden stond ik met één van mijn trouwste lezers, tevens hockeymaatje, te kijken naar een thuiswedstrijd van het eerste. Meestal is dat dikke pret, met Heren Bier als de luchtige variant op Vak P, maar deze keer was er vooral veel commentaar op één van de twee scheidsrechters, die laten we zeggen niet z’n beste dag had en daarbij ook nog eens zo ongelukkig was om het dichtst bij de drukst bezochte lijn te moeten fluiten. Twee voorbeelden: een glaszuiver doelpunt werd om onduidelijke redenen afgekeurd en onze aanvoerder kreeg een gele kaart, toen een medespeler geblesseerd raakte en de verzorger zonder arbitrale toestemming het veld in kwam, terwijl zijn collega aan de overkant de tijd allang stil had gelegd. Het publiek liet zich niet onberoerd en er vielen harde woorden, waarbij ik het waagde om hem luidkeels “Luinge!” toe te voegen, hetgeen niet als compliment bedoeld was. Enkele anderen gingen verder, te ver volgens mijn vriend, die me daarover later dan ook een bezorgd mailtje stuurde.
+
+Misschien heeft hij gelijk, wie zal het zeggen, maar een feit is wel, dat veel scheidsrechters hun vermeende autoriteit enkel en alleen denken te kunnen ontlenen aan de min of meer toevallige aanwezigheid van die badge op hun shirt. En de allerergste van allemaal is, jawel, Roelof Luinge, die zichzelf zo langzamerhand het hoogste stadium van arbitrale onaantastbaarheid lijkt te hebben toebedeeld. Hij dacht er zelfs mee weg te komen toen hij met een stalen gezicht glashard loog over zijn conflict met Ajax-trainer Danny Blind inzake het al dan niet te vroeg affluiten van de eerste helft tegen Roda JC. Blind zou Luinge met schandelijke scheldwoorden ernstig beledigd hebben, waarvoor hij na rust naar de tribune werd verbannen. Blind pikte dit niet en stapte naar de tuchtcommissie van de KNVB, die hem in het gelijk stelde en daarmee het voorbeeld van de aanklager volgde: er had weliswaar een “heftig dispuut” plaats gevonden, maar beledigend was het niet.
+
+De volgende keer roep ik “Luinge leugenaar!”

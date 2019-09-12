@@ -1,0 +1,10 @@
+---
+title: "IQ-problemen"
+date: "2007-01-23"
+---
+
+Of ik heb meegedaan aan de Nationale IQ Test van BNN? Jazeker, met de papieren op schoot, net als vroeger in de dagen van Ard & Keessie. (Nee, ik ga hier niet uitleggen wie Ard & Keessie waren. Als u dat niet weet, dan heeft u een IQ-probleem.) En nu wilt u natuurlijk ook weten hoe mijn uitslag was. Dat zal ik u zeggen: ik kwam uit op 125, niet slecht, maar het had nog veel meer kunnen zijn als ik bij die dominoserie niet had hoeven te gokken, want daar begreep ik qua vormgeving en vraagstelling dus echt helemaal niks van. “Maak de serie af.” _Welke_ serie? Horizontaal? Verticaal? Diagonaal? Enfin, ik zat in ieder geval wel wat hoger dan Bonnie St. Claire, die tijdens de uitzending sterk de indruk wekte niet geheel nuchter aan de test begonnen te zijn (“Oeps, weer op het verkeerde knopje gedrukt”) en met een totaal van 52 punten aanzienlijk minder scoorde dan de oerang-oetan Sandy, die vorig jaar een IQ van 77 haalde.
+
+Mensen als Bonny St. Claire zouden eigenlijk tegen zichzelf in bescherming moeten worden genomen, hoewel ze natuurlijk ook gewoon “nee” had kunnen lallen in plaats van publiciteitsgeil te lonken naar de kijkcijfers. Andere mensen daarentegen vragen er gewoon om dat ze belachelijk gemaakt worden. Neem nou de vader van dat hopeloos opgefokte Feyenoord-supportertje met die opgeheven middelvinger. U kent die foto vast wel. Zelden zal er zoveel haat, domheid, frustratie en agressie in één persoon te zien zijn geweest. En als dat mijn zoontje zou zijn, dan ging ik heel stil in een hoekje zitten wachten tot het over was, net als Bonnie St. Claire had moeten doen. Maar nee, de vader van dat joch meldt doodleuk aan Vrij Nederland dat een tattoo van die foto binnenkort zijn linkerbovenbeen zal sieren, op de plek waar hij zojuist met behulp van een gelukkig uiterst pijnlijke laserbehandeling het portret van de Grote Kale Leider heeft laten verwijderen. Die heeft dus waarschijnlijk net zo’n IQ als het aantal punten dat Feyenoord dit seizoen in de eredivisie haalt.
+
+Even voor uw beeldvorming: vorig jaar waren dat er 71.

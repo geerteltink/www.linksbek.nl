@@ -1,0 +1,8 @@
+---
+title: "Clubliefde"
+date: "2012-01-24"
+---
+
+NEC-trainer Alex Pastoor die zondag tegen Vitesse met een rood-groene clubsjaal langs de kant stond? Pure nepperij. Elke trainer is per definitie een professionele passant die na zijn carrière een kast vol clubsjaals heeft. Steve McClaren werd op 2 mei 2010 kampioen met FC Twente en meldde zich op 11 mei bij VfL Wolfsburg. Intussen is hij weer terug in de Beugel Bunker en het voelt volgens hem als thuiskomen. Dat zei Rotterdammer Leo Beenhakker ook toen hij bij het Amsterdamse Ajax zijn come back maakte. Maar het kan altijd nog erger: een speler die na een doelpunt met de hand op het hart naar het clublogo op zijn shirt wijst en met de andere hand een kusgebaar maakt. Absolute flauwekul. Als diezelfde speler in de rust een sms'je van zijn zaakwaarnemer krijgt dat een andere club interesse heeft, dan vraagt hij aan de trainer of hij een wissel kan krijgen.
+
+Echte clubliefde zie je alleen bij de amateurs. Ikonen als Guy Roux bij Auxerre en Foppe de Haan bij Heerenveen zijn uitzonderingen. Een enkele profvoetballer heeft er nog last van. Vitesse-keeper Piet Velthuizen is er zo één. Geboren in Nijmegen, maar import-Arnhemmer voor het leven. Een paar jaar geleden koos hij voor het geld en het avontuur met een uitstapje naar Spanje, waar hij zo'n heimwee kreeg naar zijn hond die niet mee mocht dat hij met het beest ging skypen. Nu hij weer terug is in de Gelredome zie je aan alles dat hij daar nooit meer weg wil. Ik had zondag dan ook zeer met hem te doen na die nederlaag tegen NEC, hoewel ik het toch ook weer niet kon laten om snel nog even te google'en naar youtube voor dat hilarische filmpje met René van der Gijp en Jakhals Erik over blaffende schoonmoeders en zeehonden in Alicante.

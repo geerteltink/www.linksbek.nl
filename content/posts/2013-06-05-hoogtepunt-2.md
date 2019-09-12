@@ -1,0 +1,12 @@
+---
+title: "Hoogtepunt"
+date: "2013-06-05"
+---
+
+[![](http://linksbek.nl/wp-content/uploads/2013/06/ehv1-300x229.jpg "EHV mannen naar eerste klasse")](http://linksbek.nl/wp-content/uploads/2013/06/ehv1.jpg)Meer dan dik veertig jaar ben ik al lid van hockeyclub EHV, en toch had ik een zondag als die van 2 juni nog niet meegemaakt. De promotie naar de hoofdklasse in 1994 was weliswaar een super feest, maar daar was ik als supporter "slechts" zijdelings bij betrokken. Nu mocht ik één van de feestvarkens zijn, als manager van het eerste herenelftal dat na twee jaar terugkeerde naar de eerste klasse. En hoe: tegenstander Barneveld werd met een historische monsterscore van 16-0 weggeveegd. Vijftien velddoelpunten, dat is in het hockey met de bepalende strafcorner een unicum. En de ene goal was nog mooier dan de andere. De uitslag was goed voor de tweede plaats, en daarmee was de promotie een feit. Aan de kant werd vuurwerk ontstoken, wat een prachtige foto in de krant opleverde (compliment aan Reinier van Willigen), we maakten een ereronde langs de vele supporters, de badjassen konden aan en er was gratis bier, heel veel gratis bier. En we hebben een voorzitter die "You'll never walk alone" beter dan Lee Towers kan zingen. Ik had het voor de wedstrijd eigenlijk al besloten, maar toen wist ik het zeker: op het hoogtepunt moet je stoppen, beter gaat het niet worden. Mannen van EHV, bedankt voor twee heftige jaren, heel veel succes in de eerste klasse en de volgende promotie maak ik graag weer als supporter mee.
+
+
+
+
+
+Met dank aan SindsNu:

@@ -1,0 +1,10 @@
+---
+title: "Zomergasten (1): Willy Dullens"
+date: "2009-08-03"
+---
+
+Deze en de drie volgende afleveringen van augustus zullen in het teken staan van vier voetballers, die allemaal een bijzonder verhaal hebben. Deze maand is het veertig jaar geleden, dat in het Olympisch Stadion van Amsterdam een benefietwedstrijd werd gespeeld voor Willy Dullens. Ajax ontving Alemannia Aachen voor zestigduizend toeschouwers, alle kaarten waren uitverkocht. Drie jaar eerder, om precies te zijn op 17 april 1966, reed ik als twaalfjarig jochie mee in de Borgward van Oom Gerard Nijhuis (wie kent hem niet?) naar De Kuip in Rotterdam voor de interland van het Nederlands elftal tegen België. Oranje won met 3-1 en debutant Dullens was één van de uitblinkers. Hij speelde toen voor Sittardia en werd dat seizoen, nota bene als eerste divisiespeler, uitgeroepen tot Voetballer van het Jaar. Johan Cruyff, toen al een orakel, vond hem technisch misschien nog wel beter dan zichzelf en hij werd algemeen beschouwd als een speler die qua techniek, inzicht en aanleg de beste van Nederland aller tijden had kunnen worden.
+
+Had kunnen worden, inderdaad, want in de voorbereiding op het seizoen 1966/67 ging het mis. Een zware blessure aan de kniebanden, opgelopen in een oefenwedstrijd tegen Vitesse, werd hem uiteindelijk fataal en eind 1968 werd hij definitief afgekeurd, na meer dan een jaar tevergeefse pogingen tot revalidatie ondernomen te hebben. Wilkes, Rijvers, Lenstra, Cruyff, Keizer, Neeskens: in dat rijtje had de naam Dullens niet misstaan, maar het liep dus heel anders. Het geblokkeerde talent raakte in een diepe depressie, kon jarenlang letterlijk en figuurlijk geen voetbal meer zien en begon met het geld van de benefietwedstrijd een kapperszaak. Ook hier bleef het noodlot hem evenwel achtervolgen: een overbelaste pees in de schouder dwong hem te stoppen. Intussen is hij weer gesignaleerd in de staf van Fortuna Sittard en dat zegt veel over Willy Dullens, die natuurlijk allang bij een grote club in de jeugopleiding had moeten zitten.
+
+Volgende week: Helmut Rahn.

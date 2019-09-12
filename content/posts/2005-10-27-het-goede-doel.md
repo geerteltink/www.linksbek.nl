@@ -1,0 +1,8 @@
+---
+title: "Het goede doel"
+date: "2005-10-27"
+---
+
+Het was herfstvakantie, de Bondertjes gingen een paar dagen naar Callantsoog en op de weg daarnaartoe was het Kopje in Bloemendaal een mooie tussenstop om eens een hockeywedstrijd van Teun de Nooijer en de zijnen te bekijken. Als echte provincialen waren we ruim op tijd aanwezig en een uitgebreide warming up in de vorm van een strandwandeling leek een optie, maar het begon geweldig te hozen en in no-time stond het _waterveld_ geheel onder de plassen. Gelukkig werd het droog en kon er om kwart voor drie gewoon gespeeld worden, maar daarvoor was het al genieten geblazen van de warming-up bij Bloemendaal, met een partijtje tussen twee keer zes pieldozen. In de wedstrijd van hetzelfde laken een pak, met hoogstandjes om van te smullen en prachtige doelpunten die je graag nog eens in de herhaling terug had willen zien.
+
+Intussen hebt u diezelfde Teun de Nooijer en al die andere hockeysterren gisteravond ook kunnen zien schitteren in de benefietwedstrijd voor de slachtoffers van de aardbeving in Pakistan, India en Afghanistan. Natuurlijk, de randverschijnselen hadden allemaal een nogal studentikoos hockeyballengehalte, en Anita Witzier deed met haar bungelende bengels dapper mee, maar het goede doel werd wel bereikt, en dat gold dus niet alleen voor de elf goals die op het veld vielen. Er gloort al met al weer wat meer hoop, daar hoog in de bergen, voor het dappere gezin van moeder Asma en hun tienduizenden lotgenoten, en voor de onbaatzuchtige helden van Artsen Zonder Grenzen. Sport verbroedert en wanneer je daarmee kunt helpen om op één avond het fraaie bedrag van ruim 21 miljoen euro te scoren, dan is de wereld zo slecht nog niet. En dat mag ook wel eens gezegd worden.

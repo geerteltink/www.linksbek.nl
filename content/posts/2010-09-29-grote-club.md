@@ -1,0 +1,8 @@
+---
+title: "Grote club"
+date: "2010-09-29"
+---
+
+Auke Kok wordt algemeen erkend als de sportieve erfgenaam van Nico Scheepmaker, de schrijver van “Cruyff, Hendrikus Johannes, fenomeen” en “Rembrandt heeft nooit gevoetbald”. Kok schreef de twee meesterwerken “1974. Wij waren de besten”  en 1988. Wij hielden van Oranje”. Scheepmaker had wekelijks een column in Vrij Nederland, Kok staat daar sinds kort ook. En vorige week wijdde hij zijn pagina aan FC Twente onder de kop “Rijker en beter, beter en rijker” met als subtitel “Waarom FC Twente het Olympique Lyon van Nederland kan worden. En PSV en Ajax voorlopig niet”. Waarom FC Twente onder achtereenvolgens Fred Rutten, Steve McLaren en Michel Preud'homme de laatste jaren zo goed bezig is dat zelfs de Champions League binnen bereik bleek? Dat ligt volgens Kok toch vooral aan de leiding, die hij vergelijkt met die van Olympique Lyon, waar de trainer immers ook “niet meer dan een van de adviseurs van de clubleiding” is.
+
+Enkele veelzeggende citaten: “Door onder alle omstandigheden rationeel te blijven handelen is Olympique in korte tijd van een provincieclubje uitgegroeid tot een serieuze speler in Europa. Onder leiding van voorzitter Joop Munsterman weet iedereen bij FC Twente waar hij aan toe is. De coaches komen en gaan en Munsterman blijft zitten en gebruikt zijn verstand. Net als in Lyon ontbreekt het in Enschede aan chagrijn dat het vroeger allemaal beter was. Er zijn geen valse sentimenten, geen “tradities” en geen vijfde colonnes. Die oude glorie leidt maar af van waar het Munsterman & co om te doen is: steeds beter en rijker worden, en rijker en beter”. Dat zal allemaal wel. Maar wat is het Noorse woord voor klote-scheidsrechter?

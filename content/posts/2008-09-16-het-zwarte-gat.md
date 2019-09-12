@@ -1,0 +1,8 @@
+---
+title: "Het zwarte gat"
+date: "2008-09-16"
+---
+
+Opmerkelijke gast bij Pauw & Witteman maandagavond: Nerena Boogerd, de vrouw van Michael. Tenminste, nog wel, want voorlopig zijn ze even uit elkaar. Normaliter gebruik ik dit soort kleffe privé informatie niet voor mijn columns, maar in dit geval is het helaas redelijk essentieel. Mevrouw Boogerd verkeert namelijk in grote geestelijke nood sinds haar man gestopt is met wielrennen. Sterker nog: ze beklaagde zich er zelfs over dat er geen “instantie” was waar ze terecht kon. Om kort te gaan: het zwarte gat. Nu heb ik ooit eens gelezen wat een beetje beroepsrenner verdient en dat is veel, heel veel. In ieder geval ruim voldoende om veel, heel veel professionele hulpverlening in te schakelen. En dus ook om je vrouw, al dan niet tijdelijk ex, te behoeden voor dit soort onzin.
+
+Geen misverstand: ik vond Michael Boogerd een absolute klasbak. Altijd in de aanval, nooit verstoppen. Wat mij betreft geen enkel probleem dat hij zich naar de status van miljonair fietste. Maar juist daarom had hij dit niet moeten toestaan. Je gaat niet, en zeker niet bij Pauw & Witteman, zitten piepen als je je man, die vroeger altijd wekenlang weg was, nu ineens de hele dag om je heen hebt. Je zou er bijna wat van gaan denken. En dus heb ik eigenlijk liever dat Michael Boogerd gewoon weer gaat fietsen. Dat zou voor iedereen beter zijn. Ook voor de wielersport, want wie zit er nou te wachten op een come back van Lance Armstrong? Krijgen we weer zo’n doodsaaie, voorgeprogrammeerde Tour de France. Nee mevrouw Boogerd, dat zou pas echt een zwart gat zijn.

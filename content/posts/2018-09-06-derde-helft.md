@@ -1,0 +1,14 @@
+---
+title: "Derde helft"
+date: "2018-09-06"
+---
+
+De 1-0 van Feyenoord tegen NAC was een perfect voorbeeld van de ongekende mogelijkheden die de self-pass biedt. Met deze regel, die uit het hockey afkomstig is en daar als zeer positief wordt ervaren, gaat de KNHB binnenkort experimenteren in een aparte competitie voor reserveploegen van amateurteams, de zogeheten Future Rules Football League. Behalve de self-pass zullen ook de intrap of de indribbel en tijdstraffen bij gele en rode kaarten worden uitgeprobeerd. Even voor uw beeldvorming van de self-pass, als u het niet gezien heeft: Feyenoord krijgt in de 24ste minuut een vrije trap vlak voor het strafschopgebied van NAC, Jerry St. Juste speelt de bal direct na het fluitsignaal op Steven Berghuis, die vrije doorgang heeft en Robin van Persie een niet te missen kans biedt.
+
+De self-pass is slechts één van de vele innovaties die de laatste jaren in de hockeysport zijn ingevoerd. Onder leiding van Maurits Hendriks, chef de mission van het NOC, maar in een vorig leven hockeykeeper bij DKS, wordt er regelmatig gebrainstormd over nieuwe spelregels om het allemaal nog sneller, aantrekkelijker en opwindender te maken. Het buitenspel is er al heel lang af, we hebben het ongeveer twee weken gemist toen we er alweer aan gewend waren en intussen weten we niet beter meer. Tijdstraffen, onbeperkt wisselen, de bal laten liggen als er gefloten is, respect voor elkaar, alleen de aanvoerder mag bij de scheidsrechter protesteren: het zijn de (on)geschreven regels die het hockey zoveel leuker maken. Zondag begint het seizoen weer en ik kan me daar zeer op verheugen. Gelukkig is er één regel niet veranderd, en dat is de derde helft.
+
+
+
+
+
+Met dank aan Purchase Pool.

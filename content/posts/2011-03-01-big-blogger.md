@@ -1,0 +1,8 @@
+---
+title: "Big Blogger"
+date: "2011-03-01"
+---
+
+Bert Wagendorp was zes jaar sportverslaggever voor De Volkskrant. Dat hij daar heeft leren schrijven, kunnen we gelukkig elke dinsdag, donderdag en zaterdag nog steeds lezen in zijn column. Die van vorige week donderdag was weer fenomenaal, over het beleid van minister Gerd Leers: immigranten zijn alleen welkom als ze kunnen aantonen dat ze zijn vermoord of verkracht, “liefst vermoord, vanwege de beperkte opvangcapaciteit, mits voorzien van een geldig paspoort, bewijs van foltering en geldige getuigenverklaringen”. Waarschijnlijk zal het hele verhaal binnenkort in het digitale archief van De Volkskrant te lezen zijn, en dat kan ik u van harte aanraden, maar Wagendorp zelf is al een paar jaar geleden gestopt met bloggen (= je column op internet plaatsen) omdat hij naar eigen zeggen “genoeg vuiligheid van halve garen over zich heen had gehad”.
+
+Deze week wordt er gestemd voor de Provinciale Staten en het gaat over alles, behalve over de Provinciale Staten. Henk Bleker, nog een graadje CDA-treuriger dan Gerd Leers, moet excuus maken aan de partij van brievenbuspiesers, die vrouwen met hoofddoekjes uit bussen wil sleuren, linkse hobby's van elitaire subsidieslurpers wil afpakken en de bouw van nieuwe moskeeën wil verbieden, maar Geert Wilders vindt reclamespotjes waarin zijn eigen woorden letterlijk door kinderen worden uitgesproken “walgelijk” en “schandelijk”. Tuurlijk. Over smaak valt nu eenmaal te twisten, maar de waarheid kan hier en daar flink schuren. En dat horen sommigen liever niet terug in dit doodsbenauwde land waar je door opgefokte idioten via de digitale haatstraat met de dood bedreigd kunt worden vanwege een slechte cartoon die je niet gemaakt hebt. Big Blogger is watching you!

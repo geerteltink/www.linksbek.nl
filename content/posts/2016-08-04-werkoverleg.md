@@ -1,0 +1,6 @@
+---
+title: "Werkoverleg"
+date: "2016-08-04"
+---
+
+'Mogge mannen, welkom bij dit werkoverleg voor de wedstrijd om de Johan Fruit Schaal. Zei ik nou Johan Fruit Schaal? Nou ja, jullie snappen wel wat ik bedoel. Ik open de agenda met de notulen van de vorige vergadering. Iemand daar iets aan op te merken of toe te voegen? Iedereen eens met het project jodenjacht? Allemaal even die middelvinger omhoog, ja? Oké, dan geven we daar een klap op. Dan nu punt twee: de sfeeractie aan het begin van de wedstrijd. Het is in 020 en we weten allemaal natuurlijk nog goed hoe die tyfuslijders met hun teringvuurwerk de heilige grasmat van onze Kuip voor de bekerfinale tegen PEC bestookt hebben. En nu kan er in die achterlijke ballenbak van de Arena natuurlijk weinig aan dat veld vernield worden, maar dat neemt niet weg dat we wel wat van ons moeten laten horen. Zullen we die brabokaffers uit Eindhoven eens laten zien wie er de baas is. Dus is de vraag: wie kan er aan een paar leuke strijkers en een setje mooie vuurpijlen komen? De controle stelt geen reet voor daar, per slot van rekening kregen die galbakken die kutpop van Vermeer ook zonder problemen het stadion binnen. Mooi, dan kunnen we nu aan het bier. Of had iemand nog iets voor de rondvraag?' Het voetbalseizoen is begonnen en voorlopig hebben de zogenaamde supporters meer vuurwerk in huis dan de spelers.

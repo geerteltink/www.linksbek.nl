@@ -1,0 +1,8 @@
+---
+title: "Beker-wedstrijd"
+date: "2014-09-04"
+---
+
+Via de baas konden mijn dochter en ik gratis naar de wedstrijd van FC Twente tegen Qarabagh. We gingen met de trein, wat voor haar met de OV-chipkaart een routineklus is, maar voor mij met een gewoon retourtje toch wel spannend was, met al die tolpoortjes. Alles ging goed verder, totdat ik met een biertje in een plastic beker het stadion wilde binnengaan. Een vriendelijke steward hield me tegen en zei dat dat niet mocht, bier in het stadion, want het was een Europese wedstrijd. Hij kon me niet goed uitleggen wat het verschil tussen een normale en een Europese wedstrijd was, maar het mocht niet. Geen probleem, de man deed ook maar gewoon zijn werk en ik dronk de beker leeg, zodat ik wel naar binnen mocht.
+
+De wedstrijd stond op het punt van beginnen, toen op de rij voor ons twee jongens gingen zitten met allebei een beker bier. Mijn dochter en ik keken elkaar glazig aan en de verbazing werd nog groter toen meer bierdrinkers er gezellig bij kwamen zitten. In de rust meldde ik me bij twee vrouwelijke stewards (stewardessen?) van wie ik er een herkende als enthousiaste hockeymoeder. Zij wisten nergens van en ik mocht met een grote plastic beker gewoon naar binnen. De wedstrijd werd er trouwens niet beter van, integendeel, en na afloop kwamen we in de lift Martin Peters tegen, het statistische geweten van FC Twente. Ik zal niet herhalen wat hij zei, maar echt vrolijk klonk het niet. En mijn humeur werd er niet beter op toen ik in de trein een meisje naast me tegen haar vriendinnen hoorde zeggen: "Zo'n snor had mijn opa ook". De volgende keer ga ik fietsen.

@@ -1,0 +1,8 @@
+---
+title: "Mediapartner"
+date: "2010-08-31"
+---
+
+Vorige week maakte ik me boos over de Mokumse capsones van sommige godenzonen. Middenvelder Demy de Zeeuw: “De Europa League is Ajax onwaardig”. Trainer Martin Jol: “Ajax is nog altijd een van de vier, vijf grootste clubs van Europa”. Intussen heb ik nog een opmerkelijke uitspraak voor u genoteerd, en wel uit de mond van commercieel directeur Henri van der Aat in de Adformatie van vorige week: “Vaak hebben we het over een merk, maar Ajax is meer een begrip”, onder de kop “Als je wint, heb je vrienden”. Opnieuw een bewijs voor het gelijk van mijn stelling dat Ajax al die miljoenen van de Champions League misschien beter kan besteden aan het aanstellen van een verstandige mediatrainer om wat meer nuance in de externe communicatie aan te brengen en dit soort Van Gaal-gebral te voorkomen.
+
+Een mediapartner hebben ze al en dat is de koploper van onze publieke omroep, de NOS. Studio Sport begon vorige week het item over de loting voor de Champions League met een overzicht van de groep die Ajax had geloot. Hoezo nummer twee? Volgens mij geef je in zulke situaties voorrang aan de nummer één, de landskampioen, en dat is toch echt FC Twente uit Enschede en helaas voor Hilversum en omstreken niet Ajax uit Amsterdam. Ander voorbeeld: Schwalbe-koning Suarez maakte zondag vroeg in de wedstrijd tegen De Graafschap een gemene overtreding. De smeerlap ging gewoon opzettelijk met zijn volle gewicht op de enkel van zijn tegenstander staan. De scheidsrechter keek natuurlijk toevallig weer eens de andere kant op en 's avonds bij Studio Sport zat de scène niet eens in de samenvatting. Dat mag, op Ajax TV, maar bij Studio Sport van de NOS is het een bewuste vorm van vooropgezette volksverlakkerij.

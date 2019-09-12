@@ -1,0 +1,10 @@
+---
+title: "Almelo-Amsterdam: 1-0"
+date: "2005-08-10"
+---
+
+Echt waar, zelf gehoord op Radio Eén: een woordvoerster van een nieuwe omroep had contact met “een reclamebureau die een campagne aan het bedenken zijn”. Drie fouten in negen woorden: misschien moet deze PR-dame eerst maar eens contact opnemen met een erkend opleidingsinstituut voor een cursus Nederlands. Dan kan ze plaats nemen naast profwielrenner Stefan van Dijk, die in de Eneco Tour de etappe tussen Sint Truiden en Hoogstraten won, naar eigen zeggen ondanks “tegenwind tegen”. Dat kan nog wat worden als hij in een volgende etappe meewind mee krijgt, dan is er voor het achtervolgende peloton helemaal geen houden meer aan. En dan heb je ook nog mensen, die anderen de wind van voren geven.
+
+Neem nou Job Cohen, veelgeplaagd burgemeester van Amsterdam, waar deze maand met Sail, Gay Pride en Uit Markt maar liefst drie (!) grote evenementen plaats vinden. Dat vraagt, met zoveel bezoekers, zeker in deze bange tijden van het dreigende terrorisme, om een inzet van honderden politiemensen. En dan kan een thuiswedstrijd van Ajax tegen ADO Den Haag er natuurlijk niet meer bij, dat moet de voetbalwereld toch begrijpen? Stel je voor, zeg: vier grote evenementen in één maand, dat is voor een wereldstad toch niet te behappen?
+
+Nee, meneer Cohen, daar snapt deze eenvoudige bewoner van de voetbalwereld dus geen bal van. En ja, meneer Cohen, een beetje wereldstad moet in één maand met gemak vier grote evenementen aankunnen, misschien wel vijf. Neemt u in dit verband maar eens een voorbeeld aan uw collega Menno Knip te Almelo. Er is de laatste tijd, wellicht niet geheel ten onrechte, enigszins lacherig gesmoesd om diens wat angsthazige acties rondom het vervoer van de PSV-supporters naar zijn stad. Maar hij heeft deze week ook nog eens te maken met de Almelose Vlootdagen, zeg maar de Twentse versie van Sail. En toch gaat die thuiswedstrijd zaterdag tegen de landskampioen gewoon door. Kijk, dat is lef. Dat is beleid. Al ben ik wél bang, dat ze die dus _niet_ gaan winnen.

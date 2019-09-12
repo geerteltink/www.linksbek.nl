@@ -1,0 +1,8 @@
+---
+title: "Onrealis-ties"
+date: "2010-03-09"
+---
+
+De hockeysport staat bij de outsiders vooral bekend als het wereldje van de dubbele voornamen en de dubbele beglazing. Het wemelt er van de Floris-Jans en de Anne-Fleurs, terwijl het in de derde helft aan de bar nog lang onrustig blijft. Ik kan u als ervaringsdeskundige bij een hockeyclub verzekeren dat het allemaal waar is, en wat mij betreft vooral ook zo dient te blijven, maar sinds kort is hockey ook de sport van de dubbele pet. En daarmee doel ik niet op de onvermijdelijke officials die zichzelf en elkaar vanuit hun comfortabele bolwerk allerlei gerieflijke erebaantjes toeschuiven. Dat is van alle tijden en heus niet alleen typisch des hockeys. Bovendien: je moet het maar leuk vinden om vrijwel elke avond bezet te zijn.
+
+Nee, ik bedoel de dubbele functie van Ties Kruize tijdens het WK hockey in New Dehli. Het voormalige strafcornerkanon is tegenwoordiger bondsbestuurder, waarvoor hij met zoveel praktijkervaring natuurlijk de ideale figuur is. Maar nu doet zich het merkwaardige feit voor dat hij bij dit toernooi ook als manager van het Nederlands elftal fungeert. Moet u zich dus eens voorstellen: Henk Kesler gaat straks mee naar Zuid-Afrika, als KNVB-directeur en als manager van Oranje, waar bondscoach Bert van Marwijk zijn werknemer is. Een onmogelijke combinatie die in elke andere sport ondenkbaar zou zijn, laat staan geduld zou worden, maar in het hockey kan het kennelijk. Want, zo zegt Kruize in de Volkskrant van dinsdag 9 maart: “Ik ben bij het WK manager en geen bestuurder. Die functie pak ik weer op na dit toernooi.” Oké. Dus als manager is hij loyaal aan zijn bondscoach, die hij na het WK als bestuurder weer net zo makkelijk kan laten vallen. En dat vind ik niet echt fantas-ties.

@@ -1,0 +1,12 @@
+---
+title: "Bierproeverij"
+date: "2018-03-15"
+---
+
+Bierbrouwer Jupiler organiseert op maandag 7 mei een gratis proeverij voor alle fans, volgers en medewerkers van FC Twente. Een woordvoerder van het bedrijf omschijft de bijzondere doelstelling van dit opmerkelijke initiatief als volgt: ‘Met deze één-op-één productconfrontatie willen we alle betrokkenen helpen bij het gewenningsproces en de rouwverwerking. Het is onze ervaring dat heftige gebeurtenissen beter hanteerbaar zijn als deze collectief kunnen worden gedeeld, met de gezamenlijke emotie als drijfveer en de menselijke component als gunfactor. Bovendien willen we hiermee iedereen de gelegenheid bieden om begrijpelijke gevoelens van frustratie, woede en verdriet om te zetten in een positieve ervaring van een actief en avontuurlijk evenement met een zinvolle impact, die zo kenmerkend is voor de wij-maatschappij van een moderne betaald voetbalorganisatie in de traditionele samenleving. Jupiler ziet het als een essentieel onderdeel van zijn mission statement om de sociale verantwoordelijkheid te nemen voor de ontwikkeling van een brede waaier aan betekenisvolle activiteiten, die niet alleen het bedrijf zelf, maar ook onze medewerkers, consumenten, aandeelhouders en gemeenschappen ten goede komen. Tenslotte willen we onze grote waardering uitspreken vanwege het feit dat het management van FC Twente voor deze avond de accommodatie van de Grolsch Veste gratis beschikbaar heeft gesteld en dat KNVB-voorzitter Jan Smit gehoor heeft gegeven aan onze uitnodiging om als ceremoniemeester te fungeren.’
+
+
+
+
+
+Met dank aan Purchase Pool.

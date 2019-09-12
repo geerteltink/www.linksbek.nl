@@ -1,0 +1,10 @@
+---
+title: "FC Twentski"
+date: "2003-12-03"
+---
+
+Pim Fortuyn wordt door één op de twintig mensen (5% van de totale bevolking) gezien als de belangrijkste Nederlander uit de geschiedenis en hij staat daarmee op de derde plaats, achter Willem van Oranje en Willem Drees. Pim Fortuyn: dat was toch die zogenaamde professor, die columns schreef waarin hij elke week van mening veranderde en die stukjes werden dan gebundeld tot een boek, dat we allemaal moesten lezen, want dat was zijn gedachtengoed? Mag ik ook even? Er verschijnt binnenkort een bundeling van mijn columns, ik verander niet elke week van mening en ik heb het toch ook niet over mijn gedachtengoed? Wat is er in hemelsnaam aan de hand met dit land?
+
+Herman Wessels komt niet op de lijst voor en zal evenmin de geschiedenis ingaan als belangrijke Nederlander, hooguit als belangrijke Rijssenaar, en daar moest het eigenlijk ook maar bij blijven. Per slot van rekening heeft FC Twente onder zijn leiding in financieel opzicht een vrije val gemaakt, die de club bijna fataal is geworden en nu nog steeds merkbaar is. Johan Plageman kan als commissaris technische zaken in feite geen kant op en zal opnieuw al zijn creativiteit moeten uitspelen om voor volgend seizoen een aanvaardbare selectie uit de lege hoed te toveren.
+
+Herman Wessels wordt als voorzitter per 1 januari 2004 opgevolgd door Joop Munsterman, die bij het Wegener-concern verantwoordelijk is voor de uitgave van 300 (!) huis-aan-huis-bladen. Nooit geweten dat er zoveel huis-aan-huis-bladen waren, geen idee hoeveel bomen daarvoor het loodje hebben moeten leggen, en ook niks tegen Joop Munsterman, maar FC Twente heeft misschien wel een verkeerde keuze gemaakt. Ze hadden gewoon zo’n rijke Rus moeten strikken, net als ze bij Chelsea gedaan hebben. Sinds de olietycoon Roman Abramovitsj de club heeft gekocht, en er in een paar maanden ruim 111 miljoen euro tegenaan heeft gegooid, staat “Chelski” bovenaan in de Premier League. Het is bijna 5 december, dus het kan nog: een Russische Sinterklaas op het verlanglijstje van “FC Twentski”. Dan kan de Zwarte Piet naar Herman Wessels.

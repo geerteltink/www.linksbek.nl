@@ -1,0 +1,10 @@
+---
+title: "De teammanager"
+date: "2004-06-05"
+---
+
+Als een elftal van onze hockeyclub voor een belangrijke wedstrijd staat, en als we daarbij ook nog eens afhankelijk zijn van het resultaat van een andere wedstrijd, die tegelijkertijd gespeeld wordt, dan laten we niets aan het toeval over. Dan vragen we iemand, die we kennen en die we vertrouwen, om bij die andere wedstrijd te gaan kijken en om zijn mobieltje mee te nemen, zodat we hem à la minute kunnen bellen en dus voortdurend op de hoogte zijn. We willen graag zeker weten, waar we aan toe zijn. Elke vereniging kent immers wel één of andere grappenmaker, die het leuk vindt om mensen op het verkeerde been te zetten door een omgekeerde tussenstand of einduitslag door te geven.
+
+Het verhaal is bekend: Heracles Almelo dacht donderdag in Volendam een paar minuten voor tijd, dat Excelsior met 3-2 voor stond en dat promotie naar de eredivisie daardoor dus nog slechts een kwestie van tijd zou zijn. Teammanager G. van Lenthe had deze informatie van Radio Almelo en op basis daarvan had trainer Verbeek besloten met een “controleur” verder te gaan spelen. Het liep dus anders, maar ook dat is bekend. Het gaat nu vooral even om de logische consequenties voor de direct betrokkenen, want dit kan natuurlijk niet onbestraft blijven. Mijn voorstel: Radio Almelo moet onmiddellijk uit de lucht gehaald en teammanager G. van Lenthe op staande voet ontslagen worden. Sukkels!
+
+Informatie, daar draait het om, op elk niveau. Dan zal het dus ook niet weer gebeuren, dat Heracles Almelo tijdens de nacompetitie van het seizoen 2004/2005 de vrijwel zekere promotie misloopt, omdat het in de laatste uitwedstrijd tegen het reeds gedegradeerde Vitesse niet verder komt dan een gelijkspel, mede vanwege het feit dat trainer Bosz zijn tactiek afstemt op verkeerde informatie over de tussenstand bij Volendam-Excelsior, die hij krijgt via de opvolger van teammanager G. van Lenthe, die het op zijn beurt weer heeft gehoord van “een zekere Verbeek” in Volendam.

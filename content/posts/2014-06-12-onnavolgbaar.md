@@ -1,0 +1,8 @@
+---
+title: "Onnavolgbaar"
+date: "2014-06-12"
+---
+
+Een van de hoogtepunten tijdens het WK hockey in Den Haag was voor mij toch wel de analyse van Johan Cruyff na de dameswedstrijd Australië-Nederland. Er was, zoals gebruikelijk weer, echt waar geen touw aan vast te knopen, maar dat maakte het juist zo fascinerend en zo eh..., logisch dus. Het ging ook helemaal niet over hockey, maar over voetbal. "Het grote probleem van voetbal is dat je alles met je voeten moet doen, dus de mogelijkheid tot fouten is vele malen groter". Over de self pass en de video umpire: "Vaak hebben ze het er bij voetbal ook over om dingen te gebeuren". En het geheim van zo'n toernooi? "Dat als je gisteren goed gespeeld hebt je dat vandaag weer moet doen". Heerlijk, ik hou van die man. Geniaal aan de bal, onnavolgbaar met woorden.
+
+Onnavolgbaar is ook de beslissing van de Argentijnse hockeybond om voor zowel het dames- als het herenteam één en dezelfde bondscoach aan te stellen. Carlos Retegui, zo heet hij, nam de uitdaging aan - en met succes, want niet alleen maakten de Argentijnse vrouwen hun favorietenrol waar, ook de mannen plaatsten zich voor de halve finale en dat is een geweldige sensatie. "Dit is het mooiste moment in de geschiedenis van het Argentijnse mannenhockey. Ik heb een passie voor de sport en het coachen van beide teams is dan ook alleen maar leuk. Of ik moe ben? Nee. Ik rust wel als ik dood ben. Iedereen die verklaart dat dit niet te doen is, wil ik bedanken. Ik krijg er alleen maar meer energie en kracht van." Vanavond speelt hij met de dames tegen Nederland, morgen met de heren tegen Australië. Zou iemand hem al verteld hebben dat als je gisteren goed gespeeld hebt je dat vandaag weer moet doen?

@@ -1,0 +1,8 @@
+---
+title: "Armoe troef"
+date: "2009-01-14"
+---
+
+Dus u dacht dat AZ-directeur Dirk Scheringa met zijn kleine vierhonderd miljoen wel een aardig potje kon breken? Mwah. De man heeft in een jaar ruim zestig procent van zijn vermogen moeten aftikken en zakte in de Quote 500 van plaats eenendertig naar nog maar net onder de honderd. Dirk voelt het weliswaar niet zo erg in zijn portemonnee als de berooide stumperds die hij liet bloeden voor zijn misdadige woekerrentes, maar vergeleken met zijn Engelse collega’s is hij maar een armzalige sloeber. Zo bezit Sheikh Mansour bin Zayed al Nahyan, de baas van Manchester City, maar liefst vijftien miljard pond. De nummers drie en tien op de lijst van Engelands rijkste voetbalbobo’s, respectievelijk Roman Abramovich van Chlesea (zeven miljard) en Malcom Glazer van Manchester United (ruim één miljard), moesten zondagmiddag om vijf uur op Old Trafford tegen elkaar in een wedstrijd voor de Premier League.
+
+Sport1 zond het duel rechtstreeks uit en daar ging Bonder graag even goed voor zitten. Ik bedoel: waar en wanneer zie je zoveel sterren (Van der Sar, Giggs, Ronaldo, Park, Rooney, Berbatov, Ballack, Drogba, Terry, Lampard, Deco, Anelka – to name a few) op één voetbalveld bij elkaar? Helaas, mijn huisgenoten hebben me na de eerste helft wakker moeten maken om naar beneden te komen voor het avondmaal. Na rust werd het iets beter, vooral door toedoen van Ronaldo, die overigens twee dagen eerder zijn Ferrari total loss had gereden en vervolgens door de achter hem rijdende Van der Sar in diens Bentley naar de training werd gebracht. Toch knap van zo’n jongen om dan wel gewoon de kop d’r bij te houden als je eerst je Ferrari verliest en daarna nota bene met een Bentley verder moet. Armoe troef daar in Manchester.

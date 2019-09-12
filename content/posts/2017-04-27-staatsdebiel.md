@@ -1,0 +1,6 @@
+---
+title: "Staatsdebiel"
+date: "2017-04-27"
+---
+
+Mijn schoonfamilie in het Gelderse Winssen zal dit niet leuk vinden, maar ik hoop toch echt van ganser harte dat NEC degradeert. Niet omdat ik iets tegen die club heb, ik zou tenminste niet weten wat of waarom, maar voor de zogenaamde supporters zou het de verdiende loon zijn vanwege ordinair wangedrag en serieus onfatsoen. Ik zeg 'zogenaamde' want dit zijn gewoon raddraaiers die geen ander vertier kennen dan met dom geweld een kleedkamer binnendringen en voor de ingang van het stadion een beetje staan schreeuwen en brallen. Niet de spelers en de trainer, maar zij helpen de club naar de kloten en zouden dringend moeten gaan doen wat ze anderen luidkeels adviseren: 'schaam je kapot'. En wat doet het dappere bestuur in Nijmegen? Dat laat de trainer het vuile werk doen om met dat derderangs geteisem in discussie te gaan en de kastanjes uit het vuur te halen. Terwijl het toch niet aan de trainer ligt dat hij is opgezadeld met een tweedehands vreemdelingenlegioen dat er geen bal van kan. Medeverantwoordelijk daarvoor is NEC-directeur Bart van Ingen, die het ontslag van trainer Peter Hyballa voor de media mocht presenteren en in een vorig leven zijn geld verdiende als adviseur van organisaties in   Met dank aan Purchase Pool.

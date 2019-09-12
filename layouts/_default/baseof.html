@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="web_author" content="Geert Eltink, https://www.xtreamwayz.com/" />
+    <meta name="google-site-verification" content="7gP8g5uBzP8KchB3lT4huxo0tlH-_m9fyiJ9Zb7h1uE" />
+    {{ with .GitInfo }}<meta name="revision" content="{{ .Hash }}" />{{ end }}
+    <meta name="dcterms.created" content="{{ .Date }}" />
+    <meta name="dcterms.modified" content="{{ .Lastmod }}" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="{{ .Permalink }}">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds 31 januari 2002 ook online.">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}/img/logo-linksbek.gif">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}/img/logo-linksbek.gif">
+    <meta property="og:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds 31 januari 2002 ook online.">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="article:author" content="Peter Bonder">
+    <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}" />
+    {{ $styles := resources.Get "style/main.scss" | toCSS | resources.PostCSS | resources.Minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen" />
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+</head>
+
+<body class="app">
+    <header class="app-header navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="container">
+            <a class="navbar-brand" href="{{ "/" | relURL }}" title="{{ .Site.Title }}">
+                <img src="{{ .Site.BaseURL }}/img/logo-linksbek.gif" class="img-fluid" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    {{ range .Site.Menus.main }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .URL }}">{{- .Name -}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    {{ block "main" . }}{{ end }}
+
+    <footer class="app-footer bg-dark text-light p-5">
+        <div class="d-flex container">
+            <div class="mr-auto">
+                Copyright © 2002-{{ now.Year }} Peter Bonder
+            </div>
+            <div>
+                Maintained by <a class="text-muted" href="https://xtreamwayz.com/">@xtreamwayz</a>
+            </div>
+        </div>
+        {{ block "footer" . }}
+        <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+        {{ end }}
+    </footer>
+
+    {{ $jquery := resources.Get "js/jquery.slim.js" }}
+    {{ $bootstrap := resources.Get "js/bootstrap.bundle.js" }}
+    {{ $js := slice $jquery $bootstrap | resources.Concat "js/bundle.js" | resources.Minify | fingerprint }}
+    <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+</body>
+
+</html>

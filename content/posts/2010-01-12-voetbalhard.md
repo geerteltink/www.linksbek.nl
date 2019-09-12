@@ -1,0 +1,8 @@
+---
+title: "Voetbalhard"
+date: "2010-01-12"
+---
+
+Profvoetballer, wie wil dat nou niet zijn? Van je hobby je beroep kunnen maken en daar nog veel geld mee verdienen ook. Elke dag lekker buiten spelen, af en toe een rondo ‘tje en dan weer naar binnen voor een professionele massage. Elke week een wedstrijd voor volle stadions, na afloop een duik in het bubbelbad, snel even een praatje met de pers, de volgende dag een ontspannen uitlooptraining en je kunt er weer een week tegen. Of toch niet? Jaap Molenaar, reservespeler van FC Volendam, vond het maar niks. Hij verveelde zich stierlijk en werd er ook niet moe van, maar doodongelukkig. ’s Middags met een dvd-tje op de bank? Tien uur per dag sappelen in de bouw, dat was pas leven. En dus vroeg hij om ontbinding van zijn contract, zodat hij weer vijf dagen per week om half zes ’s morgens met de jongens op stap kon. En ’s zondags lekker kicken voor de lol.
+
+Profvoetballer, hoezo zwaar beroep? Vraag het maar eens aan Sebastian Deisler. Die is kennelijk uit een ander hout gesneden, want de Bayern-speler die ooit als een van Duitsland grootste voetbaltalenten gold, heeft de kicksen definitief aan de wilgen gehangen. Niet alleen vanwege aanhoudend fysiek ongemak, maar vooral ook door de psychische druk die als een molensteen om zijn nek was gaan hangen. Hij kon er niet meer van genieten en was er helemaal klaar mee. Dan maar geen luxe leven tegen het decor van de glitter en de glamour. Dat mag dan soft zijn in de macho voetbalwereld, maar na de zelfmoord van zijn collega Robert Enke is het weer een alarmerend signaal dat er in die jungle iets niet klopt. Een hart, bijvoorbeeld, voor het pure voetbal zonder geld en zaakwaarnemers.

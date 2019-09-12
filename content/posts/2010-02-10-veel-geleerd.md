@@ -1,0 +1,8 @@
+---
+title: "Veel geleerd"
+date: "2010-02-10"
+---
+
+“Ik heb vandaag veel van mijn elftal geleerd.” Eerlijk gezegd vond ik deze reactie van Steve McLaren na de afgang van FC Twente tegen Ajax nog het meest ergerlijke van deze in veel opzichten verloren voetbalmiddag. Natuurlijk, die nederlaag moest er een keer aankomen en je kunt ook veel beter één wedstrijd met 3-0 verliezen dan driemaal met 1-0, maar toch. Een trainer die na zo’n ontluisterende ervaring zegt dat hij veel van zijn elftal geleerd heeft: volgens mij moet het juist andersom zijn. Dat een elftal dus veel van zijn trainer leert. En daar leek het zondag niet echt op. Als je bijvoorbeeld nu nog niet door hebt dat zo’n Miroslav Stoch hopeloos vast loopt als hij gedwongen wordt om vooral veel mee te verdedigen, dan heb je de laatste weken niet goed opgelet. Laat staan veel geleerd.
+
+Waar ze ook nog veel moeten leren, en ook goed moeten opletten, is bij de KNVB. Natuurlijk is het prachtig dat ze het WK van 2018 of 2022 naar Nederland (en België) willen halen. Geweldig idee ook om Ruud Gullit als het boegbeeld van de campagne naar voren te schuiven (zolang hij maar niet over “sexy voetbal” begint te leuteren wat hem bij Chelsea terecht en voorgoed de das heeft omgedaan). Heel mooi dat Johan Cruyff eveneens van harte meedoet, net als Marco van Basten, Dennis Bergkamp, Edwin van der Sar en Clarence Seedorf, van wie de laatste twee wat mij betreft overigens eerst nog even mee moeten naar het WK van 2010 in Zuid-Afrika. Maar ik mis iemand in dit rijtje. U ook? Onvergeeflijke blunder van de KNVB dat ze Joop Munsterman niet gevraagd hebben.

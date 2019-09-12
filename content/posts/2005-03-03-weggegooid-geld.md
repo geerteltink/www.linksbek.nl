@@ -1,0 +1,10 @@
+---
+title: "Weggegooid geld"
+date: "2005-03-03"
+---
+
+Een bekende reclameman heeft eens gezegd, dat de helft van het reclamebudget weggegooid geld is, maar dat je helaas nooit zult weten om welke helft het gaat. Misschien kunnen we hem deels uit de droom helpen, nu uit onderzoek van een Brits marketingbureau is gebleken, dat reclameborden bij sportwedstrijden door slechts drie van de honderd tv-kijkers worden opgemerkt. Zo had Coca-Cola in Amerika tijdens de Indy 500, ’s werelds grootste autorace, een banner van 2.100 vierkante meter in het midden van het stadion geplaatst. Na afloop bleek slechts één procent van de toeschouwers de vlag gezien te hebben. Sterker nog: als er tijdens een evenement zes of meer merken te zien, dan wordt er zelfs helemaal niets onthouden. De telecom-cowboys van Telfort laten zich hierdoor desondanks niet ontmoedigen en blijven gewoon de schaatssport met boarding sponsoren, want aldus de woordvoerder: “Schaatsen is typisch Hollands, een sport voor nuchtere mensen, direct en sympathiek. Onze klanten reageren positief op schaatsacties.”
+
+Da’s mooi voor Telfort, maar zouden hun klanten ook positief reageren op de begeleidende teksten van Henk Gemser? Luistert u maar even een rondje mee (met bijzondere dank aan Henk Spaan, die zo vriendelijk was om speciaal voor zijn rubriek in Onze Taal de video te laten meelopen): “Waar ik bijna van overstroomde is dus de beelden die daarna waren dat dus zo’n Tom Prinsen zo’n verschrikkelijk sportman volwassen gedrag heeft naar zo’n Jochem toen om Jochem niet op te zadelen dus met die situatie en hem niet te belasten en hem dus helemaal vrij de competitie van morgen aan te laten gaan door hem nog even een klap, een zacht tikje op zijn kop te geven en nog even met hem in gesprek te komen, dat maakt dus het klimaat binnen zo’n groep heel erg veel aangenamer dan wanneer je op een gegeven moment waar Tom Prinsen het niet eens verwijtend naar zijn omgeving mogelijk dus mopperend en mogelijk vloekend en een beetje schoppend op een gegeven moment het ijs zou verlaten.”
+
+Meegelezen? En? Tussen de regels door nog enige kans gezien om een reclamebord op te merken?

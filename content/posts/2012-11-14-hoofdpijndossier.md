@@ -1,0 +1,8 @@
+---
+title: "Hoofdpijndossier"
+date: "2012-11-14"
+---
+
+Dus u denkt dat kickboksen een gevaarlijke sport is? Met de woeste acties van Badr Hari buiten de piste, het gala in Hoorn dat vorig jaar op een massale matpartij uitliep en de dodelijke schietpartij in Zijtaart op uw netvlies zou dat helemaal geen verkeerd idee zijn. Toch zit u er naast, en flink ook, want de schijn bedriegt. Er vallen bij een partij kickboksen weliswaar rake klappen, maar daar zijn de sporters op getraind en daardoor krijgen ze slechts weinig blessures. Je zou zelfs kunnen zeggen dat een willekeurige toeschouwer meer risico's loopt, met al dat geteisem op de tribunes. Maar als sport is het dus geen gevaarlijke hobby. Althans, volgens een onderzoek van de Stichting Consument en Veiligheid, een organisatie van de Rijksoverheid en dus een betrouwbare partij, naar je mag aannemen.
+
+Voetbal, dat is pas link. Consument en Veiligheid heeft laten uitrekenen dat voetbal van alle sporten, omgerekend naar het aantal beoefenaren, met 22% op nummer één staat qua aantal hoofdblessures. Waaruit je zou kunnen opmaken dat voetballers het bovengemiddeld achter de ellebogen hebben, niet alleen in figuurlijke zin. Hockey is is dan de logische risicosport nummer twee, gevolgd door zwemmen. Onder de tien procent zitten paardrijden, schaatsen, wielrennen, vechtsporten en basketbal. Nummer laatst op de rij is tennis. De kans dat je een bal op je kop krijgt is dus kennelijk veel kleiner dan dat je met je knar tegen de rand van het bad knalt. Ach, het is nutteloze informatie, maar ik kan er geen genoeg van krijgen. Geef mij een hoofdpijndossier en mijn dag kan niet meer kapot.

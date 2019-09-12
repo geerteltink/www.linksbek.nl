@@ -1,0 +1,10 @@
+---
+title: "Nederlaag"
+date: "2019-05-16"
+---
+
+Het eerste herenteam van hockeyclub PW heeft zich in overleg met het bestuur op vijf wedstrijden voor het einde van het seizoen teruggetrokken uit de competitie. De reden hiervoor is een sanctie van de KNHB, die de ploeg vijftien punten in mindering gaf vanwege het tot vijf keer toe opstellen van een niet speelgerechtigde speler, die bovendien niet op het wedstrijdformulier stond vermeld. PW zakte daardoor naar een puntentotaal van min acht en gooide de handdoek in de ring vanuit de constatering dat degradatie naar de vierde (en laagste) klasse voor standaardteams een onvermijdelijk feit was.
+
+De zaak kwam aan het rollen na het laatste thuisduel van PW, dat met 3-2 van koploper Westerduiven gewonnen werd. Uit onderzoek van de KNHB bleek dat dit de vijfde keer was dat PW in de fout was gegaan. Als manager van EHV weet ik dat er met de KNHB niet te spotten valt en de straf mag dan historisch zwaar zijn, reglementair is er geen speld tussen te krijgen. Wat dat betreft is de reactie van PW op de eigen website dan ook op z’n minst naief: er wordt met zoveel woorden erkend dat een speler in een aantal wedstrijden weliswaar heeft meegedaan die niet officieel lid was van de club, ‘maar wel maanden heeft meegetraind met de selectie’. Meetrainen is de norm niet, het gaat erom of iemand lid is of niet, en voor een club met zoveel advocaten op de ledenlijst is zo’n ridicule tekst dus geen optie.
+
+Veel kwalijker evenwel lijken me, en ik zeg dit als rasechte EHV’er zonder enig leedvermaak, de consequenties voor de langere termijn. Het hockey in Twente is qua bezetting van de mannen- en jongenslijn zowel kwalitatief als kwantitatief toch al aan de magere kant. PW heeft zichzelf hiermee in een stand van stagnatie geparkeerd. En dat is, vanuit de aloude wijsheid dat stilstand staat voor achteruitgang, zowel voor de club als voor de regio een bittere nederlaag. Maar er is een oplossing: de zwakke long van de twee jongenslijnen moet nieuw leven ingeblazen worden. Samen verder, op het prachtige nieuwe veld van Drienerlo, neutraal terrein. Nieuwe ronde, nieuwe kansen!

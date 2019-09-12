@@ -1,0 +1,22 @@
+@import "variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "bootswatch";
+@import "card-banner";
+@import "page-title";
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.app-content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    flex: 1;
+}

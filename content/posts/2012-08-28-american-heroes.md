@@ -1,0 +1,6 @@
+---
+title: "American heroes"
+date: "2012-08-28"
+---
+
+Neil Armstrong vond zelf dat hij “gewoon zijn werk deed”, maar voor veel mensen van mijn generatie is hij natuurlijk een van de grootste helden aller tijden. Zijn prestatie verdient een houdbaarheidsdatum die de eeuwigheid ver overschrijdt. De geschiedenis ingaan als de eerste man die een voet op de maan heeft gezet, dat is toch een ander formaat jongensdroom dan brandweerman willen worden. Of profwielrenner, zoals zijn jongere naamgenoot Lance deed. Hij won zeven keer de Tour de France en hij was The Boss, in alle opzichten. Oké, de echte spanning was er vanaf het begin af omdat het er alleen nog maar om ging wie de nummers twee en drie zouden worden. Maar door zijn verleden als kankerpatiënt dwong hij toch vooral respect af, ook al kun je je afvragen in hoeverre zijn chemo-dossier van invloed is op de vraag of hij al dan niet vatbaar voor doping was. Zijn tegenstanders, ex-ploeggenoten die dankzij hem fortuin en furore hebben gemaakt, beweren dat hij niet clean gereden heeft. Hij kan het tegendeel niet bewijzen en gooit nu, na jarenlange verdachtmakingen, de handdoek in de ring. Ik kan me voorstellen dat hij de strijd staakt, ze bekijken het maar, en dat hij denkt aan iets met “lopen” en “naar de maan”. Hij is per slot van rekening wel een echte Armstrong.

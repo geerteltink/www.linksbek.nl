@@ -1,0 +1,8 @@
+---
+title: "Hoogtepunt"
+date: "2010-07-27"
+---
+
+Dat lamlendige schoolreisje naar Parijs kan me al jaren niet meer boeien, maar het was natuurlijk wel een mooi gebaar van het peloton om Koos Moerenhout even te laten “ontsnappen”. Daags daarvoor had de superknecht van de Rabobank-ploeg in zijn laatste Tour de France een fantastische tijdrit afgeleverd, alsof hij iedereen nog een keer het signaal wilde geven dat hij niet zomaar de eerste de beste koekenbakker is. Koos Moerenhout was bovendien niet alleen een coureur die zichzelf en anderen pijn kon doen, maar ook een pure prof die zijn sport en zijn sponsor perfect vertegenwoordigde. Nooit een onvertogen woord, altijd positief en nooit obligaat. Een kritische volger, die als zodanig gelukkig niet voor het vak verloren gaat, want de Rabobank is zo verstandig om hem een functie in de begeleiding te geven.
+
+Hetzelfde gaat gebeuren met Giovanni van Bronckhorst, die na een imposante carrière bij diverse Europese topclubs zondag afzwaaide bij Feyenoord, waar hij verder gaat als jeugdtrainer. Lionel Messi, die toch echt wel een paar toppers van dichtbij heeft gezien, noemde hem na het WK “de beste linksback ter wereld” en zijn trainer Mario Been heeft vergeefs geprobeerd om hem over te halen er nog een jaartje bij aan te plakken. Hij werd landskampioen met Glasgow Rangers, Arsenal en Barcelona, speelde 425 wedstrijden op het hoogste niveau en 106 interlands met Oranje, waarvoor hij 6 keer scoorde, met die prachtige poeier tegen Uruguay als zijn laatste kunstje. Giovanni van Bronckhorst stopt op zijn hoogtepunt en dat voorrecht is alleen voor de allergrootsten weggelegd.

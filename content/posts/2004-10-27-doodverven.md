@@ -1,0 +1,8 @@
+---
+title: "Doodverven"
+date: "2004-10-27"
+---
+
+De Nederlandse taal biedt sommigen de gelegenheid om in eigen doel te scoren, hetgeen dan ook met een zekere regelmaat gebeurt. Zo was Pete Sampras volgens de redactie van Studio Sport gisteravond in de terugblik op 1996 de “gedoodverfde favoriet” voor de Wimbledon-titel. Volgens mij heet zoiets de “gedoodverfde winnaar”, die daarmee dus tevens de grootste favoriet is. (Een volgende keer behandelen we de “doodgeverfde favoriet”, die ik ooit bij één van onze commerciële hersendoden langs hoorde komen.) Hoe dan ook, Richard Krajicek ging zoals bekend met de eer strijken en het was een feestje om die beelden nog eens terug te zien, met name tijdens de momenten waarop het oog van de camera bij Daphne Deckers op de tribune bleef hangen.
+
+Over ballen gesproken: het Nederlands kent ook het gezegde “wie kaatst, moet de bal verwachten”. Twee sporters kunnen daar sinds dit weekend uit eigen ervaring over meepraten. Fiorentina-coach Emiliano Mondonico vroeg zondag na de nederlaag tegen Udinese of het bestuur zijn functioneren onder de loep wilde nemen. Dat wilde het bestuur wel en even later stond de trainer op straat, na een kort en zeer eenzijdig functioneringsgesprek. De Japanse voetballer Yasuto Honda gooide het daarentegen over de interactieve boeg en wierp een op het veld gemikt bierblikje terug in het publiek, dat vervolgens met zo’n dertig man het veld bestormde en hem aan de haren tot bloedens toe het doel insleurde. Mondonico en Honda hebben zich met hun acties wat mij betreft gekwalificeerd als de gedoodverfde favorieten voor de titel “sukkel van de week”.

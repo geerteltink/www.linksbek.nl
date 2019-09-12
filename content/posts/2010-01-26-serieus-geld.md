@@ -1,0 +1,8 @@
+---
+title: "Serieus geld"
+date: "2010-01-26"
+---
+
+Eerst het goede nieuws: Jack van Gelder gaat er in jaarsalaris meer dan honderdvijftienduizend euro op achteruit. En dan nu het slechte nieuws: hij gaat nog vijf jaar door. Eigenlijk had hij dit jaar op z’n zestigste zullen stoppen, maar de NOS bood hem helaas een nieuw contract aan. Daarmee valt hij onder de nieuwe regels en dus gaat hij van bijna drie ton terug naar de Balkenende-norm van ruim honderdtachtigduizend euro. Zelf zegt hij er niet mee te zitten, hoewel hij al uitsluitend voor de hoofdprijs gaat sinds hij op de middelbare school de veelzeggende bijnaam Cheque van Geld verdiende, maar voor mezelf vind ik het uiterst vervelend dat we nog eens vijf jaar jaar elke zondagavond met dat glimmende glijmiddel worden geconfronteerd.
+
+En toch is Van Gelder maar een kleine krabbelaar in de grote wereld van het echte geld. Hoeveel hij er ook bij schnabbelt, grabbelt en babbelt, hij zal zich nooit kunnen meten met jongens als Co Adriaanse en Guus Hiddink. Co zei nee tegen AZ en NEC, maar ja tegen Jong Qatar. Omdat daar zo goed gevoetbald wordt in een fantastische voetbalcultuur? Tuurlijk. En Guus schijnt weg te mogen uit Rusland, waar ze zeven miljoen per jaar toch wel wat veel vinden voor iemand die het WK niet gehaald heeft. Juventus en Liverpool hebben zich al gemeld en anders zal de sympathieke Varssevelder elders wel weer een kapitaal contract sluiten. Punt in zijn voordeel is dat je het hem gunt, althans niet misgunt, omdat hij zichzelf blijft en niet vreemd gaat doen. Want dat te veel geld rare dingen met een mens kan doen, zagen we dit weekend aan Wesley Sneijder en zijn coach José Mourinho. Die twee zijn compleet de weg kwijt, en niet alleen in Milaan.

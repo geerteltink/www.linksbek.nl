@@ -1,0 +1,8 @@
+---
+title: "Madurodam League"
+date: "2014-05-22"
+---
+
+Mooi dat Willem II terug is in de Eredivisie, maar geldt dat ook voor de promotie van FC Dordrecht en Excelsior? Als liefhebber zeg ik onmiddellijk ja, hoewel in beide stadions dat verdomde kunstgras ligt. Qua voetbalopvatting hebben beide clubs de promotie verdiend, ondanks het feit dat ze het moeten doen met een spelersbegroting die net zo groot is als het maandsalaris van Lionel Messi. Toch heb ik niet de indruk dat ze daaronder lijden, althans niet zichtbaar. Technisch directeur Marco Boogers van Dordrecht heeft ruimschoots bewezen een fijne neus te hebben voor afdankertjes en winkeldochters van andere clubs. En Excelsior teert al decennia lang op het image van de club die werkt met de opbrengst van oud papier. Nee, we hebben het hier over twee welkome aanwinsten voor de Madurodam League.
+
+Verder moeten we de Rotterdammers vooral heel erg dankbaar zijn voor hun liquidatie van RKC. Je zult maar supporter in Waalwijk zijn, een halve dag vrij genomen hebben en mee zijn geweest naar de uitwedstrijd in de play offs. Dan moet je dus die laffe evenementenmeuk drinken terwijl je ziet hoe je favoriete spelers zich als een stel arrogante nep-vedettes misdragen en met een air van misplaatste desinteresse de nederlaag gelaten over zich heen laten komen. Wanneer ik hun trainer Erwin Koeman was geweest, dan had ik na de wanvertoning op Woudenstein tegen ze gezegd: bekijk het verder maar, ik blijf zondag thuis. En de club had ze moeten verplichten tot het betalen van een schadevergoeding aan de meegereisde fans ter waarde van de busreis naar Rotterdam, het kaartje voor de wedstrijd en vier glazen echt bier per persoon.

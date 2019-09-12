@@ -1,0 +1,14 @@
+---
+title: "Handschoenen"
+date: "2017-10-12"
+---
+
+Eigenlijk had ik dit stukje willen opdragen aan Vincenzo Nibali, de Italiaanse wielrenner die het WK in Noorwegen liet schieten om zich volledig te kunnen richten op de Ronde van Lombardije. Hij won deze najaarsklassieker met overmacht en als je zo kunt pieken dan ben je in mijn ogen een hele grote. En wie de 'Haai van Messina' zag afdalen op de San Fermo della Battaglia was getuige van pure verwennerij. Maar toch moet ik het met u natuurlijk vooral hebben over de definitieve teloorgang van het Nederlandse voetbal na de treurige uitschakeling voor het WK. Kenmerkend in dit tragische verhaal was de invalbeurt van Memphis Depay tegen Wit-Rusland, waar hij het veld betrad met twee enorme handschoenen aan. Het was acht graden. BOVEN NUL. Met acht graden onder nul trek je nóg geen handschoenen aan, maar kennelijk is er bij deze padvindersclub geen enkele akela die corrigerend optreedt tegen verwende miljonairtjes.
+
+Dus je komt als een dressboy op de catwalk bij Huis ter Duin (kan dat misschien ook een keer wat minder, een leuke Stayokay of zo?) en je loopt verveeld langs de fans alsof ze er niet staan. Je wordt er nog vorstelijk voor beloond ook en toch snap je er geen bal van. Net zoals ik er geen bal van snap dat doelman Jasper Cillessen de meeste balcontacten had als je de andere kant op moet om zoveel mogelijk doelpunten te maken. Het wordt hoog tijd voor een grote schoonmaak: nooit meer Memphis Depay, nooit meer Kevin Strootman, nooit meer Frans Hoek. Een compleet nieuwe bezetting, met maar één opdracht: het hondstrouwe publiek vermaken met fris, sympathiek en offensief voetbal, à la de leeuwinnen. Verplicht kijken naar Wales-Ierland voor het meezingen van de volksliederen. En voor de mentale weerbaarheid een clinic met Vincenzo Nibali op de afdaling van de San Fermo della Battaglia. Zonder handschoenen.
+
+
+
+
+
+Met dank aan Purchase Pool.

@@ -1,0 +1,8 @@
+---
+title: "Bijdehandje"
+date: "2009-03-25"
+---
+
+Louis van Gaal is samen met twee collega’s zes miljoen euro kwijtgeraakt aan het piramidefonds van Bernie Madoff en heeft nu beslag laten leggen op de rekening van de mega-oplichter. Sjonge, dat zal indruk maken bij al die andere gedupeerden in Amerika: “Jongens, vergeet het allemaal maar, Mister van Gaal heeft beslag laten leggen en die gaat nu eenmaal voor, verschil moet er zijn.” En verder willen we natuurlijk wel graag weten wie die twee collega’s zijn. Als je met z’n drieën zes miljoen euro kunt ophoesten om het in een bodemloze put te storten, dan heb je geld te veel en niet zo zuinig ook. Dus ik gok op Hiddink en Van Basten. (Been en Beenhakker? Nee, die gooien hun geld liever weg in de bodemloze kuip die Feyenoord heet.)
+
+Intussen zal Dirk Scheringa niet blij zijn met de actie van zijn werknemer, die dus kennelijk niet voldoende vertrouwen had om zijn fortuin op een DSB-spaarrekening te zetten. En de mogelijkheden daar zijn nog wel zo riant. Als Van Gaal het echt spannend had gewild, dan had hij voor de kick moeten meedoen aan een Achtergesteld Deposito. Daarmee loop je weliswaar het risico dat je bij een faillissement van de DSB als laatste moet aansluiten in de rij van alle andere crediteuren, en dat je geld dus op is als die allemaal langs geweest zijn, maar je gaat wel voor een vaste rente van zeven procent. Een gewone Vaste Termijn Deposito levert na twee jaar al gegarandeerd vijf procent rente op, maar dat was Van Gaal natuurlijk weer niet riskant genoeg. Dus is hier de bijdehante Van Gaal-vraag op zijn plaats: “Is hij nou zo dom of was die Madoff nou zo slim?”

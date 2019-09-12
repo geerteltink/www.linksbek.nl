@@ -1,0 +1,10 @@
+---
+title: "Partijtje vrijheid"
+date: "2007-06-12"
+---
+
+Zomaar een column op zomaar een website:
+
+“Het moet in dit land toch niet veel gekker worden. Is het u ook opgevallen, dat het elftal van Jong Oranje in de samenstelling van afgelopen zondag voor de wedstrijd tegen Israël de naam “Oranje” geweld aandeed? Ik bedoel dit niet als grap, want zoveel humor heb ik niet, maar het zag er zwart van de allochtonen. Nooit geweten dat ze in Suriname ook een Drenthe hadden. Een schandelijke aanblik. Dit was hoop ik toch geen afspiegeling van onze Nederlandse samenleving of zijn we dus al zo diep gezonken dat we dit kennelijk normaal zijn gaan vinden? Het moet in dit land toch niet veel gekker worden. Nog even en de laatste blanke doet het licht uit. Dan is het hier helemaal zwart, ha ha. En trouwens, die Foppe de Haan is een Fries en we weten allemaal dat die Friezen meer dan eens hebben gezegd dat ze eigenlijk het liefst een eigen vrije republiek zouden vormen. Een schandelijke uitspraak. Het moet in dit land toch niet veel gekker worden. Het wordt de hoogste tijd dat de KNHB er een Limburger op zet. Overigens: is het absoluut 100% gegarandeerd, dat die Medunjadin een verblijfsvergunning heeft? We hebben het hier per slot van rekening wel over een ex-asielzoeker en met die lui kun je nou eenmaal niet voorzichtig genoeg zijn. Ik wil dat dossier wel eens zien. Voor je het weet blijkt het een oorlogsmisdadiger te zijn. Nou ja, oké, de zoon of voor mijn part de achterneef van een oorlogsmisdadiger, reken ik ook goed. Het moet in dit land toch niet veel gekker worden. Een schandelijke toestand. En die Aisatti, kan die niet gewoon voor Marokko gaan spelen? Daar komt ie toch ook vandaan? Net goed dat ie aan zijn knie geraakt is. Gerechtigheid bestaat nog. Onze Lieve Heer moet haast wel een Nederlander zijn.”
+
+Pittige column, zeg dat wel. En nu wilt u natuurlijk weten wie ‘m geschreven heeft. Wat zegt u? Geert Wilders? Een schandelijke insinuatie. Het moet in dit land inderdaad niet veel gekker worden.

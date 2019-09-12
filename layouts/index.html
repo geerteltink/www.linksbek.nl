@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="app-content container">
+    <div class="row">
+        <div class="col-sm-8">
+            <header class="homepage-header">
+                <h1>{{.Title}}</h1>
+                {{ with .Params.subtitle }}
+                <span class="subtitle">{{.}}</span>
+                {{ end }}
+            </header>
+            <div class="homepage-content">
+                <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+                {{.Content}}
+            </div>
+            <ul class="list list-unstyled">
+                <!-- Ranges through content/posts/*.md -->
+                {{ range (.Paginator 3).Pages.ByDate.Reverse }}
+                <li class="mb-3">
+                    <h2 class="article__heading">
+                        <a href="{{.Permalink}}">{{.Title}}</a>
+                    </h2>
+                    <div>{{.Summary | markdownify}}</div>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <aside class="col-sm-4">
+            <div>
+                <h2 class="bg-dark text-light text-uppercase h6 p-2">360SportsIntelligence</h3>
+                <a href="https://360sportsintelligence.com/">
+                    <img src="{{ .Site.BaseURL }}/img/logo360.png" class="img-fluid" alt="360SportsIntelligence" />
+                </a>
+            </div>
+        </aside>
+    </div>
+</main>
+{{ end }}

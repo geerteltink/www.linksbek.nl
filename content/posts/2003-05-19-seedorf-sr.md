@@ -1,0 +1,10 @@
+---
+title: "Seedorf sr."
+date: "2003-05-19"
+---
+
+We hadden vroeger een jongen in het elftal, die eigenlijk niemand aardig vond. Hij was niet slecht, integendeel, maar populair kon je hem niet noemen. Hij wou altijd de vrije trappen en de penalties nemen, kon als geen ander slijmen met de scheids en was nooit ver weg als er een opstandje gesust moest worden. Kortom: een enorme bemoeial, die bovendien steevast liep te zeiken om respect. Respect, respect, gek werden we van die vent. Als het geen dertig jaar geleden was geweest, dan hadden we hem zeer waarschijnlijk de bijnaam “Clarence” gegeven.
+
+Clarence Seedorf is nog geen 27, maar heeft reeds een biografie en een eigen stadioncomplex in Paramaribo op zijn naam staan. Volgende week woensdag speelt hij op Old Trafford met AC Milan zijn derde finale voor de Champions League, na eerder namens Ajax en Real Madrid ook al succesvol te hebben gestreden om de cup met de grote oren. Verder speelde hij voor Sampdoria en Inter Milaan, toch niet de geringste clubs. Jawel, en desondanks geniet Clarence Seedorf niet de grenzeloze en algehele populariteit, die ieder ander met zo’n staat van dienst wél probleemloos vergaard zou hebben. Sterker nog: vrijwel niemand gunt hem het recept, waarom hij voortdurend loopt te jengelen. En dat ligt niet aan ons. Integendeel, dat ligt maar aan één persoon, en dat is Clarence Seedorf zelf.
+
+Vorige week speelde hij in San Siro tegen stadgenoot Inter Milaan en dat ging hem niet slecht af, integendeel. Het steekpassje op Sjevtsjenko voor de winnende goal was zelfs ronduit fraai en viel perfect op maat. Maar dat werd allemaal weer nodeloos afgeleid door de irritante bijverschijnselen. Die witte schoentjes, dat zinloze gepiel, die theatrale gebaartjes, dat debiele haarnetje. De manier waarop hij keurslager Materazzi na één van diens charges _en plein public_ de les las, net zoals we hem ooit Real Madrid-aanvoerder Hierro bij een vrije trap hebben zien wegduwen. Volgens mij maak je je met zulke acties niet geliefd in de hiërarchie van de kleedkamer. En veel respect scoor je er ook niet mee.

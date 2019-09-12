@@ -1,0 +1,10 @@
+---
+title: "Rafael van der Kaart"
+date: "2005-02-09"
+---
+
+Oké, Dionne de Graaff en Ria Visser vormen natuurlijk een damesdubbel, dat het ijs probleemloos doet breken, wat zeg ik: smelten. In menig huiskamer moest er regelmatig een extra dweilpauze ingelast worden. Maar verder vind ik dat hele schaatsen steeds vervelender worden. Annie Friesinger mag ik graag zien, al hoeft ze daar wat mij betreft niet per se bij te schaatsen. Ireen Wüst praat zoals ze schaatst: hard en onbenullig, en niet te volgen bovendien. Henk Gemser heeft uit pure kift vanwege die Amerikaanse cowboys de uiterste graad van algehele verzuring bereikt. En het geheel wordt muzikaal opgeleukt door een vage versie van de Jostiband, die daarmee het onbetwistbare bewijs levert, dat de Russische douane sinds de val van het IJzeren Gordijn is afgedaald tot het twijfelachtige niveau van de eerste de beste stadswacht in een gemiddeld winkelcentrum.
+
+Nee, het was niet mijn zondagmiddag, deze zesde februari, tot dat telefoontje kwam. Of ik op Canal+ naar Ajax-Twente kwam kijken. Nu heb ik één keer bij de buren naar Sparta-NAC zitten kijken en dat heb ik uit beleefdheid tot de rust volgehouden, waarna ik me met een smoesje uit de voeten maakte. Je moet wel enige affiniteit met op z’n minst één van de twee ploegen hebben, anders gaat de lol er gauw af. Dit aanbod wilde ik evenwel niet laten lopen en daar zou ik geen spijt van krijgen. Het eerste half uur was weliswaar van een hoog Sparta-NAC-gehalte, maar daarna werd het erg leuk en een genot om naar te kijken, vooral hoe Ajax steeds meer tegen zichzelf begon te spelen, met als absolute dieptepunt Rafael van der Kaart. Zelfs het clichématige commentaar van Eddie Poelmann kon de pret niet drukken, temeer daar de regie terecht veel oog had voor de veel geplaagde Ronald Koeman, die dan ook regelmatig in close-up langs kwam. Het kan nog even duren, maar hij zal na Jan Wouters en Co Adriaanse de derde Ajax-trainer zijn, die na een thuiswedstrijd tegen Twente zijn biezen moet pakken.
+
+Ook voor trainers geldt dus: “You’ll never walk alone!”

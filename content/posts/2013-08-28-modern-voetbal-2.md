@@ -1,0 +1,16 @@
+---
+title: "Modern voetbal!"
+date: "2013-08-28"
+---
+
+Vorige week beloofde ik u een vorm van modern voetbal, zonder spelbederf, tijdrekken en matennaaien. Belofte maakt schuld, maar ik doe het met veel plezier. Komt ie: VV Noordwijk organiseerde eind juni een toernooi om de Avant Garde Cup, waar bij wijze van proef werd gevoetbald volgens een aantal hockeyregels. De ingooi en de vrije trap waren vervangen door de self pass, er mocht vanaf de bank onbeperkt worden doorgewisseld, de wedstrijden werden geleid door twee scheidsrechters en een gele kaart was goed voor een directe tijdstraf van vijf of tien minuten, al naar gelang de ernst van de overtreding.
+
+Voetbal is een conservatieve sport: de laatste spelregelwijziging dateert uit 1992, toen werd ingevoerd dat de keeper een terugspeelbal niet meer in de handen mag nemen. Met de nieuwe regels ging het in Noordwijk allemaal "sneller, spontaner en eerlijker". Bij de nabespreking met spelers, trainers, scheidsrechters en toeschouwers werden drie van de vijf regels, waaronder de self pass, met grote meerderheid van stemmen positief beoordeeld. Over de tijdstraf waren de meningen verdeeld: spelers worden weliswaar direct bestraft en het voorkomt bovendien protesten, maar anderzijds bestaat de kans dat spelers zich gaan inhouden en die riskante tackle toch maar niet inzetten. (Geen misverstand: ook voor mij gaat er niets boven de gracieuze schoonheid van een perfecte sliding.)
+
+Het doorwisselen werd door veel betrokkenen verworpen, omdat dit verdedigend spelende teams zou kunnen bevoordelen. Het opstellen van twee scheidsrechters daarentegen was voor velen een verbetering: "Voetbal is een teamsport, maar een scheidsrechter komt alleen, fluit alleen, krijgt alleen van alles over zich heen en gaat ook weer alleen naar huis. Met z'n tweeën fluiten is beter en prettiger." Of het ooit zo ver komt? Ik denk het niet: voor het toernooi in Noordwijk waren enkele Nederlandse (oud-)scheidsrechters gevraagd, maar hoewel ze in eerste instantie enthousiast reageerden mochten ze niet meedoen van de KNVB of durfden ze niet uit angst om uit de gratie te raken bij de KNVB, UEFA of FIFA. Koning Voetbal is een moderne dictator.
+
+
+
+
+
+Met dank aan SindsNu:

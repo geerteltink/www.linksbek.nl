@@ -1,0 +1,6 @@
+---
+title: "Kapper Frans"
+date: "2014-06-19"
+---
+
+"Voetbalclub FC Twente speelt in de voorbereiding op het nieuwe seizoen in de eredivisie op zaterdag 12 juli een oefenwedstrijd tegen de Federatie Clubs (FC) Twenterand. Het duel bij DOS'37 op Sportpark Het Midden in Vriezenveen begint om 14.30 uur. Van alle Twenterandse clubs zijn spelers geselecteerd." Tot zover dit bericht op de website van De Twentsche Courant Tubantia. Niks mis mee, zou je zeggen - hoewel, dat het hier om een "voetbalclub" gaat is ons al sinds de oprichting van FC Twente in 1965 bekend. Verder vraag ik me af waarom er bij de aankondiging van deze wedstrijd is gekozen voor een foto met de FC Twente-spelers Tadic, Promess, Castaignos en Bjelland, uitgerekend de vier spelers die naar verwachting verkocht zullen worden? Je zult als inwoner van Twenterand in het algemeen of als voetballiefhebber in het bijzonder maar een kaartje voor dit veelbelovende affiche gekocht hebben en je favoriete FC Twente-spelers doen niet eens mee. Wat me daarentegen zeer bevalt is dat toegangskaarten in de voorverkoop te Den Ham verkrijgbaar zijn bij Kapper Frans. Dus geen Hairteam, Hairstyling of Hairfashion, zoals veel van die moderne Figaro-Fritsen hun handel opleuken, maar gewoon, recht zo die gaat: Kapper Frans. En zag ik daar graag een pakkende slogan bij: "Kapper Frans. Geknipt voor ú!"

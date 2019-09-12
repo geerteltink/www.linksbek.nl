@@ -1,0 +1,8 @@
+---
+title: "Voetbalplaatjes"
+date: "2009-01-27"
+---
+
+Als ik zeg: Harry Piekema, wat denkt u dan? Waarschjnlijk niks en dan zult u niet eens de enige zijn. Toch is Harry Piekema in de meeste huiskamers bepaald geen onbekende. Sterker nog: Harry Piekema is misschien wel een Bekende Nederlander. Harry Piekema is namelijk het gezicht van Albert Heijn als de wat sullige, maar daardoor juist zo sympathieke filiaalchef in de STER-spotjes van de grootgrutter. Zijn optreden is een van de knapste staaltjes typecasting in de geschiedenis van de vaderlandse tv-reclame en ook in dat nieuwste filmpje voor die voetbalplaatjes is het weer een feest om hem te zien acteren. Dat geldt overigens ook voor de voetballers die hem omringen, met op zijn beurt een absolute hoofdrol voor Kenneth Perez.
+
+Alle voetbalkenners zijn het erover eens, dat Kenneth Perez bij FC Twente kennelijk zijn plek gevonden heeft. De man verkeert inderdaad in topvorm en speelt niet alleen in het spotje van Albert Heijn de sterren van de hemel. Waarmee meteen ook het zwakke punt van die spaaractie gevonden is: over een half jaar klopt er geen bal meer van. Of eigenlijk nu al, want Robbie Wielaert staat nog gewoon bij FC Twente terwijl hij al een paar weken voor Ajax speelt. Zo kan het ook gaan met Kenneth Perez, die over een half jaar door PSV wordt gekocht als hij op dit niveau blijft spelen. Voeg daarbij de op handen zijnde transfers van Eljero Elia, Marko Arnautovich en Wout Brama naar Schalke 04, en trainer Gertjan Verbeek (opvolger van de naar Manchester City verkaste Steve McLaren) kan volgend seizoen helemaal opnieuw beginnen. Net zoals alle spaarders van die voetbalplaatjes. Slim gespeeld, meneer Piekema.

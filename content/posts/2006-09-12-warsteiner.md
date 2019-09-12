@@ -1,0 +1,10 @@
+---
+title: "Warsteiner"
+date: "2006-09-12"
+---
+
+Het zal u als breed geïnteresseerde sportliefhebber vanzelfsprekend niet ontgaan zijn, dat het hockeyseizoen afgelopen weekend weer is begonnen. Voor mij persoonlijk betekende dit na een half jaar blessureleed een voorzichtige come-back, die nota bene met een doelpunt bekroond werd. (Commentaar van de aanvoerder: “Hé Bonder, wil je even naar huis bellen?”) Verder was alles gelukkig bij het oude gebleven: een geanimeerde derde helft met koel bier, verse moppen en de ballen van Benno. Die zitten er voorlopig niet in voor de mannen van Roelant Oltmans, want de plaatsing voor de halve WK-finale van vrijdag is nog allerminst verzekerd. Het heeft er alle schijn van, dat Oranje in de voorbereiding op het toernooi te vroeg gepiekt heeft en nu afhankelijk is van de vraag, of Duitsland en Korea hun sportieve plicht gaan doen of een salonremise overeenkomen. Maar hoe de afloop ook is, de World Cup Hockey in Mönchengladbach is nu al een groot succes.
+
+Trouwens wel slim van die Duitsers om dat stadion vlak over de grens bij Venlo neer te leggen, lekker dichtbij Nederland. Een bevriende hockeyvader was er zondag en zijn kinderen mochten de ballen klaar leggen voor de Nederlandse strafcornertraining, waarna ze een handtekening van de bondscoach kregen. Dat zie ik Van Basten nog niet doen. Zelf ben ik er nu twee keer geweest, en hopelijk mag ik vrijdag weer, want het is één groot sportfeest daar in het Warsteiner Hockeypark. Je zit tussen Indiërs, Pakistani, Koreanen, Engelsen en iedereen klapt, joelt en juicht door en voor elkaar. Volgens mijn Pakistaanse buurman is Teun de Nooijer een “magician”, terwijl ze daar qua fabuleuze stickhandling toch wel wat gewend zijn. En weet u wat ook heel apart is? Gisteren was het 11 september en ondanks de fysieke nabijheid van tientallen zogenaamd “verdacht” uitgedoste hockeyfans uit exotische landen heb ik me geen moment ook maar enigszins bedreigd gevoeld. Integendeel: ik heb in totaal geloof ik twee politie-agenten gezien.
+
+Tot slot nog een nadenkertje, gelezen op één van de vele WK-souvenirs: “Als hockey eenvoudig zou zijn, dan had het wel voetbal geheten”.

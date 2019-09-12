@@ -1,0 +1,10 @@
+---
+title: "Four Year Plan"
+date: "2014-01-07"
+---
+
+Dus u dacht dat Vincent Tan, de Maleisische miljardair die Cardiff City als zijn persoonlijke speeltje beschouwt en behandelt, een uitzondering is? Was het maar waar. Hij is de zoveelste patser die met zijn poen de hele voetbalwereld denkt te kunnen kopen. Wilt u meer voorbeelden zien? Dan moet u maar eens kijken naar de film "The Four Year Plan" op youtube. U bent daarmee ooggetuige van de treurigste periode in de geschiedenis van Queens Park Rangers, de Londense voetbalclub uit 1882 die tussen 2007 en 2011 in de klauwen belandde van drie heel erg foute mannen: Bernie Ecclestone, Flavio Briatore en Lakshmi Mittal.
+
+Nummer een kennen we allemaal van het Formule I-circus, nummer twee was daarin jarenlang de teamchef van Benetton en Renault en nummer drie is eigenaar van het gelijknamige Indiase staalbedrijf. Of geld mag rollen? Het huwelijk van dochter Vanisha Mittal duurde vijf dagen, werd gevierd in Versailles en kostte 60 miljoen dollar. Het kost een paar centen, maar dan heb je ook wat. In de film wordt al gauw duidelijk dat deze drie mannen niets met voetbal, laat staan met QPR hebben. Het gaat ze alleen maar om geld, veel geld en nog meer geld. Managers worden na twee nederlagen ontslagen, met een telefoontje en veel fucks vanuit de helicopter.
+
+Sportief lijkt het een succes te worden als de club in 2001 promoveert naar de Premier League, maar de fans vonden het maar niks: "We want our Rangers back" zongen ze. En ze kregen hun zin: na een jaar afzien op het hoogste niveau is QPR weer terug in de Football League, de tweede divisie. Met 46 punten uit 23 wedstrijden staat het op de derde plaats, vlak boven Derby County, de nieuwe club van Steve McClaren. Enkele andere clubs in deze competitie zijn Nottingham Forest, Ipswich Town, Leeds United, Blackburn Rovers, Wigan Athletic, Bolton Wanderers en Sheffield Wednesday. Prachtige namen, mooie affiches, helemaal niks mis mee. Bovendien hebben de fans de Rangers weer helemaal terug waar ze thuis horen: in hun hart. En niet in andermans portemonnee.

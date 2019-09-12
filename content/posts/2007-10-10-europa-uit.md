@@ -1,0 +1,10 @@
+---
+title: "Europa uit"
+date: "2007-10-10"
+---
+
+Zwarte Donderdag. Zo gaat 4 oktober 2007 de geschiedenis in, als de dag waarop het Nederlandse voetbal in Europees verband hopeloos onderuit ging. PSV heeft gewoon de mazzel dat het nog een paar poulewedstrijden in de Champions League moet spelen en AZ, ach, dat houdt vanzelf een keer op. Net als FC Groningen, Heerenveen en Ajax. Vooral in de Amsterdam Arena was het armoe troef en toen in de verlenging al snel duidelijk werd dat het over en uit zou zijn, raakten de tribunes in no time ontvolkt. Je voelde de woede van de Ajax-fans en je voelde met ze mee. Je zult maar veel geld voor een seizoenkaart hebben betaald en daarvoor worden beloond met een aankoopbeleid, dat zich vooral richt op de Rollator Division voor Spaanse winkeldochters, van wie de uiterste houdbaarheidsdatum reeds lang verstreken is. Daar word je toch al niet vrolijk van en dan krijg je zo’n waardeloze zaadwedstrijd er nog gratis bij op de koop toe.
+
+Nee, dan FC Twente. Vorig jaar struikelden ze nog over een Baltisch campingelftal, maar dit seizoen zou het allemaal anders gaan. Overwinteren in Europa, dat was het doel waarnaar ze streefden, en daarna zouden ze wel verder zien. Nou, we hebben het al bekeken: Getafe gaat door en FC Twente ligt er uit. Maar daar was het publiek zo te zien en zo te horen helemaal niet rouwig om. Anders dan in Amsterdam liep het stadion niet leeg toen de Spanjaarden de leiding namen en de wedstrijd voortijdig beslisten. Integendeel, men bleef de thuisploeg steunen en het ontbrak er nog maar aan dat ze begonnen te zingen van “We zijn Europa uit, we zijn Europa uit!” Allemaal heel leuk en aardig, maar als ze vervolgens blijven verliezen zoals tegen Roda JC, dan is het nog maar de vraag of ze na dit seizoen weer Europa in mogen. Al met al voldoende reden voor de Twentsche Courant Tubantia om op de voorpagina te koppen: “Na de hectiek wacht de leegte bij FC Twente”. Nou ja, zolang het de Lange Leegte maar niet wordt, Veendam uit.
+
+Dat is nog veel erger dan Europa uit.

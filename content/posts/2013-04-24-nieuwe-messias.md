@@ -1,0 +1,14 @@
+---
+title: "Nieuwe Messi(as)"
+date: "2013-04-24"
+---
+
+Er is een tijd geweest dat ik Bayern München haatte. Het was in de dagen van Beckenbauer, Hoeness, Breitner, Rummenigge en hoe al die arrogante mannen ook heten mochten. Ze speelden spuuglelijk, maar wonnen alles. De allerlelijkste was wel die Schwarzenbeck, die zelfs door de altijd zo correcte Herman Kuiphof "half mens, half stier" werd genoemd. En het waren Duitsers, dus je had pas van ze gewonnen als ze in de spelersbus zaten. Ze ontnamen ons de WK-titel van 1974, ze versjteerden de afscheidswedstrijd van Johan Cruyff en ze stolen de Meisterschaft van Schalke 04. Ik was er bij in Gelsenkirchen, op die 21ste mei van 2001, en ik zal nooit die wreed grijnzende koppen van Kahn en Effenberg op dat grote beeldscherm vergeten. Scheiss-Bayern! FC Hollywood did it again...
+
+Intussen zijn we ruim tien jaar verder en begin ik zowaar een bewonderaar van Bayern te worden. Geen misverstand: mijn hart klopt nog steeds voor Schalke, en voor Twente natuurlijk, maar wat er de laatste jaren in München is gebeurd, daar kun je alleen maar diep respect voor hebben. De club is financieel kerngezond, wat van veel concurrenten in Spanje en Italië bepaald niet gezegd kan worden, en sportief uiterst succesvol. De manier waarop de "Teletubbies" (aldus verslaggever Jan Roelfs) van Barcelona dinsdagavond omver werden geblazen, was even overdonderend als spectaculair. Ik denk dat we toen een nieuwe trend in voetbal hebben gezien. En ik zeg niet dat Schweinsteiger de nieuwe Messias wordt, laat staan is, maar ik sluit niet uit dat Messi na volgend seizoen naar het Bayern München van Pep Guardiola verhuist.
+
+
+
+
+
+Met dank aan SindsNu:

@@ -1,0 +1,8 @@
+---
+title: "Oogkleppen"
+date: "2010-01-18"
+---
+
+Vitesse mag van mij vandaag nog degraderen naar de Jupiler League, zo’n hekel heb ik aan die club. NEC daarentegen, daar heb ik wel wat mee. Zowat mijn hele schoonfamilie, die volgens de tradities van het rijke roomsche leven uit veel personen bestaat, komt uit Winssen, een dorpje bij Nijmegen, en technisch directeur Carlos Aalbers is een volle neef van mijn vrouw. Afgelopen zondag was het dus absoluut geen punt wie voor mij de favoriet was in de wedstrijd om het Gelders kampioenschap. En het werd helemaal feest toen ik de opstelling van NEC zag: op het veld stonden vijf ex-Tukkers, van wie er één bij alle doelpunten betrokken was. Ramon Zomer veroorzaakte een strafschop, gaf een prachtige assist en scoorde de winnende.
+
+Later die middag deden hun oude maatjes het heel wat minder in de wedstrijd tegen FC Utrecht dat er ook al weinig tot niets van bakte. Steve McLaren was na afloop tenminste nog blij met het ene puntje, maar een paar spelers waren door het gelijke spel kennelijk de weg kwijt en durfden openlijk te pleiten voor een vervroegde terugkeer van de geschorste Theo Janssen. Die straf had nou wel lang genoeg geduurd, Theo had zijn lesje al geleerd en bovendien, vooral: het team heeft hem nodig nu ze door hun middenvelders heen raken. Ik heb hier eigenlijk maar één woord voor: schandalig. Godgeklaagd, ook goed. En als het bestuur ook maar een seconde overweegt om het verzoek in beraad te nemen, dan is FC Twente wat mij betreft de kampioen van de geestelijke armoe. Je morele principes offer je niet op aan de onsportieve oogklepmentaliteit van een paar egocentrische opportunisten.

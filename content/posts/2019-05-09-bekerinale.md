@@ -1,0 +1,6 @@
+---
+title: "Bekerinale"
+date: "2019-05-09"
+---
+
+Oei, dat was schrikken, zondagochtend bij de WNL-talkshow van Rick Nieman. Daar zat ze, Ellie Lust, met dat gebeeldhouwde blokhoofd en die geperforeerde ritssluiting in d’r despotische haardracht. Ellie Lust is de Peter R. de Vries van de onbespoten tuinbroekenbrigade, alom tegenwoordig in elk denkbaar praatprogramma, met een solide huiskamermening vanuit een rotsvast rechtvaardigheidsgevoel. Ik word er altijd een beetje bang van, maar dat ligt dan vooral aan mij, want hetzelfde heb ik met Erik ten Hag. Dat hoekige baardje, die geasfalteerde tongval, ja zelfs dat merkwaardige vestje onder de clubjas: alles leidt me af van de prestaties die de man tot nu toe door zijn team op de mat laat leggen. Dat kan geen toeval zijn, en ik gun hem de eer, maar echt warm kan ik er niet van worden. Nogmaals, dat ligt vooral aan mij, want ik lijk meer dan gemiddeld gevoelig te zijn voor de uiterlijke schijn die uiteindelijk bedriegt. Juist daarom ben ik zeer gecharmeerd van de taalfout op het podium voor de winnaar van de Toto Cup: daar stond BEKERINALE en ik stel voor dat we die erin houden. Klinkt goed, bekerinale. Of willen we, zoals in België, de Croky Cup?

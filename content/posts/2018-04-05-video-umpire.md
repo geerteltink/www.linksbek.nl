@@ -1,0 +1,14 @@
+---
+title: "Video umpire"
+date: "2018-04-05"
+---
+
+Rotterdam was afgelopen weekend het epicentrum van de Euro Hockey League, het jaarlijkse galabal van de nationale topploegen. Traditioneel wordt er tijdens dit toernooi geëxperimenteerd met nieuwe spelregels die de sport zo progressief maken. Nieuw was deze keer dat een velddoelpunt dubbel telde in vergelijking tot de strafcorner, die immers vaak beslissend is in het scoreverloop. Het leidde tot hilarische uitslagen als 20-10 en 13-1, kortom, niet echt serieus te nemen, en dan zijn ze in het hockey niet te flauw om het experiment te stoppen. Of zoals Bloemendaal-coach Michel van den Heuvel het omschrijft: ‘Het lijkt alsof ze geforceerd op zoek zijn naar vernieuwingen, terwijl we al een mooie sport hebben. Laten we daar nu eens van genieten met zijn allen.’
+
+Oké, maar dan wél met de video umpire. Jeroen Hertzberger van HC Rotterdam was twee weken geleden na de 4-3 overwinning van zijn ploeg op Oranje Rood niet mals met zijn kritiek op de arbitrage. Hij wond er geen doekjes om: het werd in de hoofdklasse de hoogste tijd voor een video umpire, want deze mannen hadden te veel fouten gemaakt en daardoor het scoreverloop danig beïnvloed. Ik ben het helemaal met hem eens, want er was bij Studio Sport inderdaad totaal geen touw aan vast te knopen. Het punt is alleen dat het niet uitsluitend in de hoofdklasse speelt. De scheidsrechters van de wedstrijd EHV-Hattem (25 maart) waren na afloop verrassend snel weg. Ze hadden kennelijk geen zin in lastige vragen van de manager over de serie van vier beslissende strafcorners die we in de tweede helft tegen kregen.
+
+
+
+
+
+Met dank aan Purchase Pool.

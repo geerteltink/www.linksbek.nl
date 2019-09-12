@@ -1,0 +1,6 @@
+---
+title: "Over lijden"
+date: "2005-04-05"
+---
+
+Paus Johannes Paulus II schijnt in een vorig leven een sportief man geweest te zijn. Hij hield van skiën, wielrennen, bergwandelen, zwemmen en voetballen. Menig topsporter is bij hem op audiëntie geweest en hij was erelid van roemruchte clubs als Barcelona en Schalke 04. Je zou dus kunnen denken, dat de UEFA, mede gelet op het wereldwijde rouwbeklag, terecht heeft besloten om voorafgaand aan de wedstrijden in de Champions League één minuut stilte in acht te laten nemen. Niettemin ben ik zo vrij om daar toch wat genuanceerder bij stil te staan. De overledene mag dan nóg zo sportief zijn geweest, hij was ook de man die homoseksualiteit openlijk veroordeelde, vrouwen niet serieus nam, geen pardon kende met abortus en euthanasie, het gebruik van condooms verbood en daarmee een half continent letterlijk heeft laten verrekken aan honger, dood, armoe en aids. Nee, met alle respect voor zijn lijden en overlijden, maar één minuut stilte voor de wedstrijd tussen Juventus en Liverpool, ter nagedachtenis aan de 39 dodelijke slachtoffers van het Heizeldrama in 1985, was  meer op zijn plaats geweest. En daar wilde ik het deze week wat mij betreft bij laten.

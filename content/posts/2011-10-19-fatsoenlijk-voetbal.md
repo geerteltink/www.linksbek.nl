@@ -1,0 +1,8 @@
+---
+title: "Fatsoenlijk voetbal"
+date: "2011-10-19"
+---
+
+Op mijn kantoor hangt een reproductie van de beroemde foto, die Paul Huf in 1967 maakte van de toenmalige Ajax-voorhoede. Van links naar rechts: Klaas Nuninga, Sjaak Swart, Piet Keizer, Johan Cruyff. Ik heb de plaat op een hockeyveiling weten te bemachtigen en als er brand uitbreekt is het een van de eerste dingen die ik op mijn vluchtweg zou meenemen. Waarmee ik maar wil zeggen dat Ajax ooit mijn tweede club was. Ik was er bij, in het kletsnatte Diekman, toen FC Twente op 3 november 1968 met 5-1 won. Als jong Tukkertje was ik me weliswaar bewust van het feit dat ik die middag getuige was van een historische gebeurtenis, maar heel diep in mijn hart was er tot op zekere hoogte toch ook een soort van mededogen met de ploeg die model stond voor fatsoenlijke sport, binnen en buiten de lijnen.
+
+Van dat gevoel is nu, ruim veertig jaar later, nog maar weinig over. Er is zelfs eerder sprake van het tegendeel. Zo kan ik me gruwelijk ergeren aan een foto in De Volkskrant van Ajax-trainer Frank de Boer in zijn nette pak (en met een kennelijk waterdichte Rolex aan de pols) tijdens de “traditionele kampioensduik” in de kleedkamer. Hoezo: traditioneel? De voorlaatste titel dateerde alweer van 2004 en dat was in 2010 toch even geleden. Vandaar waarschijnlijk ook die hysterie rondom de derde ster, waarvan de “viering” gepaard ging met honderden arrestaties en tonnen aan schade. Maar nee, daar hoor je ze niet over, de vijfde Ajax-kolonne van de media, met als absolute schande het optreden van Brain Roy voor Eredivisie Live. Sinds wanneer mag een analist zo onbeschaamd subjectief zijn? Goh, wat ben ik blij dat er in Enschede gewoon fatsoenlijk gevoetbald wordt.

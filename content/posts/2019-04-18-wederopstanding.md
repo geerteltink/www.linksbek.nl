@@ -1,0 +1,10 @@
+---
+title: "Wederopstanding"
+date: "2019-04-18"
+---
+
+De mogelijke promotie van FC Twente op Goede Vrijdag maakte een verwijzing naar het Paasverhaal verleidelijk, maar ik zal het voor de lieve vrede en de goede orde houden op de fenix die uit zijn as herrijst. Dat dit niet voor iedereen in voetballand goed nieuws is, mag een understatement heten. Heracles Almelo krijgt een mooie derby terug in het Polman Stadion, maar daar is de haat jegens de buurman uit Enschede even groot als hardnekkig. Is dat nog enigszins verklaarbaar, veel kwalijker en onterechter is dat ze er ook bij de KNVB en Ajax aan meedoen.
+
+Van die twee kanten is er weinig tot geen animo getoond om de vele trouwe fans van FC Twente de mogelijkheid te bieden om deze hoe dan ook historische wedstrijd live mee te maken. Men wrong zich in allerlei bochten om zich achter een woud van protocollen en procedures te verschuilen. En daarbij was een zeer dubieuze rol weggelegd voor KNVB-voorzitter Michael van Praag, die alles wat FC Twente ademt haat als de pest. Zo maakte hij zich ooit kwaad over een spandoek van Vak P met hasj, coke en pillen – terwijl de supporters van zijn Ajax zich ongestoord met symbolen van Israël mogen tooien. Bovendien werd hier met twee maten gemeten. De hele Eredivisie moest zich wél schikken om Ajax wat meer ruimte in de voorbereiding op de Champions League te geven (wat ik tussen twee haakjes voor het Nederlandse voetbal helemaal geen verkeerde beslissing vond), maar andersom viel er vanuit Amsterdam dan wel Zeist kennelijk geen vuist te maken om die Arena open te krijgen.
+
+Als de wedstrijd vrijdagavond niet was afgelast, dan zou ik wel een goed advies aan FC Twente gehad hebben: had ze loat’n verrekk’n in dat achterlijke paaldorp, had gedaan wat je op 14 mei 2000 ook had moeten doen en had voor één keer schijt aan die hele KNVB gehad, was lekker met de B1 naar De Toekomst gegaan, had Vak P op hasj, coke en pillen getracteerd en was op Tweede Paasdag in de eigen Beugel Bunker kampioen geworden. Met zo’n wederopstanding had onze club ze allemaal het lazarus laten krijgen.

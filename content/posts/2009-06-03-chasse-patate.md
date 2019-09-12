@@ -1,0 +1,8 @@
+---
+title: "Chasse patate"
+date: "2009-06-03"
+---
+
+“Hij loopt leeg van achter.” Normaliter zou ik na het horen van zo’n zin onmiddellijk doorzappen naar een andere zender, maar dit was te horen op de Belgische televisie die de Giro d’Italia dagelijks rechtstreeks volgde. Waar wij het moeten doen met Herbert Dijkstra en Maarten Ducrot, doet de VRT twee kanjers in de aanbieding: Renaat Schotte en (vooral) José de Cauwer. Laatstgenoemde is een ex-ploegleider en als zodanig gepokt en gemazeld in de wielerwereld. Zijn commentaar is dan ook niet alleen zeer deskundig, maar ook enorm betrokken. Dat laatste bleek toen de Belgische coureur Serge Pauwels zijn waarschijnlijke etappewinst op gezag van ploegleider Jean-Paul van Poppel moest opofferen voor de klassementskansen van teamgenoot Carlos Sastre. Zelden heb ik iemand zoveel authentieke woede in een microfoon horen blaffen.
+
+Dat ging in puur plat Vlaams van dik hout zaagt men planken en ik kan u melden dat de inhoud daarvan, laat ik het mild zeggen, niet echt lovend was voor d’n Ollanders in het algemeen en Jean-Paul van Poppel in het bijzonder. Niet heel leuk om te horen dus maar hij had natuurlijk wel een punt. En bovendien bleek eens te meer dat de Belgische taal past bij de wielersport als de Champs Elysées bij de Tour de France. Je hóórt gewoon wat je voor je ogen ziet gebeuren. Er van onder muizen. Zwarte sneeuw zien. Niet met zijn voeten laten spelen. Een chasse patate. Het hangt nog allemaal op een zakdoek. Uit het wiel kletsen. Geen vin van elkaar lossen. Ze zitten allemaal van piepen dood. Voldoende jus in de benen hebben. En dus ook van achter leeg lopen (= een lekke achterband krijgen).

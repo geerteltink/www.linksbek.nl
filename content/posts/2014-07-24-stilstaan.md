@@ -1,0 +1,6 @@
+---
+title: "Stilstaan"
+date: "2014-07-24"
+---
+
+Mladic, Srebrenica, Karremans. Het was een gruwelijk déjà-vu, we werden opnieuw gegijzeld door lompe hufters met de loop van hun geweer als enige taal, tolk en teken. Natuurlijk, ooit worden ze berecht, maar dan zijn ze ineens oud, ziek en zielig, gaan ze plotseling dood of beginnen ze gedichten te schrijven. Het is om gek van te worden. En verder doet deze crash sterk denken aan de vuurwerkramp: iedereen kent wel iemand. Voor mij persoonlijk waren dat met name de ontwerper van het Rabobankje aan de Raiffeisenstraat en de weduwe van de man die me in 1973 als leerling-journalist aannam in de stadsredactie van de Twentsche Courant in Hengelo. Hoewel ik gedurende die periode vooral werd uitgezonden naar de cafetaria van Ten Hoopen om daar voor de rest van de redactie kroketten te halen, heb ik er qua journalistiek nog wel zoveel van opgestoken dat ik snap hoe sommige berichten een onbedoeld wrange bijbedoeling kunnen krijgen: "Ook tijdens de Vierdaagse werd stilgestaan bij de vliegramp in Oekraine." Dat moeten we dus juist niet doen. We moeten door, want daar hebben we 193 goede redenen voor. En misschien, maar dat is achteraf natuurlijk lekker makkelijk lullen, heel misschien hadden Lex en Max dat biertje in Sotsji met die enge man niet moeten doen.

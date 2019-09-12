@@ -1,0 +1,10 @@
+---
+title: "Commitment"
+date: "2006-05-03"
+---
+
+De aftrap moet nog plaats vinden, maar de grootste loser van het WK voetbal is nu al bekend: Johnny Heitinga. De verdediger van Ajax, die nog niet eens zo lang geleden de natuurlijke opvolger van Jaap Stam leek te worden, ligt ons uitgestrekt als na een geslaagde sliding nogal schaapachtig aan te grijnzen op een zogeheten _billboard_ tegen het decor van bevallige Sloggi-_babes._ Intussen staat zijn naam niet eens bij de voorlopige selectie van Oranje en is hij links en rechts gepasseerd door gewone jongens, die zich niet laten afleiden door een aantal damesbillen, hoe fraai gewelfd ook. Natuurlijk, zo’n sexy schnabbel krijg je niet elke dag aangeboden, en het zal ongetwijfeld een heet dagje in de studio zijn geweest, maar misschien had zijn zaakwaarnemer hem er even op kunnen wijzen, dat hij met deze actie qua concentratie niet het juiste gebaar gaf richting de mensen die over de selectie gaan. Het lijkt er dus op, dat Johnny Heitinga met dit schalkse één-tweetje vooral in eigen doel heeft gescoord.
+
+Laat dit een wijze les zijn voor allen die er belang bij hebben: als je commercie en sport combineert, doe het dan goed. Neem een voorbeeld aan Avaya, één van de officiële WK-sponsors en naar eigen zeggen “de drijvende kracht achter de convergentie van spraak- en data-applicaties op IT-netwerken”. Oftewel: leverancier van de infrastructuur die nodig is om mensen thuis en onderweg toegang te verschaffen tot hun laptop of mobieltje. Avaya heeft er echt zin in, want het bedrijf heeft een paar honderd top-accounts uitgenodigd voor de wedstrijden tegen Argentinië en Ivoorkust, voorafgegaan door een behind-the-scene-tour, maar deze hospitality-vorm is slechts één van de benefits. Volgens een woordvoerder gaat het namelijk ook om de commitment en de awareness: als sponsor levert Avaya immers een belangrijke support aan de automatisering van het event, en dat is natuurlijk een prima reference case, die misschien nog wel belangrijker is dan het branding-aspect, want het blijft natuurlijk business-to-business.
+
+Yes!

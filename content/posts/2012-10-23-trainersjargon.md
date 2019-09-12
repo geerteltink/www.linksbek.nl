@@ -1,0 +1,8 @@
+---
+title: "Trainersjargon"
+date: "2012-10-23"
+---
+
+Feyenoord-trainer Ronald Koeman wisselde halverwege de eerste helft in de uitwedstrijd bij VVV, dat toen nog met 2-0 voorstond, aanvaller Fernandez voor middenvelder Goossens. Zijn motivatie hiervoor was volgens De Volkskrant aldus: “Ik ben gecharmeerd van Goossens, omdat hij meer dan wie ook de bal naar de goede kleur speelt. Vele spelers deden dat niet, ik had ze allemaal wel kunnen vervangen.” Heerlijke reactie van een woedende trainer. Gecharmeerd zijn van een speler die meer dan wie ook de bal naar de goede kleur speelt. En laat ik nou altijd in de veronderstelling geleefd hebben dat ze het toch al zo lastige spelletje niet nodeloos nog ingewikkelder gemaakt hebben door ze niet allemaal in een andere kleur shirt rond te laten lopen.
+
+FC Twente-trainer Steve McClaren wisselde twee weken geleden ver in de tweede helft tijdens de thuiswedstrijd tegen AZ, dat toen al met 3-0 achter stond en vanwege twee rode kaarten nog maar negen man in het veld had staan, verdediger Rosales voor verdediger Boyata. Niemand die er iets van begreep, maar McClaren houdt er wel van om de boel nodeloos ingewikkeld te maken. Zijn verbale slaloms zijn soms onnavolgbaar en hij wekt de indruk dat hij zelf ook niet altijd van te voren weet waar het uiteindelijk zal stoppen. Daar heeft hij verder zelf evenwel geen last van, want hij ziet het trainersvak als “just another day at the office”. Dat mag hij zo vinden, maar dan moet hij ook accepteren dat zijn groeiende leger aan tegenstanders zo langzamerhand tot de conclusie is gekomen dat het de hoogste tijd wordt voor “another office”.

@@ -1,0 +1,8 @@
+---
+title: "Strootman"
+date: "2014-03-13"
+---
+
+Het zou natuurlijk wel zo handig zijn dat Van Persie en Robben heel blijven als we straks in Brazilië nog een schijn van kans willen maken, maar is er dan echt helemaal niemand die in de afwezigheid van Kevin Strootman bij het WK ook voordelen ziet? Louis van Gaal reageerde "verbijsterd" toen hij hoorde van de ernstige knieblessure die een van zijn drie beoogde pionnen had getroffen. Wat gaan we dan missen? Een professionele ontregelaar op het middenveld, zeggen de kenners, met een beslissende steekpass en een ijzeren mentaliteit, waarmee hij voorop gaat in de strijd. Nou, dan ben ik zeker geen kenner, want ik zie vooral een zuigende zeikerd, die al het lelijks in het moderne voetbal belichaamt. Protesteren, provoceren - en inderdaad, af en toe een vleug van vermoeden van een aardige steekpass.
+
+Ja maar, hij speelt zo goed bij AS Roma, beweren diezelfde kenners dan weer. Nou, èn? Hebt u ooit een Italiaanse wedstrijd helemaal uitgezeten? Ik niet. Er komt bij ons thuis wel eens een zogenaamde topper uit de Serie A op Sport1 langs, maar dan zap ik binnen twee minuten geeuwend weg. De enigen die nog een beetje fatsoenlijk kunnen voetballen zijn Totti en Pirlo, en die lopen intussen toch echt serieus tegen de vijftig. De rest is middelmatig en varieert van crimineel (Gatusso) tot spijkerhard (Ogbonna) en van gestoord (El Shaarawy) tot stapelgek (Balotelli). Logisch dat Strootman als Sinterklaas werd ontvangen wanneer de supporters zo weinig gewend zijn. En persoonlijk wens ik hem absoluut een voorspoedig herstel toe zodat hij namens zijn collega's van AS Roma straks weer ouderwets kan zuigen en zeiken - als ik maar niet hoef te kijken.

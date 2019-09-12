@@ -1,0 +1,6 @@
+---
+title: "Zestien miljoen bondscoaches"
+date: "2012-05-16"
+---
+
+Mijn zoon kwam dinsdagavond opgewonden naar boven stormen, waar ik op mijn kamer zat te kijken naar de spectaculaire beslissingswedstrijd tussen Fortuna Düsseldorf en Hertha BSC voor een plaats in de Bundesliga. “Die Van Marwijk is hartstikke gek geworden! Hij neemt Emanuelson niet mee en houdt Bouma in de selectie!” Ik kon hem geen ongelijk geven: Emanuelson is volgens mij de ideale linksback voor Oranje en Bouma lijkt me meer iets voor de oud-internationals. Verder was ik het qua afvallers wel met Van Marwijk eens. Zo heb ik nooit begrepen wat de kenners in Maduro zien: aardige voetballer, meer niet. Cillessen, Büttner, Mulder, De Vrij, Viergever: nauwelijks boven de middelmaat. Wijnaldum, John: grote talenten, maar hopeloos uit vorm. En zo zal iedereen zijn mening hebben. We zijn per slot van rekening een land van zestien miljoen bondscoaches. Eén van hen ben ik en daarom hieronder mijn opstelling voor Euro 2012. Doel: Krul. Achter: Van der Wiel, Bouhlarouz, Heitinga, Emanuelson. Midden: Sneijder, Van Bommel, Afellay, Robben. Voor: Huntelaar, Van Persie. Bank: Stekelenburg, Schaars, Maher, Van der Vaart, Luuk de Jong. Tribune: Vorm, Anita, Vlaar, Nigel de Jong, Siem de Jong, Narsingh, Van Ginkel. Als u ook één van die zestien miljoen bondscoaches bent, dan hoor ik graag uw mening.

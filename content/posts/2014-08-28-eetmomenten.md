@@ -1,0 +1,8 @@
+---
+title: "Eetmomenten"
+date: "2014-08-28"
+---
+
+Om zeven uur ontbijten met een glas multivitamine, een glas water met glutamine, een vezeltablet, een visolietablet en een bord pap met eiwitpoeder. Om negen uur, na de eerste training, een liter water met suikers. Om elf uur lunchen met een glas melk, vier boterhammen met rosbief, vijf gebakken eieren, een banaan en een appel of een kiwi. Bij trek tussendoor een tomaat, een komkommer, een banaan en een appel. Na de tweede training opnieuw een liter water met suikers, een banaan, een appel, een halve liter water met eiwitpoeder en een shake met voedingssupplement (snelle koolhydraten). Om half zes avondeten met een salade en een groot bord pasta of vlees met sperziebonen. Om negen uur nog een visolietablet, een vezeltablet, een multivitaminetablet en vijfhonderd gram magere yoghurt met muesli en eiwitpoeder.
+
+Ziedaar het dieet van skiffeur Roel Braas, twee meter lang en ruim honderd kilo zwaar. Zeven eetmomenten per etmaal op een gemiddelde trainingsdag, daar komt het op neer. Af en toe een biefstuk met knoflooksaus en een patatje mag best, als je je lichaam per dag maar tussen de vijf- en zesduizend calorieën kunt laten verbranden. De organisatie van het WK roeien op de Amsterdamse Bosbaan heeft alle hotels in de omgeving twee jaar geleden al gemaand het nodige aan extra voedsel in te slaan. Volgens toernooidirecteur Gerritjan Eggenkamp, oud-toproeier en nog altijd goed voor een heel brood per dag, stond dit bovenaan het prioriteitenlijstje: "Als je het eten niet goed regelt, klagen de deelnemers de hele dag". Indrukwekkende hoeveelheden, wat u zegt, maar ik vraag me vooral af waar die gasten met zoveel eetmomenten nog de tijd vandaan halen om fatsoenlijk te trainen.

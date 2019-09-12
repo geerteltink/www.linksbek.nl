@@ -1,0 +1,10 @@
+---
+title: "WK-pool van het plein (3)"
+date: "2006-06-26"
+---
+
+Tunesië had in 1978 de primeur. Het was de eerste Afrikaanse ploeg die een WK-wedstrijd won, met 3-1 van Mexico nog wel. Toen moesten we twaalf jaar wachten op de volgende tropische verrassing in de vorm van Kameroen, dat in 1990 titelhouder Argentinië in de eerste ronde uitgeschakeld en pas in de kwartfinale tegen Engeland verloor. “De Ontembare Leeuwen” staan symbool voor het Afrikaanse voetbal, dat volgens de kenners ooit de wereldkampioen zal opleveren. Ik ben zo vrij om daar anders over te denken. Voetballen kunnen ze als de besten, maar tactisch spelen ze het niet altijd slim genoeg en als het even  tegenzit, zijn ze bovendien ook niet te flauw om de botte bijl te hanteren, met alle gele en rode kaarten van dien. Nee, van mij had de finale tussen Ivoorkust en Togo mogen gaan, maar voorlopig is van alle Afrikaanse ploegen alleen Ghana nog van de partij. Zoals overigens niet eens door mij voorspeld werd in de WK-pool van het plein. En toch staat deze jongen intussen toch maar mooi nummer één in het tussenklassement, met zes goed voorspelde uitslagen in de eerste ronde en twaalf raak getipte ploegen voor de achtste finale.
+
+Alle reden dus om nog even door te gaan met mijn persoonlijke WK-blabla. WK-panna: Tevez-Jaliens (Argentinië-Nederland). WK-onmiddellijk-naar-huis-sturen: scheidsrechter Simon vanwege zijn lach bij de tweede gele kaart voor Lucic. WK-nooit-meer-doen: het schouderklopje van Podolski voor scheidsrechter Simon na de tweede gele kaart voor Lucic. WK-invaller: Messi. WK-jammer-dat-ze-er-niet-meer-bij-zijn: Mexico. WK-het-werd-tijd-ook: Beenhakker uitgeschakeld. WK-blij-maar-niet-heus: Kahn op de bank. WK-coach: Bruckner. WK-pleonasme: “de gedoodverfde favoriet” (NOS-verslaggever over Argentinië). WK-citaat: “Dit leek me meer geschreeuw dan wol” (Frank Snoeks tijdens Portugal-Nederland). WK-clown: Ivanov. WK-bedrieger: Figo. WK-elftal: Abbondanzieri; Miguel, Ayala, Sorin, Lahm; Riquelme, Deco, Saviola; Klose, Robinho, Rooney.
+
+Vanavond Italië-Australië en Zwitserland-Oekraïne. Mijn voorspellingen: 3-1 en 1-2.

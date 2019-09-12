@@ -1,0 +1,14 @@
+---
+title: "Gehakketak"
+date: "2013-11-13"
+---
+
+Mijn mening over Paul van Ass, de bondscoach van de Nederlandse hockeyers, moge bekend zijn. Iemand die een onbetwiste icoon als Teun de Nooijer, wereldwijd erkend als één van de beste spelers aller tijden, probeert diens laatste Olympische Spelen door de neus te boren, is zijn functie niet waard. En de manier waarop hij Taeke Taekema in de selectie voor Londen over de schoenen pieste (eerst niet, toen weer wel en tenslotte toch maar niet) mag gerust onder de categorie "karaktermoord" worden gerangschikt. Voeg daarbij die merkwaardige metaforen over hoge bomen die gekapt moesten worden om zonlicht en boslucht te verschaffen aan de andere takken, op dat bekakte hakkietoontje, en mijn weerzin is verklaard. Wat een slap gelul.
+
+Niettemin ben ik zowel persoonlijk als beroepsmatig erg benieuwd met welke bijdehante beeldspraak hij binnenkort voor de draad komt. Als u de sport een beetje volgt, dan zult u begrijpen waar ik op doel: afgelopen zondag werd Van Ass jr. vol op de mond geraakt door de stick van mede-international Valentin Verga. Gevolgen: zeven tanden kwijt, een gebroken kaak, minimaal vier weken uit de roulatie en een rode kaart voor Verga, die door zijn club voorlopig al voor drie wedstrijden geschorst is, in afwachting van de bondssanctie. Van Ass sr. heeft dus enige tijd om na te denken wat hij zal zeggen wanneer de twee elkaar voor het eerst weer ontmoeten op de training van Oranje. Ik gok op iets met "kaken" (op elkaar = zand erover) en "tanden" (laten zien = en nu weer aan het werk), maar hem kennende kan het dus ook zomaar over bomen en takken gaan.
+
+
+
+
+
+Met dank aan SindsNu:

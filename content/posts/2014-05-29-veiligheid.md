@@ -1,0 +1,10 @@
+---
+title: "Veiligheid"
+date: "2014-05-29"
+---
+
+Vorige week woensdag ontaardde een onschuldig korfbaltoernooi voor basisscholen in het Friese dorpje Twijzel in een afschuwelijk drama, toen een betonnen dug out het begaf. De gevolgen waren verschrikkelijk en niet te bevatten: een tienjarig meisje overleefde het ongeluk niet en stierf na vergeefse reanimatie in het ziekenhuis. De impact in de compacte dorpsgemeenschap was uiteraard groot, maar ook op de rest van Nederland maakte het een enorme indruk. Een vrolijk sportfeestje dat zo gruwelijk afloopt, daar word je heel erg klein, stil en verdrietig van. Daar zijn geen woorden voor.
+
+Oh ja? Daar denken ze bij het Almelose bedrijf ERMA Sport, voor al uw dug outs, toch anders over. Daar maken ze van het ellendige voorval misbruik door reclame te maken voor hun aluminium producten. In een persbericht betuigden ze voor de vorm eerst nog wel hun medeleven met de nabestaanden van het omgekomen meisje, maar meteen daarna gingen ze vol op het orgel en nam het bedrijf "haar verantwoordelijkheid als marktleider" door te adviseren om stenen dug outs te vervangen door exemplaren van aluminium - van ERMA Sport natuurlijk, want daar ga je gegarandeerd niet dood van. Oh nee, sorry, zo zeiden ze het niet - maar zo bedoelden ze het wél, want ERMA Sport "voelt het als haar plicht om de veiligheid op sportvelden onder de aandacht te brengen". En omdat ze de beroerdsten niet zijn kwamen ze voor deze bijzondere gelegenheid met een speciale aanbieding van een "sterk gereduceerd tarief".
+
+Hoe bot, blind en brutaal kun je verdomme zijn? Zo dus: een dag later staat de volgende tekst op de website. "We zijn gesterkt door de overwegend positieve reacties die we hebben mogen ontvangen. We betreuren het dan ook ten zeerste dat mensen ons persbericht als kwetsend hebben ervaren. Dit is nooit onze intentie geweest." Bij deze niet mijn excuses aan ERMA Sport wanneer deze column daar als kwetsend wordt ervaren. Dit is namelijk exact mijn bedoeling geweest.

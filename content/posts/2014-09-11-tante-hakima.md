@@ -1,0 +1,6 @@
+---
+title: "Tante Hakima"
+date: "2014-09-11"
+---
+
+Dus als ik het goed heb begrepen doen alleen Gibraltar, Liechtenstein en Andorra niet mee aan het EK voetbal van 2016? Nou, wat maken we ons dan druk om die 2-1 nederlaag tegen Tsjechië? Tuurlijk, het was net als tegen Italië weer niet om aan te gluren zo slecht. En wat die Janmaat vlak voor tijd aan het doen was leek ook helemaal nergens op. Maar we hebben een bondscoach die als bijnaam Guus Geluk heeft, dus het komt allemaal goed. Bovendien is er nog twee jaar de tijd om één van onze grootste talenten, Zakaria Bakkali, te laten slijpen tot de diamant die in hem schuilt. Vorig seizoen werd hij na een wervelende start omschreven als de nieuwe Cruyff, maar sindsdien is het met zijn ontwikkeling even stil blijven staan. Hij kreeg een aanbieding van PSV voor een jaarsalaris van vier ton, wat voor een snotneus van toen nog zeventien toch een droom moet zijn, maar sloeg dit af op advies van zijn vijf zaakwaarnemers, onder wie zijn tante Hakima. Ja, op dat soort zelfbewuste gasten zit Oranje nou echt te wachten. Wat zegt u? Bakkali is een Belg? Dan hebben de Belgen een probleem. En kunnen wij ons concentreren op de cruciale wedstrijden tegen IJsland, Kazachstan en Letland. Dat zal zonder Bakkali nog een hele toer worden.

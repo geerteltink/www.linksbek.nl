@@ -1,0 +1,26 @@
+{
+  "name": "www.linksbek.nl",
+  "version": "1.0.0",
+  "description": "Wie schrijft die blijft",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:css": "stylelint {assets,content,layouts}/**/*.{css,scss}",
+    "lint:fix": "stylelint {assets,content,layouts}/**/*.{css,scss} --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.6.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "postcss-cli": "^6.1.2",
+    "stylelint": "^10.1.0",
+    "stylelint-config-idiomatic-order": "^7.0.3",
+    "stylelint-config-recess-order": "^2.0.2",
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-order": "^3.1.0",
+    "stylelint-scss": "^3.10.0"
+  }
+}

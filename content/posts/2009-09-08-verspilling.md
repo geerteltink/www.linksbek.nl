@@ -1,0 +1,10 @@
+---
+title: "Verspilling"
+date: "2009-09-08"
+---
+
+Kijk, dat de Twentsche Courant Tubantia vorige week woensdag over vrijwel de gehele voorpagina opende met het laatste nieuws over de commissie Lemstra, dat snap ik. Eindelijk een rapport dat niemand ontziet en snoeiharde oordelen velt. Bovendien ging het hier om een redelijk spectaculaire gebeurtenis, waarvan de nieuwswaarde tot ver buiten de regionale grenzen reikte. Het was daarom volkomen terecht dat ook de twee volgende pagina’s hieraan gewijd waren, al durf ik tegelijk de stelling aan dat geen van de beschuldigde heren (het zijn altijd mannen) zijn conclusies zal trekken, zichzelf gewoon laat zitten waar hij zit en over een paar jaar gebruik gaat maken van een riante wachtgeldregeling. Dus wat dat betreft is het werk van Lemstra helaas verspilde moeite, wat weinigen overigens zal verbazen, gelet op onze rijke voorraad aan snaaiende macho’s, graaiende managers en draaiende ministers.
+
+Wat me in diezelfde uitgave van de Twentsche Courant Tubantia daarentegen wél verbaasde, was de reportage in het sportkatern over “De speurtocht naar Arnautovic”. De redactie had dus kennelijk bepaald dat een verslaggever naar Milaan mocht afreizen om op zoek te gaan naar een verwende klier, van wie iedereen bij FC Twente blij was dat hij eindelijk was opgerot en gelukkig nog zoveel geld had opgebracht. Geen misverstand: ik ken de betreffende reporter als een redelijk mens en ik zou onmiddellijk hetzelfde hebben gedaan als me zo’n unieke kans op een dergelijk snoepreisje was geboden, zo ben ik ook wel weer. Het verhaal was ontegenzeglijk vakkundig geschreven, daar hoef je bij Banierink niet achteraan, maar voor het overige heb ik zelden zo’n staaltje van overbodige journalistiek gelezen. Wat interesseert het mij nou of zo’n irritante puber wel of geen rugnummer heeft en al dan niet aan de groepstraining heeft meegedaan. En dat ook nog eens beeldbepalend verspreid over twee pagina’s, wat een onbenullige verspilling van talent, geld en papier.
+
+Volgende week in de Twentsche Courant Tubantia: “Op zoek naar Collins John”.

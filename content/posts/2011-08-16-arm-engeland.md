@@ -1,0 +1,8 @@
+---
+title: "Arm Engeland"
+date: "2011-08-16"
+---
+
+Mario Balotelli is een 19-jarige Italiaanse voetballer die bij Manchester City 3,5 miljoen per jaar verdient. Zijn transferwaarde bedroeg een slordige 30 miljoen, nadat Inter Milaan fors op de vraagprijs had ingeleverd. Zoveel geld doet rare dingen met zo'n jongen en dat laat hij blijken ook. Op een gegeven moment had hij drie vriendinnen, van wie hij er één per sms dumpte. Op youtube circuleert een hilarisch filmpje waarin hij als een dolle hond met een hesje staat te hannesen. Tijdens een vriendschappelijke wedstrijd tegen LA Galaxy probeerde hij voor open doel met een hakje te scoren en toen dat mislukte werd hij door trainer Roberto Mancini van het veld gehaald. Bij een routinecontrole in Manchester antwoordde hij de politie waarom hij zomaar vijf biljetten van 1000 euro in de achterzak had: “Omdat ik zo rijk ben”.
+
+Rafael van der Vaart voetbalt bij Tottenham Hotspur en heeft het bij de club goed naar de zin, maar gaat na de wedstrijd zo snel mogelijk naar zijn huis ver weg van de wijk, want daar is het volgens hem niet pluis. Nee, maar wel een gigantisch salaris naar binnen harken, daar zijn de club, de wijk en de supporters wel weer goed voor. En daar hebben we volgens mij een punt dat de raddraaiers en relschoppers van vorige week duidelijk hebben proberen te maken. Geen misverstand: ik praat geenszins goed dat mensen beroofd, winkels geplunderd en agenten belaagd worden. Dat walgelijke gedrag dient keihard bestraft te worden. Maar ik kan me dus voorstellen dat mensen gekmakend kwaad worden op de waanzinnige salarissen van overschatte voetballers, de schandalige bonussen van falende bankiers en de schofterige declaraties van blunderende politici.

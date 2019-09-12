@@ -1,0 +1,8 @@
+---
+title: "Attentiewaarde"
+date: "2011-02-15"
+---
+
+In het begin trapte ik er ook in. Ik dacht echt, eerlijk waar, dat die reclameborden op de televisie, links en rechts van de goals, echte reclameborden waren. Menig keer hield ik van pure schrik en angst de adem in als een doorgebroken speler er gevaarlijk dicht bij in de buurt kwam. Het was vaak regelrechte paniek. Pas toen ik de zoveelste voetballer er gewoon tegenaan had zien lopen, zonder meteen zwaargewond ter aarde te zijgen, drong de virtuele waarheid tot me door. Intussen ben ik er een beetje aan gewend en het zal wel functie hebben, maar ik blijf het in negatieve zin afleidende rotdingen vinden en dat kan toch niet de bedoeling zijn. Ik neem tenminste niet aan dat de afzender zijn publiek dan wel doelgroep opzettelijk wil schofferen.
+
+Het kan evenwel nog veel irritanter en daarmee bedoel ik die meelopende reclameborden over de hele zijlijn. Laatst was ik in de Beugel Bunker bij Twente-PSV en ik heb me de volle honderdtwintig minuten minuten wild zitten ergeren. Ben je net geconcenteerd een aanval aan het volgen en scherp op buitenspel aan het letten, komt er ineens een auto dwars door je beeld denderen en weg is je aandacht. Ik weet verdomme niet eens meer welk merk het was, zo erg vond ik het. Nou kom ik toevallig zelf uit de reclame, ik ben in die branche begonnen toen vrouwen nog op motorkappen lagen, dus ik weet wel wat van het begrip “attentiewaarde”. En dat is dat reclame a) functioneel, b) functioneel en c) functioneel moet zijn. Grafische trucjes kunnen leuk zijn, maar zodra die de intentie van de boodschap gaan domineren, is het budget weggegooid geld. Hou het simpel. “Geen gelul, gebak van Krul!” Geen woord te veel. Heerlijk gebak.

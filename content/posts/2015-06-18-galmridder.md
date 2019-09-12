@@ -1,0 +1,8 @@
+---
+title: "Galmridder"
+date: "2015-06-18"
+---
+
+Youp van 't Hek blufte zaterdag in de NCR dat hij zijn laptop nog niet openklapte voor het bedrag dat collega-columnist Jan Mulder met zijn transfer van Het Nieuwsblad naar Het Laatste Nieuws gaat verdienen. Naar verluidt hebben de Belgen hebben er 2,5 ton per jaar voor over om de mopperende brabbelaar annex nostalgische romanticus in huis te halen. Geen misverstand: ik zou zo'n aanbod onmiddellijk accepteren ('Tekenen bij het kruisje?') en toch schuurt er iets in mijn poging tot begrip voor deze transactie. Ik bedoel: dat is toch dezelfde Jan Mulder als de irritante aansteller die zich bij De Wereld Draait Door en Studio Voetbal mag pseudo-ergeren aan graaiende bankhufters en falende sportbobo's?
+
+Natuurlijk zal hij zich via zijn columns in bloemrijke bewoordingen mooi kwaad maken over hooligans die een toernooi voor clubs die niet meer bestaan (Haarlem, SVV, Veendam en Wageningen) kapot fucken, maar het is links lullen en rechts vullen, zoals dat bij ons thuis heet. En nogmaals, daar is niets op tegen, hij is bovendien niet degene die dat belachelijke salaris heeft bedacht, laat staan betaalt, maar ook geloofwaardigheid heeft zijn houdbaarheidsdatum en de uiterste grens daarvan is nu toch wel bereikt. Dus als Jan Mulder zich bij Matthijs van Nieuwkerk of Jack van Gelder weer eens laat gaan als de politiek correcte galmridder die de wereld in het algemeen en Nederland in het bijzonder voor de laatste keer waarschuwt, kijk 'm dan even diep in de ogen. Daar ziet u eurotekens, heel veel eurotekens. Vijfduizend per column, om precies te zijn. Da's makkelijk galmen.

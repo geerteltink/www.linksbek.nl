@@ -1,0 +1,10 @@
+---
+title: "Herááákles!"
+date: "2002-09-24"
+---
+
+Was me dat even schrikken! “Arjan Hoop weg bij FC Twente” kopte de Twentsche Courant Tubantia vorige week dinsdag. Ik had eerlijk gezegd nog nooit van de beste man gehoord, maar uit het bericht bleek, dat de adjunct-directeur commerciële zaken de zoveelste topfunctionaris is, die de club in een relatief korte tijd de rug toekeert. Nu zal het mij jeuken wie de nieuwe adjunct-directeur commerciële zaken wordt, maar een groot verloop biedt doorgaans toch niet echt het beeld van de ideale werkgever. En dan heb ik het alleen nog maar over de kantoorbezetting. Moet u eens kijken hoeveel trainers de club heeft gehad nadat Hans Meyer in september 1999 naar de Bökelberg vertrok.
+
+Fred Rutten wilde zich niet langer door de Wessels-clan de wet laten voorschrijven en hield de eer aan zichzelf. John van ’t Schip zou het eerst nog een jaartje aanzien, maar knapte na drie trainingen af op de openlijke onwil van de zogenaamde vedetten in zijn gelouterde selectie. En nu hebben we René Vandereijcken, die een geblesseerde keeper laat staan en tegenstander Feyenoord een openbare training in het Arke Stadion gunt. Dit alles doet vrezen, dat de ellende van vorig seizoen gewoon doorsuddert en FC Twente rechtstreeks richting Gouden Gids Divisie koerst. Net als in 1983, toen dat nog eerste divisie heette, en in al die 20 jaar daarna heb ik geen wedstrijd in die klasse meer gezien.
+
+Tot vorige week vrijdag was ik zelfs nog nooit bij Heracles geweest. De Engelse tribune aan de Bornsestraat kende ik alleen van foto’s en de nieuwe lokatie stond me tegen vanwege de naamgeving. Volgens mij mag je een voetbalstadion namelijk niet vernoemen naar een toevallige sponsor die verder geen enkele binding met de club heeft, en het leuke van Pim Polman is dat je dat dus ook gewoon recht in zijn gezicht kunt zeggen, maar het moest er toch een keer van komen en ik kan u zeggen: volgend jaar ga ik weer. Heracles-Twente lijkt me geen slecht affiche. En als dat niks wordt, dan kan de familie Wessels dus eindelijk die felbegeerde tweede ring gaan bouwen. Maar dan wel in Almelo.

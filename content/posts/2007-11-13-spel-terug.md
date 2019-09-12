@@ -1,0 +1,10 @@
+---
+title: "Spel terug"
+date: "2007-11-13"
+---
+
+Stel, u was lid van de jeugdcommissie en u werd gebeld door de vader van een junior. Het vorige elftal van zijn zoon was uit elkaar gevallen en hij dreigde tussen de wal en het schip te belanden. Aan u de taak om daarvoor een creatieve oplossing te bedenken. Na enig nadenken en schuiven kwam u op een idee. De jongen was weliswaar een paar maanden te oud voor de betreffende leeftijdscategorie, maar in dit soort gevallen wil de bond nog wel eens een oogje toeknijpen en dispensatie verlenen. Met die boodschap meldde u zich weer bij de vader, die tot uw genoegen niet onenthousiast reageerde en de naam vroeg van de coach om een en ander met hem te kunnen bespreken. Toen u dat had gedaan bleef het even stil aan de andere kant van de lijn. Hallo? Ja eh, dat was de advocaat van de tegenpartij in het proces contra zijn werkgever. Een paar dagen later sprak u de coach en toen hij de naam van de zoon en zijn vader hoorde was zijn reactie: ik was de advocaat van de tegenpartij in het proces contra zijn werkgever.
+
+Die twee vaders zullen we dus waarschijnlijk niet gezellig samen langs de lijn aantreffen, maar zij zijn helaas niet de enigen. Uit recent onderzoek in opdracht van SIRE, onder ruim 800 ouders met sportende kinderen, blijkt dat ruim negen op de tien ouders zich in meer of mindere mate ergeren aan het gedrag van andere ouders die op het sportveld hun kids staan aan te moedigen. Het gaat hierbij om het opjutten van kinderen, vloeken en schelden, het wijzen van de scheidsrechter op een verkeerde beslissing en het adviseren van de teamleiding. Vier op de tien ouders denken echter dat andere ouders zich nooit aan hen ergeren. Al met al voldoende reden voor SIRE om in een campagne (“Geef kinderen hun spel terug”) ouders, maar ook begeleiders en coaches bewust te maken van hun irritante gedrag en ze te laten zien welke negatieve impact dat heeft op de kinderen.
+
+Prima campagne, hoor ik u denken, maar als lid van de jeugdcommissie had u misschien toch liever een elftal om die junior zijn spel terug te geven.

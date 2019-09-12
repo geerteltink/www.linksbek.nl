@@ -1,0 +1,8 @@
+---
+title: "Bardienst"
+date: "2011-03-08"
+---
+
+Normaliter kijk ik natuurlijk nóóit naar dat prutprogramma, maar tijdens een rondje zappen bleef de afstandsbediening toevallig hangen aan RTL Boulevard. Ons nationale glijmiddel Albert Verlinde kondigde met gepaste trots en ingehouden adem een item over Amalia aan en we kregen beelden van een hockeyveld te zien. Het bleek te gaan om het complex van de Haagse club HGC, waarvan het kroonprinsesje kennelijk lid was geworden. En nou ging het niet om haar sportieve talenten, die me als officieel erkend republikein overigens ook geen bal zouden interesseren. Verder wil ik ook totaal niet weten hoeveel hofdames haar met welke koets naar het veld brengen als oma, papa en mama een vorkje gaan prikken met een bevriende keurslager in Oman.
+
+Nee, het grote nieuws was het feit dat bij HGC de ouders van junioren twee keer per jaar een paar uur bardienst moeten draaien en dat die verplichting dus ook voor Máxima en Willem-Alexander geldt. Nu hoeft een biertje tappen geen probleem te zijn voor een doorgewinterde ervaringsdeskundige als Prins Pils, die naar verluidt in het Holland Heineken House regelmatig het licht heeft uitgedaan. Het is evenwel niet geheel uit te sluiten dat men zich in oranjekringen toch wellicht met enige zorg zal afvragen of onze toekomstige koningin het risico moet lopen om haar vorstelijke vingers te branden aan zoiets volks als een tosti ham-kaas of een broodje frikandel. Ander probleem: moet ze als “hoogheid” aangesproken worden? Of mag “mevrouw” ook? En zouden ze er, speciaal voor opa Zorreguieta, ook een patatje oorlog hebben?

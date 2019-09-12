@@ -1,0 +1,10 @@
+---
+title: "Slecht gedrag"
+date: "2005-03-16"
+---
+
+José Mourinho, de coach van Chelsea, is op dit moment aan de winnende hand en de winnaar heeft altijd gelijk, zeggen ze. Is dat zo? In dit geval is enige twijfel op zijn plaats. De man hoeft maar te kikken en die rare rijke Rus trekt de knip om weer een topper aan te trekken. Da’s lekker makkelijk voor een coach, die graag wil winnen en daar alles voor over heeft. José Mourinho is namelijk geen aangenaam heerschap. Hij provoceert en irriteert collega’s, tegenspelers en supporters. Hij klopt, hij veegt en hij zuigt. En: hij is niet geduld van enige in-, laat staan tegenspraak. In een interview met The Sunday Times verklaarde hij zijn liefde voor de oude dictators Salazar en Caetanho, de twee generaals, die zijn eigen Portugal gedurende lange jaren in een ijzeren greep van tirannie, willekeur, angst en marteling hielden. En hoe brengt hij zijn bedenkelijke voorkeur onder woorden? “Democratie bevordert de middelmaat.”
+
+De conclusie is duidelijk: Mourinho is een schaamteloze vlerk, een gevaarlijke gek bovendien, die dus geen middel schuwt om zijn gelijk te halen. Na de verloren uitwedstrijd bij Barcelona uitte hij ongezouten kritiek op arbiter Frisk, die partijdig zou hebben gefloten. De gevolgen zijn bekend: Chelsea-fans bedreigden de Zweedse scheidsrechter, die het daarop voor gezien hield. Nu kun je veilig beweren, dat Frisk een pedante ijdeltuit is - een kruising tussen Frans Derks en Geert Wilders - die graag in de schijnwerpers staat en al die media-aandacht eigenlijk stiekem misschien best wel lekker vindt. En, ook helemaal waar: bedreigen mag niet. Maar dat neemt natuurlijk niet weg, dat het slechte gedrag van Mourinho door de UEFA op schandelijke wijze is beloond. Op zijn verzoek (!) werd voor de return een beroep gedaan op Collina, die heel toevallig niet zag, dat de keeper van Barcelona bij het beslissende doelpunt kansloos omver werd getrokken.
+
+Ik heb zojuist democratisch besloten, dat het beter voor het aanzien van het voetbal zou zijn als Chelsea de Champions League niet wint. Dat ze kampioen van Engeland worden is al erg genoeg.

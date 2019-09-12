@@ -1,0 +1,6 @@
+---
+title: "Grasmaaiers"
+date: "2012-09-25"
+---
+
+Studio Sport opende zondagavond niet, zoals gebruikelijk is, met de wedstrijd van de koploper (FC Twente), maar met de samenvatting van een klassieker (PSV-Feyenoord). Ja, nou èn? Waar maken we ons druk om? Als ik supporter van PSV was, dan zou ik me kapot schamen voor het anti-voetbal van Strootman en Toivonen, de twee lelijkste spelbedervers van de hele eredivisie. En dan vergeet ik nummer drie, want die vervelende schopper van een Van Bommel deed nog niet eens mee. Vijf gele kaarten in vijf wedstrijden, hoe gefrustreerd kun je zijn? Nee, prima beslissing van de NOS om met PSV te beginnen: dan hebben we dat maar vast gehad en kunnen we verder met het beste voetbal van Nederland op dit moment. Misschien niet tegen Heerenveen, maar wat FC Twente voor rust tegen Hannover 96 liet zien, was beter dan welke andere club dan ook nu te bieden heeft. Jammer dat Luc Castaignos aan dit hoge niveau (nog) niet kan tippen, verder heeft McClaren voorlopig gelijk met zijn streven naar een zo breed mogelijke selectie. Kennelijk werkt het en daar gaat het toch om in het korte-termijn-opportunisme van het betaalde voetbal. Wat denkt u: zou Frank de Boer al opdracht gegeven hebben om het gras in de Arena deze week maar een keer niet te maaien?

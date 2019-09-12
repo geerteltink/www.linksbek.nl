@@ -1,0 +1,8 @@
+---
+title: "Jodenzonen"
+date: "2011-03-22"
+---
+
+Natuurlijk is Lex Immers geen racist of antisemiet. Lex Immers is gewoon een ongelooflijk domme grashengst die geen idee had wat hij na die overwinning op Ajax in de microfoon stond te boeren. Amsterdammers _zijn_ toch ook kutjoden? Nou, pleur dan op met je tyfustering politieke correctheid. We zijn hier in Den Haag en in Den Haag zijn Amsterdammers kutjoden, net zoals spelers en supporters van Feyenoord kakkerlakken zijn, daar had die kutjood van een Vertonghen groot gelijk in. Maar ja, het staat op YouTube en dan kun je maar beter inbinden, een excuus prevelen en de boete incasseren, met een vrome verklaring die overduidelijk door de afdeling externe betrekkingen van ADO Den Haag is opgesteld, want daar is Lex Immers mentaal, laat staan verbaal niet toe in staat.
+
+Het incident komt voor ADO op een ongelukkig moment. De ploeg speelt hartstikke leuk voetbal, fris van de lever en vol op de aanval. Trainer John van den Brom zal dan ook spijt als haren op zijn hoofd hebben dat hij zich niet ter plekke van het kwalijke gezang heeft gedistantieerd. Uitgerekend in het seizoen waarin zijn club definitief afgerekend dacht te hebben met het hardnekkige imago van een harde kern met het IQ van een kolibri en de diepgang van een douchemat, breekt de pleuris weer los, met alle gevolgen van dien. Daar ben je dus mooi klaar mee als management om dat aan de leden van je business club uit te leggen. Maar misschien moet Ajax ook eens een gebaar maken en zijn supporters voorgoed verbieden om nog langer joodse symbolen gemakzuchtig te misbruiken als flexibel alibi voor ranzige provocaties. En verder kan ik me voorstellen dat Lex Immers een transfer naar Ajax wel kan vergeten.

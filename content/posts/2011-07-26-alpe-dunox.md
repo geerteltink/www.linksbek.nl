@@ -1,0 +1,10 @@
+---
+title: "Alpe d'Unox"
+date: "2011-07-26"
+---
+
+Wat is er toch aan de hand met dit volk dat we van elk evenement zonodig een braderie van carnaval en folklore moeten maken? De omwonenden van het Museumplein zijn het geboer, het gekots, het gepies en het gepoep van de Ajax-supporters helemaal zat en hebben de burgemeester al gevraagd om een volgende huldiging alsjeblieft in de Arena te laten gebeuren. Is het de invloed van de malle pietjes in hersenloze programma's als Oh Oh Cherso? Of is het echt zo slecht gesteld met de verstandelijke vermogens van onze natie dat we al een staande ovatie scoren als we in zo'n gezellige televisiequiz een woord foutloos kunnen spellen?
+
+We zijn het land van Unox, Heineken en Jägermeister geworden. Je kunt geen promodorp betreden of je wordt onmiddellijk geconfronteerd met een kleffe materie die je als “Het hollandste broodje van Nederland” alleen weg kunt spoelen met die zure uilezeik die volstrekt ten onrechte bier heet. En zodra de temperatuur ook maar een nanograad onder nul daalt begint de kruidenbitterbranche al overuren te draaien voordat de rayonhoofden ook maar hebben kunnen beslissen of ze elkaar binnenkort eens zullen bellen om over twee weken misschien een keer bij elkaar te komen.
+
+We zijn volledig in de war en we staan erbij en kijken ernaar. Bocht zeven van de Alpe d'Huez was vorige week vrijdag één bonte vergissing van oranje idioten. Waarom? Omdat we daar, voor het laatst in 1989, toevallig een paar keer achter elkaar gewonnen hebben. Hallo! Dat is tweeëntwintig jaar geleden en die tijd komt nóóit meer terug. Maar nee, het is Onze Berg, de Alpe d'Unox. En dus staan we na drie dagen campingzuipen zo dik als duizend man onze helden toe te zingen en losers als Voeckler en Contador uit te schelden. Ik weet niet of het een Nederlander was die van de Spanjaard een hoek kreeg. Maar wat mij betreft gaat de grootste eer naar de wielrenner die van zijn fiets stapt en zo'n meerennende dwangneuroot over de vangrail in het ravijn dumpt. Ja, ik vind zelfs dat de organisatie van de Tour de France er een speciale prijs voor in het leven zou moeten roepen: le Coup d'Or.

@@ -1,0 +1,6 @@
+---
+title: "Veertien bier"
+date: "2011-04-27"
+---
+
+Als we vroeger bij Drienerlo moesten hockeyen dan wisten we één ding zeker: Studio Sport halen werd lastig – en als je het al redde dan was het zicht niet echt helemaal helder meer. Bij de student'n was het bovengemiddeld goed toeven en het kon er knap laat worden, maar gelukkig was er altijd wel iemand die pizza's bestelde voordat we met z'n allen stinkend van het bier en het zweet doorgingen naar Café de Geus aan de Oude Markt. Hun clubhuis bestond uit een oude boortoren van de Koninklijke Zout Industrie uit Boekelo en dat ding staat er nog steeds, zoals ik afgelopen weekend bij één van mijn laatste wedstrijden als manager van Heren 2 tot mijn grote vreugde en voldoening kon constateren. Verder was er niets veranderd. We wonnen heel relaxed met 8-3, maar de grote winst kwam na de wedstrijd: veertien vers getapte glazen Grolsch voor tien euro, dat zijn nog eens prijzen. Lang leve Drienerlo! En laat ik nou net zojuist in de krant lezen dat het bij Café de Geus ook weer ouderwets gezellig gaat worden. Het zal weliswaar nog te laat klaar zijn om er de huldiging van FC Twente te vieren, maar voor de dubbel van 2012 zijn ze mooi op tijd.

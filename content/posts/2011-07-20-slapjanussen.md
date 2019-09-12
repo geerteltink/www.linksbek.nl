@@ -1,0 +1,8 @@
+---
+title: "Slapjanussen"
+date: "2011-07-20"
+---
+
+Johan Derksen heeft verstand van voetbal en daarom het recht om daarover verstandige dingen te zeggen. Hij is echter ook maar een mens en dus is ook hij, net als menig BN'er, met open ogen getrapt in de val die ijdelheid heet. Als je deze zomer niet in een of ander lullig Tour-programma opdraaft, dan tel je niet mee in het babbelcircuit. En als je dan ook nog een mening mag opboeren, dan ben je al gauw een kenner. In het programma Tour de Jour noemde hij Robert Gesink een slapjanus en dat had hij nou net niet moeten doen. Als er iemand geen slapjanus is, dan is het Robert Gesink. En trouwens, de grootste slapjanus is misschien wel Wilfred Genee. Want je kunt van Mart Smeets zeggen wat je wil, maar bij hem was Derksen er niet zo gemakkelijk van afgekomen.
+
+Peter Middendorp heeft verstand van politiek en kan daar als columnist van De Volkskrant zinnige dingen over schrijven, in een mooie stijl nog wel. Maar ook hij moet natuurlijk zonodig een oordeel over wielrennen in het algemeen en wielrenners in het bijzonder hebben en dan is Robert Gesink vanzelfsprekend een logisch thema: “Robert kan niet. Wil niet. Durft niet. Heeft het niet. Voelt het niet. Probeert het niet eens.” Aha. Dat schrijft dus dezelfde man die in zijn afscheidscolumn voor De Pers schreef dat hij ouderschapsverlof zou opnemen en dat voor de toekomst alles nog open lag en bespreekbaar was. Niet veel later later meldde hij zich als columnist in De Volkskrant. Hoezo “alles bespreekbaar”? Het was allang geregeld, man. Durf dáár eens over te schrijven dan. Probéér het eens.

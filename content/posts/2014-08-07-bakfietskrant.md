@@ -1,0 +1,8 @@
+---
+title: "Bakfietskrant"
+date: "2014-08-07"
+---
+
+Youp van 't Hek wil geen indirecte collega zijn van de "gluiperige roddelkont" Evert Santegoeds en stopt dus met zijn column in de NRC als die door De Telegraaf wordt overgenomen. Typisch een gevalletje van shit wie heeft je gescheten. Meneer recyclet zichzelf elke zaterdag, verdient daar heel veel geld mee, slaat er tegen de vakantie en de kerstdagen een nietje doorheen, verkoopt al die winkeldochters voor een godsvermogen en kan zich weer een leuk grachtenpandje veroorloven. Niks op tegen, sterker nog: ik ben er zelfs stikjaloers op, maar ga dan niet politiek correct lopen miepen als jouw bakfietskrant volgens de keiharde principes van datzelfde kapitalisme aan de hoogst biedende wordt verpatst. Links lullen, rechts vullen: zie ook Derk Sauer, mede-aandeelhouder van de NRC.
+
+Doorgefokte grootheidswaanzin van een volgevreten plofkip, meer is het niet. Alsof hij bepaalt wie er op de loonlijst van de NRC en De Telegraaf staan. In het colofon van het Twentse weekblad De Roskam figureer ik onder de rubriek "medewerkers" samen met dezelfde Jan Medendorp, die me in die mooie krant ooit tot de enkels afbrandde omdat ik iets lelijks over een deal van de gebroeders Wessels met Vitesse had geschreven ("FC Twente is jullie hoer, Vitesse jullie maîtresse"). De omschrijving "hockeykwijl" was nog wel de vriendelijkste die hij me toebedeelde. En nu? Nu zijn we collega-columnisten, niet alleen voor De Roskam, maar ook op www.twentesport.com. Ik verbeeld me zelfs dat we elkaar stiekem eigenlijk best aardig vinden. Het is allemaal niet zo moeilijk: Van 't Hek mag blij zijn dat hij er zomaar zoveel lezers bij krijgt. En Santegoeds is gewoon een professional, met een doelgroep, maar zonder bakfiets.

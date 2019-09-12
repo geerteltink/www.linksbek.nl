@@ -1,0 +1,14 @@
+---
+title: "Challenge"
+date: "2013-10-09"
+---
+
+Voor zo’n 20.000 kinderen in Nederland is het helaas niet vanzelfsprekend dat ze zomaar onbezorgd kunnen rennen, fietsen, spelen en sporten. Ze hebben een spierziekte en dat beperkt hen in alles wat ze willen en kunnen. Bovendien lopen ze het risico dat ze niet heel oud zullen worden en dat is op die leeftijd natuurlijk een vreselijk vooruitzicht. Stichting Spieren voor Spieren helpt deze kinderen door mensen op te roepen om in actie te komen en gezonde spieren in te zetten voor zieke spieren. Enkele bekende (ex-)topsporters die dit bijzonder goede doel actief ondersteunen, zijn Frank en Ronald de Boer, Minke Booij, Theo Bos, Pieter van den Hoogenband, Sjeng Schalken, Ron Zwerver en de sterkste spierbundel van allemaal, Epke Zonderland.
+
+In de nacht van zaterdag 26 op zondag 27 oktober, als om 02.00 uur de wintertijd ingaat, vindt er in en om het Amsterdamse Sloterpark een bijzondere wedstrijd plaats waarvan de opbrengst naar Spieren voor Spieren gaat. Maximaal 500 sporters kunnen zich inschrijven voor de onderdelen hardlopen, zwemmen, aquajoggen en schoonspringen. Het belooft een geweldig feest te worden en dat gun ik de organisatie van harte. Maar ik heb ook een tip voor ze: laat een volgende keer alsjeblieft iemand anders de radiocommercial inspreken. Nu is dat gedaan door Louis van Gaal, met die onmiskenbare Feldwebel-tongval van dat bordes in München. Ga naar de website om het na te luisteren en let vooral even op de manier waarop hij het woord "challenge" uitspreekt. Niettemin hoop ik dat er in de nacht van de wintertijd een enorm bedrag wordt opgehaald, want dat is natuurlijk de enige echte "tsjelluns".
+
+
+
+
+
+Met dank aan SindsNu:

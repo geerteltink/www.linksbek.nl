@@ -1,0 +1,8 @@
+---
+title: "Silver Cup"
+date: "2019-06-27"
+---
+
+De bus zou zondagmorgen om 10.30 uur vanaf de Geesinkweg vertrekken naar Zeist, om precies te zijn naar het complex van Schaerweijde, een ongerept hockeyreservaat waar de kouwe kak nog welig tiert en zelfs de honden dubbele voornamen hebben. Hier zou de finale om de Silver Cup gespeeld worden tussen de dames van het Amstelveense AMVJ en EHV, dat in de competitie ondanks het hoogste aantal goals van allemaal, met een derde plaats net buiten de play offs was gevallen. Het ging hier dan ook om een echte hoofdprijs en dat zou blijken, maar om daarbij van de partij te zijn moesten we dus eerst ruim anderhalf uur reizen in de Omnibus van Paul Kürten. Het was heet ondanks de airco en tegen kwart voor elf gingen de eerste blikjes Grolsch van hand tot hand. Omstreeks half twaalf realiseerde ik me dat ik eigenlijk veel te oud ben voor die flauwekul, maar dat wist ik al.
+
+De wedstrijd zelf was in feite een formaliteit, EHV speelde voortreffelijk en AMVJ had geen schijn van kans. Hun geluk was dat EHV naliet wat het in de competitie wel gedaan had en dat was scoren, althans in het begin. Na de eerste drinkpauze gingen ze met een 2-0 voorsprong de rust in, waarna AMVJ via een benutte strafcorner iets terug deed (2-10). Het bleek vergeefse moeite en dankzij drie fraaie treffers (eindstand 5-1) mocht de Silver Cup mee naar Enschede. Hoe dan ook een historische prestatie en wat mij betreft kandidaat voor de Sportploeg van het Jaar. Na afloop feliciteerde ik één van de jongste speelsters met de kwaliteit van haar optreden. Haar antwoord, keurig opgevoed als al die andere hockeymeiden: ‘Dank u wel, meneer!’ Had ik u al gezegd dat ik me eerder die dag ook al heel oud had gevoeld?

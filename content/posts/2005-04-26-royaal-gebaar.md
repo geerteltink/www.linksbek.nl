@@ -1,0 +1,10 @@
+---
+title: "Royaal gebaar"
+date: "2005-04-26"
+---
+
+Vorig najaar stond hij nog gloedvol te speechen op het Museumplein, samen met zijn collega Lodewijk de Waal, tijdens een demonstratie van de vakbonden tegen de plannen van dit “rotkabinet”. Helemaal mee eens, daar niet van, maar afgelopen zaterdag werd hij bij zijn afscheid als voorzitter van het CNV door de minister-president van datzelfde “rotkabinet” koninklijk onderscheiden: Doekle Terpstra, aangenaam. Hoewel: aangenaam? Net zo aangenaam als Wim Kok, die als actief PvdA-politicus fulmineerde tegen de “exhibitionistische zelfverrijking” van ’s lands top-ondernemers, maar zich nu zelf volvreet aan de presentiegelden van zijn vele commissariaten bij de grote bedrijven van diezelfde top-ondernemers. Net zo aangenaam als diens partijgenoot Hans Alders, die als commissaris van de koningin zijn niet onaardige basis-inkomen met tal van lucratieve schnabbels moeiteloos verdubbelt. Bent u intussen ook zo benieuwd naar het eerste vette bijbaantje van Doekle Terpstra als voorzitter van de HBO-raad?
+
+En zo wordt er, al dan niet in naam der Koningin, uitbundig bijgeklust en bijgebeund door degenen, die het niet echt nodig hebben. Maar juist hun namen ontbreken daarentegen bij de actie voor degenen, die het wél nodig hebben, op www.eenroyaalgebaar.nl. De initiatiefnemers van deze campagne bepleiten een generaal pardon voor alle uitgeprocedeerde asielzoekers. Het zijn er allang geen 26.000 meer, dus waar hébben we het over? We mérken ze niet eens. Bij de ondertekenaars bevinden zich overigens ook maar weinig bekende mensen uit de sport. Ik heb slechts de namen van ex-voetballer Jan Mulder, Ajax-manager David Endt, Studio Sport-boegbeeld Mart Smeets en ex-hockeyster Elsemieke Havenga langs zien komen. De enige actieve sporter, en niet degene die je eerlijk gezegd hier zou verwachten, is ex-Feyenoorder Paul Bosvelt, vandaag de dag met veel succes actief bij Manchester City. Ik ben geen Feyenoord-fan, maar Paul Bosvelt kan voor mij niet meer kapot.
+
+Mijn advies: hup Holland hup, teken voor een royaal gebaar.

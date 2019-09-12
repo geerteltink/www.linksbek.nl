@@ -1,0 +1,8 @@
+---
+title: "Persconferentie"
+date: "2009-09-22"
+---
+
+Weet u nog waar u was en wat u deed op 23 januari 2003? Ik weet het wel: ik keek die dag naar de persconferentie waarop Louis van Gaal afscheid nam als bondscoach van het Nederlands elftal. Ik herinner me van die gelegenheid vooral veel pathetisch gebral en theatraal geblaat. Zelden zo’n onbedoeld hilarische one man show gezien. En ik zal ook nooit vergeten hoe verbaasd ik was dat dat complete circus live door de NOS werd uitgezonden. Dat kan alleen in Nederland, dacht ik toen. Maar het kan ook bij onze zuiderburen: dinsdagmiddag rechtstreeks op de Belgische tv in een extra bulletin van het journaal, de eerste persconferentie van Dick Advocaat als bondscoach van België, met een tweetalige inleiding door bondsvoorzitter Francois de Keersmaecker.
+
+Hij had het over een belangrijke dag voor het Belgische voetbal, want het was lang geleden dat zoveel journalisten op een persconferentie van de voetbalbond waren afgekomen. Voorts toonde hij zich opgetogen dat de nieuwe man vervroegd aan de slag kon, omdat hij met zijn indrukwekkende erelijst de aangewezen man was om de teleurstellende resultaten van de Rode Duivels te doen vergeten, met het oog op het volgende doel: kwalificatie voor de EK voor 2012. Vervolgens was het woord aan de journalisten, die de nieuwe bondscoach consequent met u aanspraken. Dat veranderde toen de onvermijdelijke Bert Maalderink van de NOS de microfoon kreeg. Ik ben vergeten wat hij vroeg, maar het ging meteen weer van je en jij. En toen wist ik het weer: het voetbal van de Belgen mag dan weinig voorstellen, het is qua omgangsvormen wel een land om “u” tegen te zeggen.

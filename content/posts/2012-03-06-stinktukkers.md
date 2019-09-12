@@ -1,0 +1,8 @@
+---
+title: "Stinktukkers"
+date: "2012-03-06"
+---
+
+Hoe ongelooflijk mooi voetbal kan zijn, heb ik zondag met eigen ogen mogen aanschouwen bij PSV-FC Twente. Ik was erbij, op 3 november 1968, toen Ajax in Het Diekman met 5-1 werd afgemaakt. Sindsdien hebben mijn favoriete club en ik talloze hoogtepunten beleefd, met de titel in 2010 als absolute apotheose, maar na 4 maart 2012 heb ik het idee opnieuw zo'n historische wedstrijd meegemaakt te hebben. Zes keer scoren in Eindhoven, en dan vooral de weergaloze manier waarop, de een nog mooier dan de andere, dat zal niet vaak meer gebeuren. Die uitslag nemen ze ons niet meer af. En wat is het dan ontzettend jammer dat mijn herinnering aan deze glorieuze middag toch enigszins ontsierd wordt door een Brabantse idioot op een rij achter me.
+
+Vanaf de allereerste minuut zat hij te tieren en te schelden op een manier die ik nog niet kende. Werkelijk alle beschikbare mannelijke en vrouwelijke geslachtsdelen, venerische aandoeningen, faecalische stoffen, terminale ziekten en seksuele geaardheden kwamen in tal van variaties voorbij. Bij de 0-4 werden hij en zijn gehoor uit hun lijden verlost door een steward die hem mee naar boven nam voor een rustgevend kopje koffie. Bij het weggaan had hij er nog eentje paraat: “Stinktukker!” Die bleek niet voor de tegenpartij bestemd, en ook niet voor mij met m'n FC Twente-sjaaltje, maar voor zijn eigen trainer Fred Rutten. Stinktukker. Ik vind het eigenlijk wel een stoere geuzennaam. Misschien zelfs nog mooier dan Superboer. Als de Schaal op 6 mei omstreeks 16.15 uur in Venlo omhoog gaat, dan ben ik graag een trotse Stinktukker. Met dank aan die achterlijke Strontsukkel uit Eindhoven.

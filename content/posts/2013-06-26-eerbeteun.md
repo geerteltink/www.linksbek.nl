@@ -1,0 +1,12 @@
+---
+title: "Eerbeteun"
+date: "2013-06-26"
+---
+
+Oké, het was hier en daar gênant, die paar ex-hockey-internationals met een wijkende haargrens en deinende bierpens, maar er stond zondagmiddag wel wat op het veld tijdens de afscheidswedstrijd van Teun de Nooijer. Een van 's werelds beste spelers aller tijden hing de stick aan de wilgen na een fenomenale loopbaan, die hem een kolossale erelijst bracht: drie keer speler van het jaar, vijf keer deelnemer aan de Olympische Spelen waarop hij twee keer goud haalde, zes keer winnaar van de Champions Trophy, 453 interlands waarin hij 214 keer scoorde. Hij vierde zijn dertiende verjaardag in het vliegtuig naar Lyon, waar hij in 1989 debuteerde voor Nederland B (tot 16 jaar). Bloemendaal was zijn club en in dat andere oranje speelde hij vrijwel wekelijks de sterren van de hemel. Ik ben er tijdens een herfstvakantie in Callantsoog een keer naar een competitiewedstrijd wezen kijken en heb toen met eigen ogen mogen zien hoe hij zijn toverhanden liet werken. Een vuist op tafel zat er evenwel niet in, niet tijdens de opstand tegen bondscoach Joost Bellaart in 2003 en ook niet toen hij vorig jaar in januari samen met Taeke Taekema uit de selectie voor Londen werd gezet. Hij ging natuurlijk toch en gaf ons met die clinic in de halve finale tegen Engeland (9-2) een van de mooiste wedstrijden ooit. Teun, bedankt. Je was, zoals de muziek volkomen terecht klonk tijdens je ereronde in Rotterdam: Simply The Best.
+
+
+
+
+
+Met dank aan SindsNu:

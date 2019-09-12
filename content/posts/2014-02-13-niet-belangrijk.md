@@ -1,0 +1,10 @@
+---
+title: "Niet belangrijk?"
+date: "2014-02-13"
+---
+
+Bill Shankly (1913-1981) was van 1959 tot 1974 manager van FC Liverpool. Hij leidde de club binnen enkele jaren van de Tweede Divisie naar de Europese top, met drie landskampioenschappen, twee FA Cups en de UEFA Cup in 1973. Hij had een heel eigen kijk op voetbal, getuige één van zijn meest opmerkelijke uitspraken: "Sommige mensen vinden voetbal een zaak van leven en dood. Ik kan u verzekeren dat het veel, veel belangrijker is." Als je die zin goed leest, dan klinkt "You'll Never Walk Alone" toch nét iets heftiger, zeker als je ook nog weet dat zijn standbeeld voor de hoofdingang van het stadion aan de Anfield Road staat.
+
+Voor sommige clubs is voetbal meer dan een spelletje. Een goed voorbeeld hiervan vinden we op een uurtje rijden van Enschede, in Gelsenkirchen. Vraag een willekeurige fan van Schalke 04 waarom hij naar het stadion gaat en het antwoord is even eenvoudig als veelzeggend: "Weil Schalke spielt". Omdat Schalke speelt: punt, uit, verder nog vragen? Ik ben lid van de fanclub Blau Weiss Enschede en was erbij toen de Königsblauen zich vier minuten lang kampioen van Duitsland mochten wanen, op die wrede 21 mei van 2001, na een spuuglelijke wedstrijd tegen Unterhaching - totdat de vals grijnzende koppen van Kahn en Effenberg in beeld kwamen. Ik heb volwassen mannen als kinderen zien huilen, happend naar lucht. Hoezo, voetbal niet belangrijk?
+
+Anno nu is Julian Draxler het grootste talent van Schalke 04, momenteel helaas nog geblesseerd. Vorige week zaterdag was hij te gast in de Sportschau omdat hij op 27 juli met een formidabele assist een belangrijke bijdrage had geleverd aan het Tor des Jahres van Raul. Zijn optreden was een verademing vergeleken met de blasé bling-bling-shows van zijn chagrijnige generatiegenoten. Geen tattoo's, piercings of loopings in het haar, maar een gewone nette jongen die heel welbespraakt zijn eigen mening gaf. Na afloop van het gesprek mocht hij van de presentator nog wel even blijven kijken, maar toen begon de samenvatting van Borussia Dortmund en daar zat Draxler duidelijk niet op te wachten. Hoezo, voetbal niet belangrijk?

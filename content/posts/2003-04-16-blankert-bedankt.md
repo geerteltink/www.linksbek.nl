@@ -1,0 +1,10 @@
+---
+title: "Blankert bedankt!"
+date: "2003-04-16"
+---
+
+Sommige foto’s brengen de complete ontluistering perfect in beeld. De voorpagina van de Volkskrant toonde ons de LPF-top op een terrasje in Den Haag. De partij was weer formatie-fähig geworden en dat moest natuurlijk met de achterban gecommuniceerd worden. We zagen van links naar rechts kamerlid Van As, secretaris Hammerstein, minister Nawijn en voorzitter Maas. Op zich al geen verheffend gezicht, maar de realiteit is hard en de waarheid niet altijd even licht verteerbaar. Wat deze foto evenwel een extra lading gaf, was het feit, dat ze allevier zaten te bellen met hun mobieltje. Met wie stond er helaas niet bij, misschien wel met elkaar, wie zal het zeggen. Bij de LPF is alles mogelijk, dat bleek maar weer eens uit de explosieve cocktail van rancune en autisme na het oordeel van de rechter over Volkert van der G. Die rechter was natuurlijk een linkse activist en dan krijg je zo’n slap zeikvonnis. De LPF gedraagt zich als een stel verwende kleuters, die zich door het stoutste jongetje van de klas hebben laten beroven van hun speeltje, waarmee ze de boel eens lekker op stelten hadden willen zetten. En dat moet ons gaan regeren, met de etiquette van de sportschool en de diepgang van een surfplank?
+
+Hoe het ook kan, zagen we dezelfde avond bij Studio M, het programma van Mart Smeets, die scheidend NOC-voorzitter Hans Blankert te gast had. Wat een verademing vergeleken bij al die politieke windbuilen. Wat een toonbeeld van fatsoen en beschaving. Geslaagd in het bedrijfsleven, maar geen gewetenloze graaier als de Boonstra’s, de Van der Hoevens en de Scheepbouwers. Op en top een gentleman, maar wel gezegend met de humor van de kleedkamer. Wel een kritisch volger, maar geen verstandelijke sukkel als minister Remkes. Onder de bezielende leiding van Blankert heeft de sport de kansen en de middelen gekregen om weer serieus genomen te worden. Die man verdient wél een standbeeld, ook al is ie daarvoor veel te bescheiden. Maar als je erin slaagt om Anton Geesink te laten uitleggen, dat ie dus niet over z’n eigen schoenen heeft staan piezen, dan ben je echt een hele grote.
+
+Blankert bedankt!

@@ -1,0 +1,10 @@
+---
+title: "Transparant"
+date: "2006-12-12"
+---
+
+“Je ligt bij Bruna en Bruinewoud in Zuid”, zei Maurice Weustink van Uitgeverij Het Twentsche Land, toen hij vrijdagavond een doos met boekjes bij me thuis bracht. Dan ga je de volgende ochtend toch even kijken en ik moet zeggen: je kunt er als schrijvertje slechter voorstaan dan tussen Hella Haasse en Harry Mulisch. Niet dat ik me ook maar in de verste verte met die twee grootheden zou willen vergelijken, maar u snapt wel wat ik bedoel. Bovendien: het boekje is uit en dat wou ik u even vertellen. De eerste reacties zijn heel positief, maar als u er zelf over wilt oordelen dan kan ik u alleen maar aanraden om 9,95 euro in dit projectje te investeren.
+
+Dat is dan heel wat minder dan de 117 miljoen euro, die een groep IJslandse beleggers er voor over heeft om West Ham United in te lijven. Het roemrijke Londense voetbalbolwerk is na Chelsea, Manchester United, Fulham, Aston Villa en Portsmouth de zesde Engelse club die in de handen van een buitenlands consortium valt. FIFA-voorzitter Sepp Blatter heeft onlangs gewaarschuwd voor deze ontwikkeling, omdat hij bang is dat de investeerders het belang van het voetbal niet vooropstellen. Ook vindt hij deze situaties niet transparant, reden waarom hij de hulp van de autoriteiten overweegt om er tegen op te kunnen treden.
+
+Blatter heeft al vaker geprotesteerd tegen de invloed van het grote geld, en in dit geval heeft hij gelijk: IJslanders hebben de facto niks te zoeken in de Premier League, net zo min als Amerikanen (Manchester) en Russen (Chelsea). Maar verder moet Blatter niet zeuren. Onder de auspiciën van zijn eigen FIFA vindt deze week in Japan het WK voor clubteams plaats, dat qua sportieve waarde zodanig is gemanipuleerd en gedevalueerd, dat Barcelona namens Europa tot de halve finale mag wachten voordat het naar Japan vliegt. Kijk, meneer Blatter, dat is pas écht bedrog en daar bent ú de wereldkampioen in. Misschien moet ik daar maar eens een paar stukjes over schrijven. En daar dan weer een boekje van maken. Lekker transparant.

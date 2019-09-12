@@ -1,0 +1,8 @@
+---
+title: "Bekken dicht"
+date: "2008-08-26"
+---
+
+Mooie tekst hoor, van Tia Hellebaut, winnares van België’s enige gouden medaille, in De Volkskrant van maandag: “Het is gewoon plezant om hoog te springen”. Prachtige quote, en heel plezant ook, maar ik had ook graag willen weten hoe ze het had gevonden om omlaag te springen. Of heb ik iets gemist? Dat was afgelopen weekend ook al het geval. Ik mocht fluiten bij een hockeytoernooi en hoorde één van de coaches voortdurend “Bekken dicht!” roepen. Nou ben ik zelf ook niet zo van commentaar op de arbitrage, maar dit leek me overdreven. Bovendien had het wat mij betreft ook wel wat netter gekund. Totdat ik er achter kwam, dat hij “Backhand dicht!” bedoelde. Dat ze dus ervoor moesten oppassen om niet over hun linkerkant (voor de kijkers rechts) gepasseerd te worden.
+
+Dat had bondscoach Roelant Oltmans van onze hockeyers trouwens ook wel mogen roepen toen die drie verdedigers vier minuten voor tijd op de rand van de cirkel uit hun neus stonden te eten en de Duitse spits de beslissende gelijkmaker aanboden. Beslissend, jawel, want als je op zo’n toernooi iets niet moet doen, dan is het Duitsers in dat stadium laten terugkomen in een wedstrijd. Vanaf dat moment stond de winnaar voor mij al vast. Net zo goed als ik zeker wist dat de Nederlandse dames zich niet zouden laten verrassen. En op één of andere manier kon je zien dat die Chinese vrouwen dat ook door hadden. Hier stond een ploeg waarin iedereen zichzelf voor elkaar wegcijferde. Dat was bij de heren, en dan vooral bij de jongeren, bepaald niet het geval. En dus zou ik hen, voordat ze met allerlei k-smoesjes op de proppen komen, bij deze even willen wijzen op de titel van dit stukje, in de eerste betekenis graag.

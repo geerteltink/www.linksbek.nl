@@ -1,0 +1,8 @@
+---
+title: "Vluchtstrooktrainer"
+date: "2011-06-23"
+---
+
+Qua voetbalkennis heb ik er onvoldoende voor doorgeleerd om te kunnen beoordelen of Co Adriaanse de ideale trainer voor FC Twente is, maar taaltechnisch beschouw ik zijn komst als een feest. Hij heeft de Nederlandse voetbalvocabulaire verrijkt met originele vondsten als scorebordjournalistiek, snelweg- dan wel woonerfvoetbal, alibi-dekking en kaaskijkers. Ook het zogeheten kerstboomsysteem komt uit zijn koker, waarvoor we de man niet dankbaar genoeg kunnen zijn. Adriaanse is een verbale verademing vergeleken met zijn door hun persvoorlichters en mediatrainers volkomen verziekte collega's, die gaandeweg de persconferentie kansloos verdwalen in hun eigen ruit op het middenveld. Hij draait er niet omheen en spreekt een eigen taal, of zijn elftal nu gewonnen of verloren heeft.
+
+Ik ben trouwens wel benieuwd welke termen hij in Enschede gaat bedenken. Krijgen we een nieuwe variant in de vorm van speeltuinvoetbal voor wipkip-recreanten? Zal hij een kritische volger van de lokale krant vanwege een scherp artikel betichten van rugnummerjournalistiek? Gaat hij het publiek na een fluitconcert beschuldigen van een wegkijkmentaliteit? Worden we blij verrast met authentieke trouvailles als het IKEA-concept (effectief, herkenbaar), de Praxis-tactiek (uit voorraad leverbaar) en een Gamma-methode (low cost, no nonsense)? We zullen het zien en beleven, want het zij nogmaals gezegd: FC Twente's nieuwe trainer zal zich niet verschuilen achter schimmige taal. Oftewel, om het in zijn eigen jargon te zeggen: Co Adriaanse is geen vluchtstrooktrainer.

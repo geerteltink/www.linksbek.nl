@@ -1,0 +1,8 @@
+---
+title: "Integriteit"
+date: "2015-03-14"
+---
+
+Afgelopen maandag hoorde ik op Standpunt.NL politicus Henk Krol over integriteit praten. Het was bijna net zo lachwekkend en ongeloofwaardig als het optreden van Youri Mulder zondagavond bij Studio Voetbal. Alsof je de corrupte Mark Verheijen en Jos van Rey reclame hoort maken voor de kwaliteit van Limburgs beleid. Als er namelijk iemand is die zich dient te onthouden van commentaar over het thema integriteit, dan is het wel Henk Krol, de beroepsoplichter van 50Plus. Geknoei met pensioenen van zijn medewerkers, gesjoemel met susbisies voor zijn media-bv-tjes, gerotzooi met facturen in de administratie: hij heeft het allemaal gedaan, en hij komt er mee weg. Integriteit is maar net wat je er zelf van maakt, zo blijkt eens te meer.
+
+Dat geldt ook voor iemand als Michael Boogerd. Integriteit? Ga toch fietsen! Jarenlang de boel bedrogen en de kluit belazerd, maar nu wel de vermoorde onschuld spelen en met een gemaakte glimlach PR bedrijven voor de Roompot-formatie, waarvan hij ploegleider mag zijn. Zo wordt slecht gedrag beloond en de geloofwaardigheid van deze fantastische sport verkloot. Thomas Dekker heeft dat ook gedaan, met zijn dopingverleden, maar hij heeft tenminste geen dubbele agenda en verdient alleen daardoor al een mogelijkheid om op zichzelf en de wielerwereld revanche te nemen. Hoewel de poging mislukte, heeft hij in Mexico bewezen nog altijd een aardig potje te kunnen fietsen. Michael Boogerd kan veel goedmaken door hem een tweede kans te bieden zodat Thomas Dekker weer de TD (Turbo Diesel) kan zijn die een paar jaar geleden iedereen omver blies.

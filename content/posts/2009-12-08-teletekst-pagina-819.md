@@ -1,0 +1,8 @@
+---
+title: "Teletekst pagina 819"
+date: "2009-12-08"
+---
+
+Heel ver weg verstopt in een of andere diepe la moet ik ergens nog een foto hebben liggen van 5 september 1994. Het is een opname van Teletekst met de uitslagen en stand van de eerste competitiezondag in de hoofdklasse hockey heren. EHV speelde die zondag thuis tegen Oranje Zwart. Bij de rust was het 0-2 en leek de debutant het niet te redden, maar in de tweede helft waren de rollen compleet omgedraaid en werd het op sensationele wijze 4-2 voor de thuisploeg. Het zou een van de hoogtepunten van dat seizoen worden, hoewel de overwinning helaas niet voldoende was voor handhaving. Intussen speelt EHV in de eerste klasse en veel hoger zal het voorlopig waarschijnlijk ook niet komen, maar die foto nemen ze me nooit meer af.
+
+Ik schrijf dit omdat ik heel benieuwd ben hoeveel FC Twente-fans deze week een foto genomen zullen hebben van de wereldranglijst voor voetbalclubs. Hun club staat daarop veertiende, boven topclubs als Bayern, Liverpool, Inter, Juventus en vele plaatsen hoger dan PSV en Ajax. De lijst wordt samengesteld aan de hand van de resultaten over de laatste twaalf maanden en inderdaad: FC Twente heeft in die periode fantastisch gepresteerd. Het lijkt erop dat het beleid zijn vruchten begint af te werpen, met een voorzitter die zijn tomeloze ambities niet meer onder stoelen of banken steekt, een scoutingapparaat dat wonderen verricht (Ruiz, Stoch, Stam, Tioté) en een organisatie die op alle fronten honderd procent professionele kwaliteit garandeert. En toch: nummer veertien van de wereld, dat is natuurlijk hartstikke mooi, maar ik neem eerlijk gezegd liever een foto van Teletekst pagina 819 op 2 mei 2010.

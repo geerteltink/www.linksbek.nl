@@ -1,0 +1,8 @@
+---
+title: "Onbetaalbaar"
+date: "2014-04-17"
+---
+
+Een groep fans van Chelsea wil geld inzamelen voor de betaling van een boete, die hun coach José Mourinho enkele weken geleden kreeg omdat hij tot twee keer toe het veld opkwam en daarmee de regels overtrad. Het gaat hierbij om een bedrag van bijna tienduizend euro en natuurlijk kun je twisten over de vraag of dat relatief veel geld is met betrekking tot wat hij dan wel helemaal misdaan heeft. Het antwoord daarop is volgens mij: ja, maar dan wil ik ook nog even kwijt dat een seizoenkaart bij Chelsea gemiddeld zevenhonderd euro kost en dat de coach op Stamford Bridge een slordige tien miljoen per jaar vangt. Zet die twee getallen tegenover elkaar en constateer met mij dat die fans hun gevoel voor de juiste verhouding even uit het oog lijken te hebben verloren.
+
+Dat laatste geldt trouwens ook, maar dat wisten we al langer, voor de vele clubeigenaren die van gekkigheid niet weten wat ze met al hun geld moeten doen. De spelers van Paris Saint German zouden van hun baas Nasser Al-Khelaïfi per man vierenhalf ton krijgen als ze van Chelsea wonnen. Nu ben ik geen fan van Chelsea, onder andere vanwege de meneer die daar langs de lijn altijd zo raar staat te doen, en mede daarvoor dus een slordige tien miljoen per jaar vangt, toch was ik op één of andere manier blij dat die mallotige olieboer de knip niet hoefde te trekken. Maar weet u wat écht onbetaalbaar is, ook voor die steenrijke mafkezen? De grote grijnzen op de koppies van de jongens en meisjes die aan de hand van de grote sterren in de Champions League het veld oplopen. Daar word ik nou heel vrolijk van, niet van José Mourinho of Nasser Al-Khelaïfi. Die zijn niet echt, die kinderen wel.

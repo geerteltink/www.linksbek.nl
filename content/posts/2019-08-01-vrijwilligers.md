@@ -1,0 +1,6 @@
+---
+title: "Vrijwilligers"
+date: "2019-08-01"
+---
+
+De afgelopen twee weken ben ik bij diverse grote bezienswaardigheden op de Utrechtse Heuvelrug te gast geweest. Wat me daarbij opviel, was de inzet van grote hoeveelheden vrijwilligers om alle gasten goed te ontvangen. Ze waren zonder uitzondering allemaal even vriendelijk, beleefd, behulpzaam en ter zake kundig. Een medewerker van Kasteel de Haar zag dat ik grote moeite had met het bestijgen van een steile trap naar beneden en loodste me probleemloos naar een toegang zonder hoogtevrees. In het werkvertrek van Prinses Juliana op Paleis Soestdijk kreeg ik te horen dat de vrouw des huizes dermate zuinig was, dat ze een stuk tapijt waarop ze een glas rode wijn gemorst had, persoonlijk had vervangen door een stuk uit de originele rol die nog op zolder lag – hetgeen na al die jaren nog steeds niet geheel onzichtbaar was. Ik bedoel maar: vrijwilligers zijn goud waard. Ze zijn de olie in de machine van elke organisatie. In de sport zijn er ook talloze actief. Geen vereniging kan zonder ze. En als een vrijwilliger kritiek heeft op het beleid, of het anderszins niet met je eens is, dan ga je met hem of haar praten om te kijken of je elkaar ergens kunt vinden. Wegsturen is geen optie. Lang leve de vrijwilliger!

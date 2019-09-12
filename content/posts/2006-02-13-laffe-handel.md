@@ -1,0 +1,8 @@
+---
+title: "Laffe handel"
+date: "2006-02-13"
+---
+
+Nog even terugkomen op een zinsnede in mijn column van vorige week: “Een land boycotten vanwege een paar flauwe cartoons: hoe laf kun je zijn?” Nou, het kan nóg laffer in deze lachwekkende soap, die overigens door armzaligen van geest en kortzichtigen van hoofd geregisseerd wordt: de mensen daar hebben geen idee waar Denemarken ligt, maar ze krijgen van overheidswege een dag vrij als ze bereid zijn een Deense vlag te bespotten. Maar goed, het toppunt van lafheid was toch wel de reactie van Nestlé, het van oorsprong Zwitserse bedrijf in  voedingsmiddelen. In plaats van solidair te zijn met hun Deense collega’s, of op z’n minst piëteitsvol te zwijgen, presteren die Zwitserse koekenbakkers het om een potje te slijmen met de islamitische wereld onder de luide uitroep, dat ze dus “géén Deens bedrijf” zijn.
+
+Donnerwetter! Scheisse! Wat een hypocriete schijtlaarzen. Dit vraagt om een strenge sanctie. Ik heb dan ook unaniem besloten, om de producten van Nestlé met onmiddellijke ingang te boycotten en ik roep u allen op om dit voorbeeld te volgen: koop geen Nescafé, Nesquik, Maggi, Rolo, Smarties, Bros, Nuts, Kitkat, Lion, Galak, Yes, Fruitjoy, Perrier, Vittel, Crunch, Friskies, Buitoni, After Eight, Quality Street en hoe die laffe handel verder ook heten mag. Zeg nee tegen Nestlé en koop Deense kaas, melk, haring, Lego, aquaviet en, helemaal jammie, feta van Arla Foods. Daar is niks mee. En er zit tenminste geen laffe bijsmaak aan. Verder heb ik de FIFA met het oog op de komende WK dringend geadviseerd om deelnemer Zwitserland in groep G te vervangen door Denemarken. Zou voor het voetbal trouwens ook veel leuker zijn.

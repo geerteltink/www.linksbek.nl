@@ -1,0 +1,8 @@
+---
+title: "Stem wijzer"
+date: "2010-03-02"
+---
+
+Volgens de Stemwijzer van de gemeente Enschede gaat mijn voorkeur uit naar een kruising van D66 en GroenLinks oftewel een vleugje Alexander Pechtold met een snufje Femke Halsema (die overigens in Enschede geboren is, maar daar liever niet aan herinnerd wil worden – een goede reden om in lokaal verband dus niet op haar partij te stemmen). Het zal wel, maar ik was eerlijk gezegd veel blijer met het resultaat aan de negatieve kant. God zij dank staat mijn politieke sympathie rechtstreeks tegenover de uitgangspunten van CDA en ChristenUnie. Een kapelaan die een Prins Carnaval een hostie weigert en een school die een leraar niet aanneemt omdat de mannen in kwestie er openlijk voor uit komen dat ze praktizerend homoseksueel zijn, daar wil je toch niet bij horen?
+
+Maar, afgezien daarvan, het gaat er morgen óók om welke partij op sportief gebied de komende vier jaar voor de stad gaat scoren. Ik heb de verschillende programma’s er eens bij gepakt en naast elkaar gelegd. Enkele citaten: “Gratis sportvoorzieningen voor iedereen” (Enschede Solidair). “Liever sport dan welzijnswerk” (VVD). “Olympische Spelen voor Junioren binnenhalen” (Burger Belangen). “Goed voorzieningenniveau op gebied van sport optimaal en voor alle inwoners bereikbaar” (PvdA). En vooral ook veel sport als bindmiddel in de strijd tegen obesitas en ter bevordering van de integratie. Enzovoorts en zo verder. Een beetje van dit en een beetje van dat. Ik snap het wel: politiek is nu eenmaal geven en nemen. En toch heb ik in geen enkel programma gelezen welke partij durft te beloven dat FC Twente kampioen wordt. Aha, nou snap ik wat Wilders bedoelt met “laffe politici”.

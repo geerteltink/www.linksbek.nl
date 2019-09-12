@@ -1,0 +1,10 @@
+---
+title: "Gelukzoeker?"
+date: "2015-09-24"
+---
+
+Samia Yusuf Omar (1991-2012) was een Somalisch atlete, die opgroeide in een krotwoning als oudste kind met vijf jongere broers en zussen. Rond haar twaalfde stierf haar vader en nam ze de zorg voor het gezin over van haar moeder die op haar beurt ging bijverdienen met straathandel. Sporten bood haar hoop op een uitweg, maar militieleden van de boven haar gestelden vonden dat moslimvrouwen niet hoorden te sporten. Omar zette door en wist zich te kwalificeren voor de Olympische Spelen van 2008 in Peking. Ze kwam met grote achterstand - acht seconden na de winnaar - als laatste over de lijn op de 200 meter, maar ze genoot met volle teugen van haar deelname en van de aandacht die ze kreeg.
+
+Teleurgesteld door een gebrek aan interesse van het Somalisch Olympisch Comité vertrok Omar in 2010 naar Ethiopië. Toen ze ook daar tegenwerking ondervond van haar thuisland, besloot ze via Soedan en Libië, waar ze om onbekende redenen ook nog enige tijd gevangen zat, te vluchten naar Europa. Ze hoopte daar als vluchteling opgenomen te worden, zodat ze alsnog mee kon doen aan de Olympische Spelen in Londen. Tijdens de overtocht van Libië naar Italië, in april 2012, zonk het bootje met meer dan zestig vluchtelingen en verdronk Omar. Ze werd 21 jaar oud; haar lichaam werd nooit gevonden. Over haar leven verscheen eerder dit jaar een stripboek van cartoonist Reinhard Kleist: 'Der Traum von Olympia. Die Geschichte von Samia Yusuf Omar.' Geen vrolijke lectuur, maar wel van harte aanbevolen.
+
+Volgens veel reaguurders op de asociale media was Omar een crypto-criminele gelukzoeker, die het vanwege economische motieven uitsluitend voorzien had op onze overvloed aan melk en honing, die we liever niet delen met zulke arme sloebers. Volgens mij is ze het zoveelste kansloze slachtoffer van gewetenloze godsdienstwaanzin, politiek opportunisme en ordinaire mensenhandel. En degene die het woord 'dobberneger' heeft uitgevonden, mogen ze van mij in Calais op een lekke schuit richting Dover duwen. Ik wens hem of haar heel veel geluk.

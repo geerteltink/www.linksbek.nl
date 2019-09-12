@@ -1,0 +1,10 @@
+---
+title: "Niet Sneeuwen!"
+date: "2012-02-06"
+---
+
+Het vriest tien graden en de ANWB adviseert ons om een slaapzak in de auto te leggen. Oh ja? Mag ik dan ook even weten waarom dat per se een slaapzak moet zijn? Is een deken niet goed? Of een sprei? En als het dan zonodig een slaapzak moet zijn, wat voor slaapzak dan wel? Zo één die je kunt oprollen? Of het buitenboord mummiemodel waarin Arsenal-trainer Arsène Wenger langs de lijn staat? U ziet het: niet alleen het land is in de war door het weer, uw columnist is dat ook. Het sneeuwt een paar uur stevig door en alle treinen staan stil. Tienduizenden reizigers beleven een déjà vu-gevoel op de stations. Nog even en de naam van de NS wordt officieel veranderd in: Niet Sneeuwen!
+
+(Even een mooie anekdote uit de oude doos ertussendoor. Vier directieleden van British Railways melden zich bij het reclamebureau dat ze graag als klant wil hebben. De heren worden in een vieze kamer gedropt, er staat één oud stoeltje, drie mannen moeten dus staan, met volle asbakken en vuile koffiebekers op tafel, zonder wc, nergens in de buurt een raam dat open kan en de deur is op slot. Na een uur mogen ze eruit en op de vraag waarom ze zo behandeld werden krijgen ze het enig juiste antwoord: “Dat is precies wat jullie met jullie klanten doen.” Het bureau won de competitie.)
+
+Intussen is het land ook zeer in de ban van de vraag of er al dan niet een Elfstedentocht zal komen. Het is weer heel gênant hoe er in alle beschikbare talkshows door zogenaamde deskundigen over wordt geblaasd en geblaat. Maar misschien wel het allerbontst werd het gemaakt door Jort Kelder, die zich bij De Wereld Draait Door sterk maakte voor een Unox-verbod. Op zich geen vreemd pleidooi, met excuses aan de schaatsers voor het woord dooi, maar als er nou iemand is die niet moet gaan roepen dat bepaalde reclame verboden moet worden, dan is het wel deze puberale corpsbal die tachtig keer per dag langs komt met die achterlijke Wiebe in zijn plakpakspotjes voor, jawel, de Friesland Bank. Willen is kunnen, Jort. Ja, dat zou ik ook zeggen als ik er zoveel poen voor kreeg.

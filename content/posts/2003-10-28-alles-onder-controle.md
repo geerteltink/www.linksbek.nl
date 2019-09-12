@@ -1,0 +1,12 @@
+---
+title: "Alles onder controle"
+date: "2003-10-28"
+---
+
+Behalve op deze plek schrijf ik sinds een jaar ook in de Roskam, onafhankelijk weekblad voor Twente. Ik heb die krant ooit verfoeid toen Jan Medendorp als een ambachtelijke keurslager gehakt van me maakte na een kritische column mijnerzijds over de Vitesse-deal van Herman Wessels. Sindsdien ben ik abonnee en het is me intussen wel duidelijk geworden hoe het zit: net als met Wim Kan vroeger. Als je in zijn oudejaarsconference _niet_ genoemd werd, dan hoorde je er niet bij. Ik hoor er dus bij, Medendorp en ik zijn reeds geruime tijd _on mailing terms_ en ik lever elke week met veel plezier een bijdrage aan de Roskam. (Jaarabonnement: 69 euro. Telefoon: 0546 454 631.)
+
+In het nummer van vorige week stond een interview met scheidsrechter Eric Braamhaar, aan de vooravond van diens debuut bij PSV-Ajax. We weten allemaal hoe dat gegaan is, en achteraf praten is natuurlijk lekker makkelijk, maar het is maar goed dat ze het in Eindhoven en Amsterdam waarschijnlijk niet gelezen hebben. Een enkel citaat zegt veel, zo niet alles: “Spelers zijn soms net kleine kinderen, proberen voortdurend de grens te verkennen, zoeken ruimte. Je moet er niet boos om worden. Soms speel je boosheid. Je hebt je emoties onder controle, maar laat wel boosheid zien. Dat doe je bij kinderen ook.” Alles goed en wel, beste Braamhaar, je emoties had je misschien wel onder controle, maar de wedstrijd zeker niet. En je was trouwens ook zo sportief om dat na afloop ruiterlijk toe te geven.
+
+Het antwoord op de vraag “Wat vind je de vervelendste overtredingen?” komt na die Van-Bommel-special jegens Van der Vaart ook in een heel ander daglicht te staan: “De overtredingen die je niet ziet. Spugen of met de elleboog, achter je rug om. Die overtredingen waar je geen invloed op hebt.” De overtredingen die je niet ziet? Neem me niet kwalijk, Braamhaar, maar je hoefde zondag geen ogen in je rug te hebben om die elleboog in opwaartse richting te zien gaan. En de invloed, die je daarop als scheidsrechter kunt hebben, bestaat wel degelijk: in de vorm van een rode kaart, die je toch echt wel bij je had, zoals we allemaal hebben kunnen zien. Maar het is wel weer waar, dat er helaas nog geen remedie is tegen geniepige spelers, die het van nature en bij voortduring achter de ellebogen hebben.
+
+Misschien is dat wel een aardig onderwerp voor een leuke column in de Roskam.

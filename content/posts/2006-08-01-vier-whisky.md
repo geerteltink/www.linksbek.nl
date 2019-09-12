@@ -1,0 +1,8 @@
+---
+title: "Vier whisky"
+date: "2006-08-01"
+---
+
+Floyd Landis had wel een verklaring voor zijn afwijkende testosteronverhouding: hij had twee bier en vier whisky gedronken. Nu staat de man bekend als een gelovig mens, en hij zal dus vertrouwd zijn met het negende gebod, maar deze verklaring lijkt me toch wat al te zeer op gespannen voet met de waarheid te verkeren. Twee bier: dat merk je niet als je waterhuishouding ook na zo’n zware inzinking compleet van slag is. Maar vier whisky? Dat lijkt me knap link als je zo hoog in de bergen zit. Voor je het weet ben je de volgende morgen nog zo in de war, dat jepardoes de verkeerde col neemt en je steeds verbaasder raakt dat er niemand langs de kant staat om je aan te moedigen. Vier whisky? Dan moet het in die hotelkamer op Le Toussière een erg gezellige boel zijn geweest.
+
+Waar het altijd ook heel gezellig is? Bij de Haarlemse Honkbalweek. Ik vind honkbal een mooie sport, daar niet van, en op televisie mooi te volgen, ook dat. Maar waarom moet het er in dit land altijd zo verdomde _gezellig_ bij zijn? Ik heb wel eens beelden van een Amerikaanse baseball-wedstrijd gezien en daarbij was het me niet opgevallen, dat de mensen massaal meezongen met “De Vlieger” van André Hazes. In Haarlem wel, want daar hebben ze dat speciale Thialf-gevoel en dat zullen we weten ook. “En, hoe was het honkballen?” “Oh, heel gezellig!” “En wie heeft er gewonnen?” “André Hazes geloof ik, iets met een vlieger of zo.” Ik bedoel maar: het leek wel of ze allemaal twee bier en vier whisky achter de kiezen hadden. De meesten hebben geen bal gezien. Hooguit dubbel.

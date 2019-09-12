@@ -1,0 +1,8 @@
+---
+title: "Heren Twee?"
+date: "2006-09-26"
+---
+
+Sorry, maar deze week gaat het nog één keer over hockey, volgende week is de echte sport weer aan de beurt. Dat zit zo: ik ben manager van EHV’s tweede herenelftal (niveau: reserve hoofdklasse, hoger kan niet, het gáát dus ergens om) en in die functie maakte ik afgelopen zondag wat mee. We moesten tegen het tweede team van Hattem, ook voor de niet ingewijden onder u toch een redelijk gevestigde naam in het Nederlandse hockeywereldje. Jarenlang een vaste waarde in de hoofdklasse en in de overgangsklasse altijd in het linker rijtje terug te vinden. Althans, bij de heren. Als je in Hattem van het andere geslacht bent en je kunt redelijk hockeyen, dan moet je naar Zwolle om enigszins op niveau te spelen. Maar de heren tellen dus wel degelijk mee. Had u gedacht.
+
+Had ik ook gedacht. Vorig jaar wonnen we met 8-0, maar ik dacht dat dat een uitzondering was. Zo’n zeldzaam geval van alles lukt en elke bal is raak. Zondag kwamen tien puistige pubertjes het veld op. Tien, dus geen elf, nee: tien. Ze stonden onder leiding van een mevrouw, die het ook niet kon helpen. Zodra de heren thuis speelden, stonden de oude vedetten in de rij om mee te doen. Maar een uitwedstrijd, en dan ook nog helemaal naar Enschede, dat was weer een heel ander verhaal. Dan waren ze ineens allemaal vreselijk belangrijk in het managementteam voor het eerste elftal, dat toevallig thuis speelt als het tweede uit moet. Enfin, om een lang verhaal kort te maken: bij rust stond het 5-1, het werd uiteindelijk 10-2, het had in feite 18-2 moeten worden, bij Hattem speelde een kakkertje van dertien, hooguit veertien met de grootste bek van allemaal en volgend jaar komen ze met de A1.

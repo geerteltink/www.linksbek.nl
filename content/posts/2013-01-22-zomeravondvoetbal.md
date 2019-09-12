@@ -1,0 +1,14 @@
+---
+title: "Zomeravondvoetbal"
+date: "2013-01-22"
+---
+
+RKC-trainer Erwin Koeman zei zaterdagavond na de wedstrijd bij FC Twente dat zijn ploeg net zo goed had kunnen winnen. Het is de baldadige vlerkerigheid die de jonge trainersgeneratie kenmerkt, zie ook Robert Maaskant, Michel Vonk en Alex Pastoors. Het was nota bene zijn team dat vanaf minuut één probeerde de wedstrijd te ontregelen en het voetbal te beledigen en daar in beide gevallen behoorlijk in slaagde. Dat er dan vlak voor tijd in een geniepige counter een open doelkans ontstaat, is een combinatie van geluk en toeval en geen reden om op z'n Beenhakkers een potje te gaan bluffen. Wat dat betreft kan hij een voorbeeld nemen aan Marco van Basten en Jan Wouters, twee van zijn maten uit het gouden Oranje van 1988, die er tenminste niet om heen draaien en gewoon nuchter de waarheid blootleggen.
+
+Aan de andere kant had FC Twente deze wedstrijd natuurlijk moeten winnen. Het is niet de eerste keer dat de club punten laat liggen na een nederlaag van een grote concurrent en dus verzuimt om tussentijds afstand te nemen. Bovendien lijkt het er op dat de goede vorm van de laatste twee wedstrijden voor de winterstop, tegen Heracles en AZ, op Maspalomas is achter gebleven. Zodra smaakmakers als Fer, Chadli en Tadic niet thuis geven, valt de rest genadeloos door de mand. Zo zie je maar weer dat zo'n trainingskamp ook geen bal voorstelt. Wat zegt u? Ze hadden er zo goed gespeeld? Hebben we die wedstrijden gezien? Dat was niet meer dan een veredelde vorm van zomeravondvoetbal wat tegen RKC gewoon werd voortgezet in de ijskoude Beugel Bunker. En daar werden we (let op: flauwe woordgrap!) niet warm van.
+
+
+
+
+
+Met dank aan SindsNu:

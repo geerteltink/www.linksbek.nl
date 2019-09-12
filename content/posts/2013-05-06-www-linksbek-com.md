@@ -1,0 +1,14 @@
+---
+title: "www.linksbek.com"
+date: "2013-05-06"
+---
+
+Afgelopen vrijdag werd ik gebeld door iemand van domeinregistratie. Tenminste, dat dacht ik te verstaan. Het klonk in ieder geval redelijk betrouwbaar. De man meldde me bezorgd dat iemand in Overijssel op het punt stond een website onder de domeinnaam www.linksbek.com te openen. En aangezien ik de wettelijke eigenaar van www.linksbek.nl ben waren ze verplicht dit aan mij te melden. Ik moest op dat moment weg naar een afspraak en hij beloofde me maandagmorgen terug te bellen. Dat deed hij inderdaad en toen ging het opeens over iemand in Gelderland. Op dat moment ging bij mij een belletje rinkelen, maar ik liet hem uitpraten. Ik kon veel ellende voorkomen door 17,50 euro te betalen. Dat was het bedrag voor een jaar, maar ik moest dan wel voor vijf jaar tekenen. Geef me even de tijd, vroeg ik, dan overleg ik even met deze en gene. Bel vanmiddag maar terug.
+
+Toen ik mijn domeinbeheerder belde, klonk er een diepe zucht. Ik was de zoveelste met deze melding. Het zijn oplichters die opereren onder de dekmantel domeinregulatie. Ze proberen je bang te maken met een dreigende variant van je domeinnaam en intussen willen ze alleen maar je geld, want natuurlijk komt er van z'n lang zal die leven geen www.linksbek.com. Of toch, want we besloten om die gasten met gelijke munt terug te betalen en de domeinnaam www.linksbek.com voor het eenmalige bedrag van 13 euro vast te leggen. Het kost een paar centen, maar dan heb je ook wat. Zo gezegd, zo gedaan en toen die criminele meneer me 's middags terugbelde, had hij geen verhaal meer. En dat is maar goed ook, want nu kan ik op deze website weer gaan doen waarvoor ik 'm ooit bedacht heb: dingen signaleren. Bijvoorbeeld dat die notoire matennaaier van een Anthony Lurling bij NAC-Roda JC allang een rode kaart voor die schandalige overtreding had moeten hebben voordat hij die twee goals maakte.
+
+
+
+
+
+Met dank aan SindsNu:

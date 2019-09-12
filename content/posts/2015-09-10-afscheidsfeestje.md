@@ -1,0 +1,8 @@
+---
+title: "Afscheidsfeestje"
+date: "2015-09-10"
+---
+
+Louis van Gaal is tijdens de afscheidsreceptie vanwege zijn overgang naar de eindredactie van Voetbal Inside opgestapt. De reden hiervoor was dat hij zich 'gepikeerd en geschoffeerd' voelde door uitlatingen van het gastforum dat door de organisatie was uitgenodigd. Zo noemde Johan Derksen hem onder andere een 'ordinaire volksmenner met een nare grote bek', een 'excessieve ijdeltuit', een 'gespleten persoonlijkheid' en een 'hysterische dorpsidioot'. René van der Gijp maakte van de gelegenheid gebruik door een hilarische imitatie van de hoofdpersoon als voetballer bij Sparta ten beste te geven. ('Lowietje had de actieradius van een touringcar.') Waarna ook Wilfred Genee de lachers op zijn hand kreeg met een interactieve presentatie van een Engelstalige persconferentie. ('Am I now so slim or are you now so dom?')
+
+Op een gegeven moment vond Van Gaal het mooi geweest en beende hij boos de zaal uit. Ceremoniemeester Jack van Gelder probeerde hem nog tegen te houden, maar dat bleek vergeefse moeite. De directie van Voetbal Inside zei na afloop het incident te betreuren en sprak de hoop uit dat Van Gaal bereid zou zijn tot een evaluatie met alle betrokken partijen. Deze verklaarde evenwel daarin geen zin te hebben: 'Ik ben Gekke Henkie niet. Dat optreden in die Lederhose op dat plein in München was gewoon mijn manier om die domme Duitsers met hun nare grote bek een lesje te leren over de demogagische hysterie van hun vaderland. En oké, ik ben qua talenbobbel misschien geen Frans Timmermans, maar als iemand een exclusieve ijdeltuit met een versleten persoonlijkheid heeft, dan is hij het wel, met dat vreselijke camping-Engels van 'm.'

@@ -1,0 +1,6 @@
+---
+title: "Rode handschoentjes"
+date: "2012-04-24"
+---
+
+De sportieve prestaties mogen dan enigszins vaal zijn, qua kleurgebruik is FC Twente onbetwist de kampioen van Nederland. Nikolay Mihalyoy staat als een combinatie van een glimworm en een zuurstok in het doel. Nacer Chadli scoort op lichtgevende oranje kicksen. Roberto Rosales speelde bij Excelsior met rode handschoentjes. Het was ongeveer tien graden, boven nul wel te verstaan, maar iemand had hem kennelijk toegestaan om er als een fluorescerende pinguin bij te lopen. Gelukkig had hij ze tijdens de rust in de kleedkamer achtergelaten, want het was echt geen gezicht. Het ontbreekt er nog maar aan dat hij bij een volgende gelegenheid aantreedt met kanariegele zwemvliezen, ik noem maar wat. En toch bracht hij me op een idee. Volgens mij moet FC Twente voor de wedstrijd van zondag op elke stoel een paar rode handschoentjes neerleggen. Als het er dan naar uit ziet dat Ajax kampioen wordt, dan moet de speaker vijf minuten voor tijd omroepen dat we daarmee allemaal even zwaaien naar het uitvak en vervolgens het stadion massaal dienen te verlaten. Niet buiten blijven wachten tot het afgelopen is, nee: direct op hoes op an en daar een kouwe beugel laten ploppen. En 's avonds vooral niet naar Studio Ajax kijken.

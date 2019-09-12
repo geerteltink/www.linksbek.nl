@@ -1,0 +1,14 @@
+---
+title: "Blatter-Ancelotti 1-0"
+date: "2013-11-05"
+---
+
+Er is in negatieve zin ontegenzeglijk veel te zeggen over de persoon en de figuur van Sepp Blatter, hoogste baas van de FIFA. Hij is bewezen corrupt, onmiskenbaar ijdel en evident incompetent. De schandalen rijgen zich aaneen, er is een bibliotheek van boeken over geschreven. Een man van zijn leeftijd zou niet meer zo graag in de schijnwerpers willen staan. En als je zelf toegeeft dat het organiseren van een WK in een schroeiend hete zomer niet echt handig is, dan geef je jezelf zoals dat heet een brevet van onvermogen. Maar er is kennelijk ook een andere kant van Sepp Blatter: charmant en humoristisch. Aan studenten op de universiteit van Oxford legde hij het verschil uit tussen Messi en Ronaldo, en de manier waarop hij de Portugees imiteerde was werkelijk briljant.
+
+Dat was dan weer tegen het verkeerde been van Real-trainer Carlo Ancelotti, die het voor zijn speler opnam. Op zich terecht, maar doe het dan niet zo dom als hij deed, met de woorden: "Christiano bewijst dag na dag dat hij een geweldige speler is, een serieuze prof, die respectvol is naar iedereen en zo ook door zal gaan.” Oké, hij kan goed voetballen, maar respectvol is hij toch vooral voor zichzelf en voor zijn kapper, de rest kan hem gestolen worden: medespelers, tegenstanders, scheidsrechters, toeschouwers, ze zijn lucht voor hem en zo behandelt hij ze ook. En trouwens, een trainer die voor een wedstrijd tegen Barcelona a) Bale in de spits, b) Ramos op de tien en c) Casillas aan de kant zet: hoe serieus moeten we die nemen? Net zo serieus als een FIFA-capo die a) bewezen corrupt, b) onmiskenbaar ijdel en c) evident incompetent is?
+
+
+
+
+
+Met dank aan SindsNu:

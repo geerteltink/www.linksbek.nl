@@ -1,0 +1,3 @@
+{{ $img := resources.Get (.Get 0)}}
+{{ $hashed := $img | resources.Fingerprint "md5" }}
+<img src="{{ $hashed.RelPermalink }}" alt="{{ .Get 1 }}" class="img-fluid" />

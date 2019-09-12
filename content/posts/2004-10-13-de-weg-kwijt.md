@@ -1,0 +1,8 @@
+---
+title: "De weg kwijt"
+date: "2004-10-13"
+---
+
+De voorbereiding van een uitwedstrijd is soms nog een heel gedoe. Ik spreek hier als ervaringsdeskundige, want ik heb enkele jaren geleden als coach van Meisjes 8D1 heel wat auto’s moeten organiseren. We kwamen weliswaar niet veel verder dan Almelo, Hengelo, Goor, Lochem en een enkele keer Deventer of Winterswijk, maar toch. In Holten hockeyen ze ook en het eerste herenelftal van de plaatselijke hockeyclub aldaar moest zondag in en tegen Epe spelen. In één van de auto’s dacht men echter, dat Ede de tegenstander zou zijn. Op zich al een merkwaardig idee, want deze club komt niet eens vóór in de vierde klasse F, waar Holten en Epe figureren. Maar goed, niet alle hockeyers zijn even slim, zullen we maar zeggen.
+
+Als u de routeplanner er bij pakt, dan kunt u zelf eenvoudig uitrekenen dat het driehoekje Holten-Ede-Epe, zeker op zo’n wonderschone zondagmiddag, toch al gauw een klein uurtje extra vraagt. Dat moet een gezellig ritje zijn geweest, want intussen waren ze in Epe natuurlijk alvast begonnen, tegen acht man van Holten. Die stonden bij de rust met 12-0 achter, waarna het met elf tegen elf uiteindelijk 18-0 werd. Epe uit, altijd lastig. Of de heren van Holten het daarna nog konden opbrengen om de volgende dag mee te stemmen in de verkiezing van de Grootste Nederlander Aller Tijden, is niet bekend. Het feit evenwel, dat Pim Fortuyn hierin is doorgedrongen tot de laatste tien, is een duidelijk bewijs voor het onbetwiste gelijk van mijn stellige overtuiging, dat de Holtense hockeyers helaas niet de enigen zijn, die in dit land de weg kwijt zijn geraakt.

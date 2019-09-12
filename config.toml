@@ -1,0 +1,20 @@
+baseURL = "/"
+languageCode = "nl-NL"
+title = "linksbek.nl"
+googleAnalytics = "UA-147731969-1"
+enableRobotsTxt = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+disqusShortname = "linksbek"
+copyright = "Peter Bonder"
+rssLimit = 10
+
+[author]
+    name = "Peter Bonder"
+
+[imaging]
+    resampleFilter = "Linear"
+    quality = 80
+
+[permalinks]
+    posts = "/:year/:month/:title/"

@@ -1,0 +1,10 @@
+---
+title: "Jodelahiti!"
+date: "2007-11-20"
+---
+
+Met een duffe kop las ik maandagochtend De Volkskrant bij de koffie, toen mijn oog viel op een advertentie inzake “Training innerlijk skiën voor lichaam en geest in de Italiaanse alpen”. Ik was onmiddellijk wakker, want ik ben weliswaar niet van de wintersport, integendeel, maar innerlijk skiën, en dan met name voor lichaam en geest in de Italiaanse alpen, daar moest ik meer van weten, dus op naar Google. En jawel, het was precies zo vaag en wazig als ik meteen al had gedacht. Mijn fijne voorgevoel op het gebied van zweverig geneuzel liet me weer eens niet in de steek. Ik citeer:
+
+“Geheel en al in de lijn van "Innerlijk tennis" (Gallwey, W.T.; 82-36-070) heeft deze - in de Californische groeigolf meegevoerde - therapie de innerlijke zelfontplooiing op het oog; nu met de skisport als invalshoek. Met aan deze sport ontleende beelden en terminologie is de opzet het diepere bewustzijnsniveau van zelf-II (vrij, vrolijk, licht, spontaan, ontspannen, enz.) aan te boren door de obstakels van zelf-I (bang, verveeld, onzeker, nadenken, boos zijn, enz.) uit de weg te ruimen. Ontspannen vaardigheid is de (aan te leren) verworvenheid waar alles om draait. Oefeningen in de praktijk van het skien of zittend in je stoel middels visualisaties zijn beschreven. Een constant bewustzijnsniveau van volledige rust en vrede wordt in het vooruitzicht gesteld.”
+
+Heerlijk toch? Als u de behoefte voelt om mee te doen, ga dan vooral gerust uw gang. Lekker aan de slag met zelf-II om een dieper bewustzijnsniveau aan te boren en vervolgens de obstakels van zelf-I uit de weg te ruimen: ik heb geen idee wat hiermee bedoeld wordt, maar laat u zich door mijn geborneerde bevooroordeeldheid alstublieft niet afschrikken als u uw ontspannen vaardigheid wilt bevorderen. Innerlijk skiën: van mij mag het in het ziekenfonds. Nooit meer nadenken, wat een geweldig gevoel. Maar denk erom: alleen voor lichaam en geest. En uitsluitend in de Italiaanse alpen. Arrividerci!

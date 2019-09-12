@@ -1,0 +1,8 @@
+---
+title: "Tranenbal"
+date: "2004-09-28"
+---
+
+Toen Sir Stanley Matthews, algemeen beschouwd als de beste rechtsbuiten aller tijden, in 2000 op 85-jarige leeftijd overleed, kreeg hij een laatste ronde in het stadion van Stoke City, zijn club. De tribunes waren afgeladen vol, met een staande ovatie nam het publiek afscheid van zijn idool en dat was het dan. André Hazes nam elke avond een paar laatste ronden, maar deze laatste ronde door de Amsterdam Arena ging wat mij betreft een paar bruggen te ver. Wat is er toch gaande in de hoofden en harten van al die mensen (kijkcijfers: 5 miljoen!) dat ze zich vrijwillig uitleveren aan de collectieve waan en de verplichte rituelen van de waxinelichtjescultuur? De man is dood en dat is vervelend voor hem, vreselijk voor zijn familie en verdrietig voor zijn fans, maar het was tijd. De hoogste tijd.
+
+“Ik hoop dat ik niet breek” zei Frits Barend vlak voor zijn optreden, en: “Ik heb vanavond ook nog een uitzending”. De hypocrisie van het opportunisme tierde welig in de galmende ballenbak, waar de poen en de penose van de skyboxen zich naadloos mengden met het Kleenex-sentiment van de gewone man. André zou het zo gewild hebben, was de algehele tendens, maar André heeft helaas niet zo veel meer te willen en dan gaat het er dus eigenlijk meer om, of _wij_ het zo gewild zouden hebben. Nee dus. Zelden zal een voetbalstadion, althans een bouwsel dat daarvoor doorgaat, op een dermate stuitende manier misbruikt zijn voor een misplaatste ceremonie van vals vermaak en plat vertoon. Olé olé olé. Zeg maar niets meer. Of, om met dappere Dreetje te spreken: “Shit!”

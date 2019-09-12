@@ -1,0 +1,8 @@
+---
+title: "Nine Eleven"
+date: "2011-09-15"
+---
+
+Opmerkelijk moment, afgelopen zondagmiddag even na één uur bij de NOS op Radio I. Commentator Bertus Hendriks van de Wereldomroep praat de luisteraars bij over de gevolgen van “Nine Eleven” in het Midden-Oosten. Hij is nauwelijks een minuut aan het woord of hij wordt onderbroken door de presentator van dienst, die “belangrijk nieuws” meldt uit Heerenveen waar de plaatselijke FC die van Groningen ontmoet. Voetbal, dus. Lekker belangrijk. En daarmee hebben we de waan van de dag wel zo'n beetje omschreven. Een terugblik op een aanslag die de wereld voorgoed veranderde, moet plaats maken voor een flits van een voetbalwedstrijd. Als ik Bertus Hendriks was dan had ik daarna vriendelijk bedankt voor de eer om mijn verhaal af te mogen maken.
+
+De uitslag van Heerenveen-Groningen mag u onmiddellijk vergeten, maar u weet vast nog wel waar u was en wat u deed toen die twee vliegtuigen de Twin Towers perforeerden. Ik werd gebeld door een collega: “CNN, nú kijken!” En ik bleef kijken, urenlang – totdat bij de NOS het lawaailogo van Studio Sport in beeld kwam en de bombasthymne van de Champions League klonk. Er werd gevoetbald in Nantes, waar PSV namens Nederland moest opdraven. De UEFA had er niet eens aan gedácht om de wedstrijd te cancelen, terwijl het centrum van New York enkele uren eerder was veranderd in een hels crematorium. PSV-keeper Ronald Waterreus zou later herhaaldelijk beweren dat ze natuurlijk niet hadden moeten spelen. Ze verloren met 4-1, maar eigenlijk had het 11-9 moeten zijn. Wat je noemt een historische score. En, vooral ook: lekker belangrijk.

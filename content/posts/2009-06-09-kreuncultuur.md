@@ -1,0 +1,8 @@
+---
+title: "Kreuncultuur"
+date: "2009-06-09"
+---
+
+Als ik een westrijd damestennis op de televisie zie, gaat bij mij onmiddellijk het geluid er af. Ik kan het niet meer aanhoren, dat gekreun en gesteun, met veel iii’s en aaa’s in diverse variaties. Maria Sharapova produceert per slagenwisseling meer dan honderd decibel en dat is vergelijkbaar met het lawaai van een klein vliegtuig. Dat mens moet na afloop toch helemaal kapot zijn? Hoeveel kleine vliegtuigen telt haar toekomstige luchtmacht nog? Maar het kan allemaal nog erger, want de zestienjarige Portugese Michelle Larcher de Britto doet een nog heviger aanslag op de trommelvliezen. Tegenstanders hebben al geklaagd en Martina Navratilova, de voormalige nummer één van de wereld, wil dat de internationale tennisbond stappen onderneemt om de kreuncultuur te stoppen. Quiet please!
+
+Bij de heren is het gelukkig allemaal een stuk minder, maar ook daar ging bij mij zondag bijna de volumeknop naar nul vanwege de wel heel erg opzichtige voorkeur van Marcella Mesker en Jan Siemerink voor een overwinning van Roger Federer. Natuurlijk, iedereen gunde de Zwitser deze historische triomf, maar als commentator van een niet-commerciële omroep moet je toch neutraal blijven? Dat gold overigens niet voor Mats Wilander, die op Roland Garros voor Eurosport de analyse deed. Hij zat daarvoor in een krappe studio vrijwel schouder aan schouder met een welgevormde presentatrice genaamd Gemma de Ville en onder het motto “Ik ben liever doof dan blind” deed de Zweedse tennislegende geen enkele moeite om zijn speciale gevoelens voor haar geheim te houden. De lieverd legde af en toe zelfs spontaan haar hand op zijn arm en dan kon je hem stiekum zachtjes horen kreunen. New balls please!

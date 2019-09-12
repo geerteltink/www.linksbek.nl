@@ -1,0 +1,8 @@
+---
+title: "Darthuizen"
+date: "2019-07-25"
+---
+
+Mevrouw Bonder en ik verkeren vanaf maandag voor tien dagen in Het Gooi. Nadat we onze auto hadden uitgepakt, en ik niet voor het eerst had geconstateerd dat het ook voor ruim een week nogal aan de uitgebreide kant is wat er allemaal in on zo’n bescheiden middenklasser kan, gingen we met de fiets op verkenning in de buurt. In het prachtige bos tussen Doorn en Leersum reden we het gat Darthuizen binnen, waar me onmiddellijk de gedachte bekroop dat Raymond van Barneveld hier een blok woningen voor zijn nieuwe vriendin had gekocht en het geheel via zijn makelaar naar zijn favoriete sport had vernoemd. Darthuizen, volg de pijlen. Daarbij vroeg ik me in het het kader van deze column nog wel af of darten een sport is, maar gelet op de uitbundige aandacht in de programmering op RTL7 kunnen we deze vraag volmondig met ‘ja’ beantwoorden.
+
+Op het programma voor de komende week staan onder andere een rondvaart over de Vecht, een bezoek aan Kasteel Haarzuilen en een rondleiding op Paleis Soetsdijk, waar Benno en Juul elkaars gezelschap decennia lang zorgvuldig vermeden als hij tenminste niet buitenshuis was vanwege een aangename snoepreis, schimmige verkoopdeal of buitenechtelijke escapade, drie exotische liefhebberijen waarin de man, dat moet gezegd, uiterst bedreven was. En dan wordt het vanzelf weer koers, met de Alpen in het weekend en de Champs Elysées op zondag. Ik ga blind voor Dylan Groenwegen, van wie ik overigens las dat hij zijn vader voor het volgen van de Tour een camper cadeau heeft gedaan omdat hij vroeger achter zijn brommer had getraind. Een camper, meer kon er kennelijk niet van af. Nou ja, dan had hij maar een echte sport moeten leren. Darten, bijvoorbeeld.

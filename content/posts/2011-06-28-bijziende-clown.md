@@ -1,0 +1,6 @@
+---
+title: "Bijziende clown"
+date: "2011-06-28"
+---
+
+Elke keer als ik de beelden opnieuw terugzie, en dat gebeurt me de laatste tijd vaker dan me lief is, word ik weer woest. Jan Jongbloed die in de WK-finale van 1974 geen poot uitsteekt naar die schuiver van Gerd Müller en bij diens penalty zelfs geen poging doet om de bal te stoppen. Natuurlijk was het een Schwalbe van Bernd Hölzenbein, maar dan kun je op z'n minst toch nog net doen alsof je een keeper bent? In 1978 tegen Argentinië hetzelfde beeld: als een dolle zijn doel uitkomen en de bal door zijn wild zwaaiende armen over de lijn laten gaan. Natuurlijk was het jammer dat Rob Rensenbrink vlak voor tijd tegen de paal schoot, maar als die bal erin gegaan was had die corrupte Italiaanse scheidsrechter net zo lang door laten spelen totdat keurslager Videla alsnog zijn zin gekregen had, met dank aan een bijziende clown in het Nederlandse doel. En daarom durf ik de stelling aan, dat we met Jan van Beveren zowel in 1974 als in 1978 kampioen waren geworden, met nul goals tegen. Maar ja, Jongbloed was de keus van Cruyff en Michels – omdat hij zo goed mee kon voetballen. Nou heb ik er niet echt heel veel verstand van, maar persoonlijk heb ik liever een keeper die kan keepen. En keepen, dat kon Van Beveren als geen ander.

@@ -31,43 +31,9 @@
 </head>
 
 <body class="app">
-    <header class="app-header navbar navbar-expand-lg navbar-light bg-light shadow-sm">
-        <nav class="container">
-            <a class="navbar-brand" href="{{ "/" | relURL }}" title="{{ .Site.Title }}">
-                <img src="{{ .Site.BaseURL }}/img/logo-linksbek.gif" class="img-fluid" />
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    {{ range .Site.Menus.main }}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ .URL }}">{{- .Name -}}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-        </nav>
-    </header>
-
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
     {{ block "main" . }}{{ end }}
-
-    <footer class="app-footer bg-dark text-light p-5">
-        <div class="d-flex container">
-            <div class="mr-auto">
-                Copyright © 2002-{{ now.Year }} Peter Bonder
-            </div>
-            <div>
-                Maintained by <a class="text-muted" href="https://xtreamwayz.com/">@xtreamwayz</a>
-            </div>
-        </div>
-        {{ block "footer" . }}
-        <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
-        {{ end }}
-    </footer>
-
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
     {{ $jquery := resources.Get "js/jquery.slim.js" }}
     {{ $bootstrap := resources.Get "js/bootstrap.bundle.js" }}
     {{ $js := slice $jquery $bootstrap | resources.Concat "js/bundle.js" | resources.Minify | fingerprint }}

@@ -7,6 +7,10 @@
         {{ end }}
     </header>
     <div class="homepage-content">
+        <p>
+            Een overzicht van alle {{ len (where .Site.RegularPages "Section" "==" "posts") }} columns die sinds januari 2002
+            geplaatst zijn.
+        </p>
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
     </div>

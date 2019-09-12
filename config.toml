@@ -17,4 +17,4 @@ rssLimit = 10
     quality = 80
 
 [permalinks]
-    posts = "/:year/:month/:title/"
+    posts = "/:year/:month/:slug/"

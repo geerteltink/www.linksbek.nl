@@ -9,13 +9,13 @@ markup: mmark
 
 ## Personalia
 
-**Naam:** Peter Bonder
-**Voorletters:** P.C.
-**Geboortedatum:** 17-01-1954
-**Geboorteplaats:** Enschede
-**Nationaliteit:** Nederlandse
-**Woonplaats:** Enschede
-**Telefoonnummer:** 053 4776473 / 065432 6251
+**Naam:** Peter Bonder<br/>
+**Voorletters:** P.C.<br/>
+**Geboortedatum:** 17-01-1954<br/>
+**Geboorteplaats:** Enschede<br/>
+**Nationaliteit:** Nederlandse<br/>
+**Woonplaats:** Enschede<br/>
+**Telefoonnummer:** 053 4776473 / 065432 6251<br/>
 **Burgerlijke staat:** Gehuwd, twee kinderen
 
 ## Opleiding
@@ -54,7 +54,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 
 ## Bijzonderheden
 
-{.test}
+{.list-unstyled}
 - In 2009 uitgave boek “Oorlog in de 16 (2)” (bundeling columns 2006-2009).
 - In 2008 bijgedragen aan het boek “Enschede, de mensen, de stad” (57 van de 250 verhalen geschreven).
 - Sinds 2007 columnist voor www.twentesport.com.
@@ -71,6 +71,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 
 ## Referenties
 
+{.list-unstyled}
 - Robert Zandstra (Military Boekelo).
 - Gijs Eijsink (www.twentesport.com).
 - Vincent Steggink (Sportcentrum Universiteit Twente).
@@ -86,6 +87,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 
 ## Interviews
 
+{.list-unstyled}
 - Paul Polman (CEO Unilever)
 - Henk Brusse (Button Boss)
 - Jan Mulder (De Wereld Draait Door)

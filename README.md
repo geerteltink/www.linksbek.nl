@@ -1,5 +1,8 @@
 # www.linksbek.nl
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56b9e4f7-b297-49c8-b2ab-9499f84f32a1/deploy-status)](https://app.netlify.com/sites/omfs-eu/deploys)
+![Action Status](https://github.com/xtreamwayz/www.linksbek.nl/blob/master/.github/workflows/nightly-build.yml/badge.svg)
+
 ## Create a new post
 
 ```bash

@@ -6,9 +6,3 @@ date: "2013-05-22"
 Sinds vandaag snap ik waarom ze bij de Twentsche Courant Tubantia zolang achter Steve McClaren zijn blijven staan. We schrijven woensdag 22 mei en wat lezen we? Een artikel met de kop "Play-offs meer last dan lust". Daarin stelt de schrijver dat de deelnemende clubs aan de kwalificatieronde voor de Europa League eigenlijk helemaal niet zitten te wachten op deze mogelijkheid om het seizoen nog enigszins redelijk af te sluiten. Dat ze het geen smakelijk toetje, maar een hinderlijk moetje vinden. En dat het voor de supporters ook niet hoeft. Tja, dan zal ik wel de enige zijn, maar ik vind het juist meer dan prima dat mijn favoriete club nog een herkansing krijgt, na een teleurstellende competitie met een lamlendige serie van acht wedstrijden zonder overwinning. Hebben we de finale van de Europa League gezien, dat affiche van Benfica tegen Chelsea? Wat was daar mis mee? Niet zo heel veel, naar mijn bescheiden mening.
 
 Nou ga ik niet beweren dat Twente in de Arena had moeten staan, maar als je in een poule zit met de nummer negen van Duitsland en de nummer dertien van Spanje, dan ga je je niet bij voorbaat gewonnen geven door in de beslissende wedstrijd tegen de nummer drie van Zweden een veredeld B-elftal met drie A-junioren het veld in te sturen. En als je dergelijk wangedrag herhaalt in de achtste finale van de KNVB Beker tegen de semi-profs van Den Bosch, dan beledig je de echte liefhebber. Die heeft namelijk ook gekeken naar de finale van de Copa del Rey tussen Real en Atletico - en anderhalf uur lang genoten van hoe mooi een knetterende voetbalwedstrijd kan zijn. Ik hoop dan ook dat de nieuwe trainer van Twente meer gevoel heeft voor historie en traditie. En de verslaggevers van de Twentsche Courant Tubantia zullen het toch ook leuk vinden om Europa in te gaan? Hou eens op met die lasten. En geniet van de lusten.
-
-
-
-
-
-Met dank aan SindsNu:

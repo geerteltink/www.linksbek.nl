@@ -10,5 +10,3 @@ Intussen kwam het niveau van het Nederlandse voetbal nauwelijks aan bod, wat in 
 
 
 Copyright: Peter Bonder.
-
-Met dank aan SindsNu:

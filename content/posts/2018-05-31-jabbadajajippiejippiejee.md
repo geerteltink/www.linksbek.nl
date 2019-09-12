@@ -12,9 +12,3 @@ Old Spice. Onze vaders depten er hun kinnen en wangen reeds mee. En nog steeds i
 Suitsupply. Misschien een tikje controversieel, maar wel een merk met lef en dus perfect passend bij onze doelgroep. Elke campagne is er weer een op het snijvlak van smaak en fatsoen, maar het verkoopt wel en de free publicity kopt de voorzet keurig in. De vrouw als lustobject, de man als testosteronbom? De heren van VI lusten er wel pap van, want sex sells. Voetballen in de Suitsupply League, dat is het leukste wat er is met je kleren aan.
 
 Hornbach. Bij elk doelpunt klinkt het in alle stadions: Jabbadajajippiejippiejéé! Hornbach is er voor de echte doorzetter. Voor mensen die met pure wilskracht, passie en hun eigen handen iets nieuws maken. Of het oude willen opknappen. Net zo lang schilderen, schroeven, boren en zagen tot het goed is. Voetballen in de Hornbach League, dat is pas een project. Jabbadajajippiejippiejéé!
-
-
-
-
-
-Met dank aan Purchase Pool.

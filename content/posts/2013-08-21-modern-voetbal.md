@@ -6,9 +6,3 @@ date: "2013-08-21"
 In de wedstrijd Arsenal-Aston Villa maakte Laurent Koscielny van de thuisploeg een zware overtreding. Hij had al geel en dus liepen er onmiddellijk een paar tegenspelers naar de scheidsrechter om hem daarop te wijzen. Ik heb daar zo'n enorme hekel aan dat ik vind dat die mannen zelf een gele kaart moeten krijgen. Het is één van de vervelende trekjes van het zogenaamd moderne voetbal. PS-AC Milan had nog mooier kunnen zijn zonder Ballotelli die Maher naait en Montolivo die Maher maait. De verslaggever heeft het dan over een "doorgewinterde speler". Ik mag dan misschien naïef zijn, maar voor mij is het een ordinaire smeerlap die met een directe rode kaart van het veld zou moeten worden gestuurd.
 
 Het moderne voetbal is zo ouderwets als maar kan, en niet alleen vanwege dat vuile spelbederf. Jacques Brinkman, met 337 hockey-interlands lange tijd Nederlands recordhouder, gaf deze week als analist bij het EK hockey voor RTL7 een voorbeeld uit de praktijk. Hij staat elke zaterdag op het hockeyveld bij zijn dochter te kijken en ziet dan de voordelen van de self pass en geen buitenspel. Even later is hij aanwezig bij de voetbalwedstrijd van zijn zoon en denkt hij bij elke vrije slag: neem 'm dan, snel! Maar nee, het duurt allemaal heel erg lang voordat het spel hervat wordt. En als de spits dan eindelijk de bal heeft, dan is de kans groot dat hij, al dan niet terecht, vanwege buitenspel wordt teruggefloten. Volgende week maak ik mijn verhaal af met een pleidooi voor echt modern voetbal naar aanleiding van een voetbaltoernooi met hockeyspelregels bij VV Noordwijk.
-
-
-
-
-
-Met dank aan SindsNu:

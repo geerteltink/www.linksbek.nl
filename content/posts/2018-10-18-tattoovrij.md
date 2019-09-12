@@ -10,9 +10,3 @@ Jasper Cillissen; Denzel Dumfries, Steven de Vrij, Matthijs de Ligt, Daley Blind
 Wissels: Jeroen Zoet, Ricardo van Rhijn, Guus Til, Sven van Beek, Marten de Roon, Pablo Rosario, Brian Linssen, Klaas Jan Huntelaar.
 
 Ik mis alleen Wout Brama, verder lijkt het me een prima team.
-
-
-
-
-
-Met dank aan Purchase Pool.

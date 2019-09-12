@@ -4,9 +4,3 @@ date: "2018-12-27"
 ---
 
 Er was vooraf de nodige kritiek op de organisatie van het Sportgala. Sven Kramer vond dat ze er maar lekker mee op moesten houden en Anna van der Breggen had wel wat beters te doen. Of dit commentaar terecht is of niet, laat ik hier in het midden. Feit is wel dat Volkskrant-columniste Cécile Narinx veel bagger over haar heen kreeg vanwege haar goedbedoelde stijldavies voor de dames: draag geen jurk als je je er niet senang in voelt. Ik kom hier straks op terug, dus hou dit vast, maar eerst wil ik met u een ander punt aanstippen. In de categorie Coach van het Jaar waren drie kandidaten genomineerd voor de titel: Jacques Orie, Raemon Sluiter en Jeroen Otter. Dan kun je het volgens mij niet maken dat je er vervolgens twee benoemt en de derde er toch een beetje voor Jan Lul met lege handen bij laat zitten. Dit gezegd hebbende kom ik nu bij de wat mij betreft twee hoogtepunten van de show en die zaten in het decolleté van Glennis Grace. Zij zong zwemheld Maarten van der Weijden toe met het nummer ‘One Moment Of Time’ wat er van mij ook twee hadden mogen zijn. Na afloop deelde ze een stevige knuffel met de waterman, die daarmee de grootste winnaar van de avond werd.
-
-
-
-
-
-Met dank aan Purchase Pool.

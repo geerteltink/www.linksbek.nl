@@ -8,9 +8,3 @@ FC Twente-voorzitter Joop Munsterman in Twentevisie van deze maand: "Misschien i
 Onze zuiderburen hebben zich al bijna gekwalificeerd voor het WK in een poule met Kroatië (nummer 10 van de wereld), Servië (43), Wales (52), Schotland (63) en Macedonië (75). Dat is toch andere koek dan landen als Estland (88) en Andorra (200) waarmee onze jongens de grootst mogelijke moeite hadden. Dus niet alleen Europees, ook mondiaal hebben we weinig te vertellen - maar wel veel praatjes.
 
 Natuurlijk staat er geen maat op Barcelona in het algemeen en Messi in het bijzonder, maar Ajax was in Camp Nou bij voorbaat zo goed als kansloos. Daar wil ik dit stukje dan ook niet mee eindigen. Ik vraag uw aandacht voor een punt dat me al langer bezighoudt. Messi scoorde de 1-0 uit een vrije trap, waarmee hij het muurtje passeerde. Dat bracht me op het volgende idee: elke aanvaller mikt op dat kleine gaatje tussen de goal en de muur. Wanneer we als eerste land ter wereld dat muurtje nou gewoon eens weghalen, dan hebben onze tegenstanders geen trefpunt of raakvlak meer om op te mikken. Misschien dat we daarmee onze internationale achterstand kunnen wegwerken en tenminste weer eens winnen van de Luxemburgse nummer vier.
-
-
-
-
-
-Met dank aan SindsNu:

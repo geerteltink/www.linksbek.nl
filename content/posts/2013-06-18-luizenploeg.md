@@ -6,9 +6,3 @@ date: "2013-06-18"
 Volgens mijn exemplaar van de Dikke van Dale heeft het bijvoeglijk naamwoord "luizig" de volgende vier verschillende betekenissen: 1. vol luizen; 2. armoedig; 3. geweldig, reusachtig, verbazend; 4. lui, vadsig. We mogen aannemen dat Cor Pot, de bondscoach van Jong Oranje, de tweede omschrijving bedoelde toen hij het voetbal van Jong Italië als zodanig betitelde. Geweldig, reusachtig of verbazend was het immers niet, lui en vadsig evenmin, maar wel typisch catenaccio: zuigend, provocerend en intimiderend, oftewel: het voetbal waarbij zelfs een erkende etterbak als Strootman sympathiek afsteekt. Het is niet om aan te zien, maar je haalt er wel finales mee. En toch is er hoop: het volwassen Italië heeft het aloude betonvoetbal allang afgezworen en speelt onder leiding van de oude meester Pirlo uiterst frivool, in ieder geval verre van luizig.
 
 Los hiervan heeft Pot het noodlot ook wel enigszins over zichzelf en zijn elftal afgeroepen. Weet u nog het EK van 2008? Nederland won de eerste twee wedstrijden tegen Italië en Frankrijk met ruime cijfers, toen bondscoach Marco van Basten voor de derde wedstrijd tegen Roemenië de tweede keus het veld instuurde, met B-spelers als De Cler, Bouma en De Zeeuw. Nederland won wel, vooral omdat Roemenië onthutsend zwak speelde, maar het tempo en het ritme waren weg. Rusland had in de kwartfinale geen kind aan Oranje en dat resultaat uit het verleden had voor Pot een garantie voor de toekomst moeten zijn, maar hij maakte dezelfde fout en verloor volkomen terecht. Overigens had hij op één punt wel gelijk: Italië zou in de finale tegen Spanje kansloos zijn. Niet omdat het luizig speelde, eerder lomp, maar gewoonweg omdat er op het Spaanse voetbal nou eenmaal geen maat staat. Olé!
-
-
-
-
-
-Met dank aan SindsNu:

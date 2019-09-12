@@ -6,9 +6,3 @@ date: "2013-12-10"
 Op 4 maart vorig jaar had ik een afspraak met Jan-Joost van Gangelen voor een interview. De goedlachse presentator had die dag dienst bij PSV-Twente en dus toog ik richting Eindhoven om het nuttige (betaald werk) met het aangename (mooi voetbal) te verenigen. U kent ongetwijfeld de uitslag nog: het werd 2-6 na een wedstrijd waarin de thuisploeg volledig van de mat werd gespeeld. De volgende dag schaarde de complete PSV-selectie zich collectief achter trainer Fred Rutten en ook de directie liet weten nog steeds het volste vertrouwen in hem te hebben. Tien dagen later en twee nederlagen verder werd zijn contract ontbonden en stond hij op straat. Zijn assistent Erik ten Hag toonde zich solidair en nam zelf ontslag. Intussen wordt Rutten genoemd als bondscoach van Hongarije en als dat doorgaat begint hij aan een avontuur waarvan de afloop zich gemakkelijk laat voorspellen.
 
 Zondag verloor PSV met 6-2 thuis van Vitesse en de overeenkomsten met de nederlaag tegen Twente zijn meer dan puur cijfermatig. Natuurlijk had Havenaar na die smerige tackle op Schaars rood moeten hebben, maar ik ben bang dat de Arnhemmers ook in een ondertalsituatie de gehaktmolen met hetzelfde gemak en dito resultaat hadden bediend. Toch was de uitslag nog niet eens het meest ontluisterende van deze zwarte zaterdag in Eindhoven. De manier waarop de spelers zich na de blamage met hun fans onderhielden, compleet met veel high fives en andere goedkope rituelen, deed het ergste vrezen voor de volgende wedstrijden. Ze hebben van een tribune in een voetbalstadion een condoleanceruimte in een crematorium gemaakt. Maar het goede nieuws is dat trainer Phillip Cocu in onverminderde mate het volledige vertrouwen van de directie geniet. Het is alleen nog maar de vraag wanneer zijn assistenten Ernest Faber en Chris van der Weerden zich solidair zullen tonen.
-
-
-
-
-
-Met dank aan SindsNu:

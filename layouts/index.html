@@ -19,7 +19,10 @@
                     <h2 class="article__heading">
                         <a href="{{.Permalink}}">{{.Title}}</a>
                     </h2>
-                    <div>{{.Summary | markdownify}}</div>
+                    <div>
+                        {{.Summary | markdownify}}
+                        <a href="{{.Permalink}}" aria-label="Lees meer over {{.Title}}">[Lees meer&hellip;]</a>
+                    </div>
                 </li>
                 {{ end }}
             </ul>

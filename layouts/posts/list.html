@@ -22,7 +22,10 @@
                 <a href="{{.Permalink}}">{{.Title}}</a>
                 <time datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}" class="text-muted small">{{.Date.Format "2006-01-02"}}</time>
             </h2>
-            <div>{{.Summary | markdownify}}</div>
+            <div>
+                {{.Summary | markdownify}}
+                <a href="{{.Permalink}}" aria-label="Lees meer over {{.Title}}">[Lees meer&hellip;]</a>
+            </div>
         </li>
         {{ end }}
     </ul>

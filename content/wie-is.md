@@ -8,7 +8,7 @@ menu:
 ---
 
 <figure class="figure w-25 float-right ml-5">
-  <img src="{{< imgurl "/img/peter-bonder-by-hessel-bosch.jpg" >}}" class="img-fluid" />
+  <img src="{{< imgurl "/img/peter-bonder-by-hessel-bosch.jpg" >}}" class="img-fluid" alt="Foto Peter Bonder" />
   <figcaption class="figure-caption">Foto gemaakt door Hessel Bosch</figcaption>
 </figure>
 

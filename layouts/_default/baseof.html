@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="Description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds januari 2002 ook online.">
     <meta name="web_author" content="Geert Eltink, https://www.xtreamwayz.com/" />
     <meta name="google-site-verification" content="7gP8g5uBzP8KchB3lT4huxo0tlH-_m9fyiJ9Zb7h1uE" />
     {{ with .GitInfo }}<meta name="revision" content="{{ .Hash }}" />{{ end }}
@@ -13,13 +14,13 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="{{ .Permalink }}">
     <meta name="twitter:title" content="{{ .Title }}">
-    <meta name="twitter:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds 31 januari 2002 ook online.">
+    <meta name="twitter:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds januari 2002 ook online.">
     <meta name="twitter:image" content="{{ .Site.BaseURL }}/img/logo-linksbek.gif">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:image" content="{{ .Site.BaseURL }}/img/logo-linksbek.gif">
-    <meta property="og:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds 31 januari 2002 ook online.">
+    <meta property="og:description" content="Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds januari 2002 ook online.">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="article:author" content="Peter Bonder">
     <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}" />

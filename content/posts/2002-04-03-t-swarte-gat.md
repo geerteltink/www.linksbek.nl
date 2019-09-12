@@ -1,5 +1,6 @@
 ---
 title: "’t Swarte gat"
+slug: "t-zwarte-gat"
 date: "2002-04-03"
 ---
 

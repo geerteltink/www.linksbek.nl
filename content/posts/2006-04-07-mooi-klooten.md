@@ -1,5 +1,6 @@
 ---
 title: "Mooi kloot’n"
+slug: "mooi-klooten"
 date: "2006-04-07"
 ---
 

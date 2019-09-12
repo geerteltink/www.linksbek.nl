@@ -1,5 +1,6 @@
 ---
 title: "Offline.nl"
+slug: "offline-nl"
 date: "2019-05-02"
 ---
 

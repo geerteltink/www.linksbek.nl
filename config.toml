@@ -8,6 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 disqusShortname = "linksbek"
 copyright = "Peter Bonder"
 rssLimit = 10
+summarylength = 30
 
 [author]
     name = "Peter Bonder"

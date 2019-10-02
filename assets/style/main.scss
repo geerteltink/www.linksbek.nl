@@ -1,6 +1,5 @@
 @import "variables";
 @import "../../node_modules/bootstrap/scss/bootstrap";
-@import "bootswatch";
 @import "card-banner";
 @import "page-title";
 
@@ -10,13 +9,13 @@ body {
 }
 
 .app {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .app-content {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    flex: 1;
+  flex: 1;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }

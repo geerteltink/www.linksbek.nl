@@ -6,7 +6,6 @@ module.exports = {
   },
   'extends': [
     'eslint:recommended',
-    'plugin:vue/essential',
     'plugin:import/errors',
     'plugin:import/warnings'
   ],

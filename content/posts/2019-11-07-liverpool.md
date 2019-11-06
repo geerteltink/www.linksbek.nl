@@ -1,0 +1,8 @@
+---
+title: "Liverpool"
+date: "2019-11-07"
+---
+
+Liverpool is één van mijn favoriete voetbalclubs. Wat die club aan ellende meegemaakt heeft, van Heizel tot Hillsborough (in totaal 135 doden), is eigenlijk met geen pen te beschrijven. Tip: ga naar YouTube voor de speech van Brendan Rodgers. Daar staat tegenover dat de club aan Anfield Road voetballegendes heeft voortgebracht als Steven Gerrard, Ian Rush, Kevin Keegan, Kenny Dalglish, Graeme Souness en ja, ook die rare keeper Bruce Grobbelaar. Nederlanders als de verschrikkelijke Dirk Kuyt en de sympathieke Ryan Babel hebben er gevoetbald, evenals onze eigen Sander Westerveld uit Enschede, die in 2001 maar liefst vijf prijzen won: de League Cup, de FA Cup, de UEFA Cup, het Charity Shield en de UEFA Super Cup. Virgil van Dijk en Giorginio Wijnaldum maakten dit jaar een triomftocht door de stad met de hoofdprijs in de UEFA Champions League.
+
+Zij deden dat aan de hand van Jürgen Klopp, die in september werd uitgeroepen tot beste trainer van Europa en daarbij beloofde voortaan 1% van zijn salaris af te staan voor het goede doel. Om u een indruk te geven: hij verdient bij Liverpool 11,3 miljoen euro per jaar. En dan ook nog zielig zeiken dat zijn club tussen 23 november en 23 januari twintig wedstrijden moet spelen. Nou èn? De selectie van Liverpool bestaat uit vier keepers, negen verdedigers, tien middenvelders en vijf aanvallers, met een staf van vierentwintig man. De merchandising doet wereldwijd goede zaken, met een online omzet van tientallen miljoenen. Alleen al de kerstomzet is even groot als de begroting van een Afrikaans ontwikkelingsland. En dat betaalt zich allemaal terug in de vorm van waanzinnige salarissen, dus ik zou zeggen: werken voor die centen. You’ll never walk alone!

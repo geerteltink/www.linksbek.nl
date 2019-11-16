@@ -24,7 +24,7 @@
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="article:author" content="Peter Bonder">
     <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-    {{ $styles := resources.Get "style/main.scss" | toCSS | resources.PostCSS | resources.Minify | fingerprint }}
+    {{ $styles := resources.Get "style/main.scss" | toCSS | resources.PostCSS | resources.Minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
     {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -38,7 +38,7 @@
 
     {{ $jquery := resources.Get "js/jquery.slim.js" }}
     {{ $bootstrap := resources.Get "js/bootstrap.bundle.js" }}
-    {{ $js := slice $jquery $bootstrap | resources.Concat "js/bundle.js" | resources.Minify | fingerprint }}
+    {{ $js := slice $jquery $bootstrap | resources.Concat "js/bundle.js" | resources.Minify | fingerprint "sha512" }}
     <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{ template "_internal/google_analytics_async.html" . }}
 </body>

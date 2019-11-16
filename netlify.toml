@@ -1,16 +1,21 @@
 # https://www.netlify.com/docs/netlify-toml-reference/
 [build]
 publish = "public"
-command = "hugo -b $URL"
+command = "hugo --gc --minify -b $URL"
+
+[context.production.environment]
+HUGO_VERSION = "0.59.1"
+HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --i18n-warnings -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
+HUGO_VERSION = "0.59.1"
 HUGO_GOOGLEANALYTICS = "dev"
 
 [context.branch-deploy]
-command = "hugo --i18n-warnings --buildDrafts -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[context.deploy-deploy.environment]
-HUGO_GOOGLEANALYTICS = "dev"
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.59.1"

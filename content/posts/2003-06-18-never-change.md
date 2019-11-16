@@ -1,5 +1,5 @@
 ---
-title: "Never change..."
+title: "Never change"
 date: "2003-06-18"
 ---
 

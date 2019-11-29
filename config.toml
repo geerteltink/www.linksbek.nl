@@ -10,6 +10,11 @@ copyright = "Peter Bonder"
 rssLimit = 10
 summarylength = 30
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [author]
     name = "Peter Bonder"
 

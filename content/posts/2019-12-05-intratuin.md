@@ -1,0 +1,6 @@
+---
+title: "Intratuin"
+date: "2019-12-05"
+---
+
+Allereerst wil ik de supporters van Heracles oprecht feliciteren met het spel van hun favorieten in het algemeen en dat van Cyriel Dessers in het bijzonder. Hij staat, samen met die sympathieke Duitse trainer, wat mij betreft model voor een team zonder droosjes. Het zal nooit mijn club worden, en dat achterlijke kunstgras moet zo langzamerhand echt verboden worden, maar ze doen het toch maar en dat moet ik als geboren en getogen Enschedeër, niet geheel onpartijdig, gewoon ronduit toegeven. Dat gezegd hebbend neem ik u mee naar de Beugel Bunker, die afgelopen zondag weer eens de Hel van Enschede was, waar het kan spoken en gisten. Helaas duurde het slechts een Twents kwartiertje, waarna Ajax het met twee vingers in de neus afmaakte. Daarbij viel vooral op dat Daley Blind de mooiste lange pass van Nederland op de pantoffel heeft, hoewel je je kunt afvragen waarom hij dat gedurende de hele wedstrijd vrijwel ongestoord kon doen. Op de terugweg naar huis fietste ik langs een tweetal verkeersregelaars bij de Intratuin en onwillekeurig flitste het door mijn hoofd of ze bij de Intratuin in Almelo ook verkeersregelaars hebben. Of staan er in die mooie stad alleen maar stoplichten?

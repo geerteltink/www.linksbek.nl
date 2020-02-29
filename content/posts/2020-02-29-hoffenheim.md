@@ -1,0 +1,6 @@
+---
+title: "Hoffenheim"
+date: "2020-02-29"
+---
+
+Sponsors die eisen dat hun kind in het hoogste team komt: ze bestaan echt, ik heb ze meegemaakt. Dietmar Hopp (Heidelberg, 1940) kun je daarvan niet beschuldigen, integendeel. De multi-miljardair verdiende in 2005 een godsvermogen met de verkoop van het softwarebedrijf SAP. Hij stak 70% van zijn fortuin in de stichting van Europa’s grootste liefdadigheidsinstelling voor mensen die het minder getroffen hebben. Daarnaast werd hij eigenaar en hoofdsponsor van zijn favoriete voetbalclub, TSG Hoffenheim, dat mede dankzij zijn investeringen van de vijfde divisie naar het linker rijtje van de Bundesliga klom. Bovendien betaalde hij 100 miljoen euro voor de bouw van een nieuw stadion met 30.000 zitplaatsen. Dat vinden veel fans van de andere clubs niet leuk en vanwege hun ranzige spreekkoren en schunnige spandoeken zijn al enkele wedstrijden gestaakt. Vandaag was het weer raak bij de thuiswedstrijd tegen Bayern München. Ver in de tweede helft, bij de stand 0-6, vond de scheidsrechter het mooi geweest en stuurde hij beide teams naar de catacomben. Na een korte pauze kwamen de spelers weer het veld op om de resterende tijd met een rondo vol te maken. Het was een mooi gebaar, maar misschien wordt het ook eens de hoogste tijd dat de spelers de supportersbussen gaan opwachten.

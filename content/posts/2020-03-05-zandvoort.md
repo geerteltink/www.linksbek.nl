@@ -1,0 +1,8 @@
+---
+title: "Zandvoort"
+date: "2020-03-05"
+---
+
+De stikstofcrisis legt de werkzaamheden op vrijwel elke bouwplaats in Nederland stil, de korhoen en de patrijshaan verhinderen dat er een schop de grond in gaat, maar in Zandvoort wordt ongestoord gewerkt aan de realisatie van een milieuvernietigend circuit voor de liefhebbers van de gemotoriseerde misdaad. Flora en fauna doen er even niet meer toe, we hebben godverdomme ook al de maximum snelheid naar honderd kilometer teruggedraaid, mogen we dan misschien één keer per jaar drie dagen van vroem vroem, ja? Ze waren zelfs bereid om zo ver te gaan dat de coureurs met hun auto’s dwars door een beschermd natuurgebied over het strand mochten gaan rijden. Je krijgt toch sterk de indruk dat Zandvoort meer kwallen in de gemeenteraad heeft zitten dan dat er aan de kustlijn liggen.
+
+Het is geen toeval dat de VVD daar één van de grootste fracties is. De kakpartij van de grachtengordel heeft dikke schijt aan de problemen in de provincie. Vraag het aan de mensen in Groningen en Zeeland. Assen heeft het qua infrastructuur en bereikbaarheid helemaal voor elkaar, maar stel je voor dat we dat pokke eind naar Drente moeten rijden. Je geeft ze een pink, ze nemen je hele hand en je krijgt er een dikke middelvinger voor terug. Zo werkt dat in de wereld van patsers en proleten, waar hebzucht, winstbejag en perversie welig tieren, onder de bezielende leiding van Jantje Lammers, de vleesgeworden dildo van Prins Bernhard, eigenaar van het circuit, pandjesbaas te Amsterdam en volle neef van onze koning. Je zou bijna hopen dat het Corona-virus het gaat winnen van de Formule I-koorts.

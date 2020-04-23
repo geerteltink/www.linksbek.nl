@@ -1,6 +1,6 @@
 ---
 title: "Coronali B."
-date: "2020-04-26"
+date: "2020-04-23"
 ---
 
 Wobke Hoekstra en Klaas Knot: het zijn de kapiteins die het schip van de staat veilig door de woelige wateren loodsen, net als Sietse en Hielke Klinkhamer, mijn jeugdidolen van De Kameleon. Jaap van Dissel en Diederik Gommers: je steekt je hand voor ze in het vuur omdat je weet dat je aan hun oordeel je vingers niet zult branden. Ik bedoel maar: elk land krijgt de coronahelden die het verdient. En helaas ook andersom: we hebben te maken met een desolate parade van amechtige aandachttrekkers. Zo hebben mediawetenschappers geconstateerd dat er sprake is van een even ernstig als hardnekkig Coronali B-virus. Er is geen talkshow geweest waarin hij niet gezeten heeft. Ali Bah. Ali Boe. Ali Blabla. Met in zijn kielzog een bonte stoet van meer dan veertig parmantige paljassen en treurige traantrekkers. Ik noem een Jan Slagter, de Hans Anders van Omroep Max. Tim Hofman en Arie Boomsma, helaas niet kapot te krijgen. Minister Grapperhaus: Slimmerchillen = Coronakillen. En kijk, daar hebben we Ab Osterhaus weer, glaasje wijn erbij, gezellig toch? Net als die blije eikel van de EO en de schattige daslief-campagne van de bakfietsende Sire-grachtengordelbrigade. Nou is dat allemaal nog redelijk onschuldig. De echte ratten zijn Jort Kelder en Marianne Zwagerman, die de gezondheid van misbare bejaarden (‘dor hout’) ondergeschikt maken aan de belangen van de (lees: hun eigen) economie. Na 1945 wisten we wie er fout of goed waren geweest. Tijdens de coronacrisis wordt het meteen al duidelijk.

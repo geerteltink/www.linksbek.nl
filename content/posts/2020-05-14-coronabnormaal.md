@@ -1,0 +1,8 @@
+---
+title: "Coronabnormaal"
+date: "2020-05-14"
+---
+
+Ja, natuurlijk ga ik kijken als zaterdag de Bundesliga weer begint. Als het er op aan komt ben ik net zo’n opportunistische ramptoerist als vele anderen met mij. Het gaat alleen maar om geld, en daar draaien de vedettes zelf niet omheen. Nog niet zo lang geleden waren we allemaal zeer begaan met het lot van PSV-talent Mohammed Ittaharen, die op veel te jonge leeftijd zijn vader aan die k-ziekte verloor. Recentelijk poseerde dezelfde jongeman met een Audi R8, cataloguswaarde 198.000 euro, die hij zich voor zijn achttiende verjaardag had aangeschaft. Ik kan u melden dat mijn compassie ineens een stuk minder was, zo niet geheel verdampt. Dat is niet één middelvinger naar het gemene plebs, dat zijn er twee, vergelijkbaar met het totale gebrek aan respect bij de gestoorde lamlullen van DENK en die geparfumeerde drol van 50 Plus voor hun doelgroepen.
+
+Intussen sluit ik me met het grootste genoegen aan bij het groeiende leger van corona-critici die de term ‘Het Nieuwe Normaal’ helemaal ruk vinden. Het nieuwe normaal? Wie heeft dat bedacht, laat staan goedgekeurd? Je moet er toch niet aan denken dat de anderhalve meter het nieuwe criterium van de onderlinge afstand in de intermenselijke omgang wordt? Dat je elkaar nooit meer mag knuffelen, laat staan aanraken? Handen wassen, oké, maar geen handen schudden? Ik doe daarom graag mee aan de roep om een ander thema: ‘Het Tijdelijke Abnormaal’. Ik kan me zelfs heel goed voorstellen dat premier Mark Rutte zijn ministers Hugo de Jonge (voor al uw apps) en Ferd Grapperhaus (voor al uw slogans) hiervoor vrij houdt om er een gezellige campagne omheen te bouwen, met een mascotte in de hoofdrol, genoemd en gemodelleerd naar onze bekendste viroloog: Ab Normaal.

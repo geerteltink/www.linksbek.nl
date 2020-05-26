@@ -78,11 +78,10 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 - Jan Willem Hidskes (projectmanager marketing en communicatie Universiteit Twente).
 - Han Pape (De Roskam, www.twentesport.com).
 - Jan Medendorp (RTV Oost, Twentevisie).
-- Hennie Ardesch (FC Twente, Keepersacademie Twente).
 - Jos Sijbom (ex-wethouder Hof van Twente, ex-lid Provinciale Staten van Overijssel).
 - Paul Berkhout (Twentsche Courant Tubantia).
 - Eddy van der Ley (Algemeen Dagblad).
-- Ton Koopman, Herman Fleer (Voedselbank Enschede-Haaksbergen).
+- Fred Paats (Voedselbank Enschede-Haaksbergen).
 - Jack Justus (hockeycoach-hockeytrainer).
 
 ## Interviews

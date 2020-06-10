@@ -1,0 +1,8 @@
+---
+title: "Beleidsplan"
+date: "2020-06-11"
+---
+
+Karim El Ahmadi is nooit mijn favoriete voetballer geweest: veel te fysiek, op het gemene af. Wel een type waarmee je de oorlog wint, en een jongen van de streek bovendien, maar ik zie niet in wat een 35-jarige veteraan toevoegt aan het nieuwe FC Twente. Zijn eventuele rentree zou overigens wel passen in de visie van de club, die voorlopig kennelijk voor de korte termijn kiest, getuige de aanstelling van Jan Streuer als technisch directeur voor ‘maximaal één jaar’. Nou heb ik als bestuurslid van een hockeyvereniging diverse beleidsplannen langs zien komen, en die zagen er op papier allemaal picobello uit, maar als die sukkel van een midvoor in de laatste minuut op de paal schoot dan kon dat mooie rapport rechtstreeks de prullenbak in.
+
+Met de presentatie van de nieuwe man leek algemeen directeur Paul van der Kraan vooral uit zijn eigen verleden bij Vitesse te hebben geput. Hij schijnt een fors aantal blauwtjes te hebben gelopen en zag er daardoor opmerkelijk opgelucht uit, zo van: hè hè, het is gelukt, en dan is Veronica Inside niet te flauw om daar een gemakkelijke karikatuur van te maken. De kandidaat voldeed ‘voor tachtig procent’ aan de profielschets: het was alsof je Hugo de Jonge hoorde oreren over de kwaliteit van de corona-app. Niet echt overtuigend, kortom, maar laten we het geheel het voordeel van de twijfel geven. Er moet snel een nieuwe trainer komen en als dat Alexander Zorniger was geworden, dan had ik daar vrede mee gehad. Hans Meyer was ook een Duitser en hij was één van de besten, ook qua sympathie (‘Ich bin ein Tukker’), die we gehad hebben.

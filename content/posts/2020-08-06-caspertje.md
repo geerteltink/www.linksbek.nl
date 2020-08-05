@@ -1,0 +1,8 @@
+---
+title: "Caspertje"
+date: "2020-08-06"
+---
+
+John de Mol heeft ons land veel ellende bezorgd. Niet alleen in de vorm van tragische bagger als Big Brother en Utopia, maar ook met Wendy van Dijk, Ali B, Patty Brard en niet te vergeten zijn eigen Johnny de Mol. Het zijn slechts enkele passanten in een treurige parade van overschatte kijkcijferjunkies en hypocriete emotiesnuivers. Ze overvoeren ons met kilokliko’s buisvuil tegen een decor van jezuïtisch bordkarton. Niets is echt, alles is nep en we vreten het als ganzen in de productie van foie gras. En toch is John de Mol sinds kort ook mijn held. Hij is er namelijk als enige verantwoordelijk voor dat mijn favoriete voetbaltalkshow Veronica Inside binnenkort weer gaat draaien. Eén mail aan Johan Derksen was voldoende om de drie neuzen dezelfde kant op te krijgen.
+
+Gewoon even laten zien wie de baas is, zo doe je dat, en tussen neus en lippen door dreigen met de eventuele gevolgen van een contractbreuk (‘maar dat moeten we niet willen’). En ik vind het een mooie bijkomstigheid dat de man met de snor een deel van zijn inkomsten weggeeft aan ‘Support Casper’, de stichting die alvleesklierkanker bestrijdt onder leiding van Feyenoord-clubarts Casper van Eijk, door zijn vriend Gijp liefkozend Caspertje genoemd. Als er iemand is die van VI beter mag worden, dan is hij het wel. En intussen heb ik ook nog een suggestie voor het eerste gastoptreden van het nieuwe seizoen: laat Ronald Koeman maar eens uitleggen waarom zijn spelers wel het programma mogen boycotten, maar straks gewoon in Qatar gaan voetballen als ze zich plaatsen voor het WK.

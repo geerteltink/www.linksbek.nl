@@ -6,9 +6,10 @@
 ## Create a new post
 
 ```bash
-$ hugo new posts/2019-09-12-column-title.md
-$ git commit -am "Add column for 2019-09-12"
-$ git push
+$ git switch -c
+$ hugo new posts/2020/2020-12-31.md
+$ git commit -am "feat: 2020-12-31"
+$ gh pr create -t "feat: 2020-12-31" -b "" -l "feat"
 ```
 
 ## Development

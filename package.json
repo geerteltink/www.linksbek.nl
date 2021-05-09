@@ -10,18 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.1.0",
+    "autoprefixer": "^10.2.5",
     "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
-    "postcss": "^8.2.2",
+    "postcss": "^8.2.14",
     "postcss-cli": "^8.3.1",
-    "stylelint": "^13.8.0",
+    "stylelint": "^13.13.1",
     "stylelint-config-idiomatic-order": "^8.1.0",
-    "stylelint-config-recess-order": "^2.3.0",
+    "stylelint-config-recess-order": "^2.4.0",
     "stylelint-config-recommended-scss": "^4.2.0",
-    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0"
+    "stylelint-scss": "^3.19.0"
   }
 }

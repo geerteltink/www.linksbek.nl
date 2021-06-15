@@ -16,7 +16,7 @@
     </div>
     <ul class="list list-unstyled">
         <!-- Ranges through content/posts/*.md -->
-        {{ range (.Paginator 10).Pages.ByDate.Reverse }}
+        {{ range (.Paginator 50).Pages.ByDate }}
         <li class="mb-3">
             <h2 class="article__heading">
                 <a href="{{.Permalink}}">{{.Title}}</a>

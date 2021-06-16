@@ -14,7 +14,7 @@
             </div>
             <ul class="list list-unstyled">
                 <!-- Ranges through content/posts/*.md -->
-                {{ range (.Paginator 3).Pages.ByDate.Reverse }}
+                {{ range first 3 (where .Site.Pages "Type" "posts").ByDate.Reverse }}
                 <li class="mb-3">
                     <h2 class="article__heading">
                         <a href="{{.Permalink}}">{{.Title}}</a>
@@ -36,6 +36,23 @@
                     <img src="{{ .Site.BaseURL }}/img/logo360-white.png" class="img-fluid" alt="360SportsIntelligence" />
                 </div>
             </a>
+            <h2>Kent u deze al?</h2>
+            <ul class="list list-unstyled">
+                {{ $filteredPosts := where .Site.Pages "Type" "posts" | after 3 }}
+                {{ $relatedPosts := shuffle $filteredPosts | first 1 }}
+                {{ range $relatedPosts }}
+                <li class="mb-3">
+                    <h3 class="article__heading">
+                        <a href="{{.Permalink}}">{{.Title}}</a>
+                    </h3>
+                    <time datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}" class="text-muted small">Gepubliceerd in {{.Date.Format "2006"}}</time>
+                    <div>
+                        {{.Summary | markdownify}}
+                        <a href="{{.Permalink}}" aria-label="Lees meer over {{.Title}}">[Lees meer&hellip;]</a>
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
         </aside>
     </div>
 </main>

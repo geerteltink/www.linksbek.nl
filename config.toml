@@ -3,18 +3,18 @@ languageCode = "nl-NL"
 title = "linksbek.nl"
 googleAnalytics = "UA-147731969-1"
 enableRobotsTxt = true
-enableGitInfo = true
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["term", "taxonomy", "taxonomyTerm"]
 disqusShortname = "linksbek"
 copyright = "Peter Bonder"
 rssLimit = 10
 summarylength = 30
+paginate = 25
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [author]
     name = "Peter Bonder"
 

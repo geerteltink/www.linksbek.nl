@@ -4,7 +4,7 @@ date: "2002-01-30"
 menu:
   main:
     weight: 30
-markup: mmark
+markup: markdown
 ---
 
 ## Personalia

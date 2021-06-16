@@ -8,6 +8,7 @@ disqusShortname = "linksbek"
 copyright = "Peter Bonder"
 rssLimit = 10
 summarylength = 30
+paginate = 25
 
 [markup]
   [markup.goldmark]

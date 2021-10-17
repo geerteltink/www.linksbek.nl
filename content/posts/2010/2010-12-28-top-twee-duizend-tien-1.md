@@ -17,6 +17,4 @@ Met de vierde plek breng ik een eerbetoon aan mijn persoonlijke favoriet Diego F
 
 Nummer vijf: Wesley en Jolanthe, sportman en topvrouw van het jaar.
 
-
-
 Copyright: Peter Bonder.

@@ -9,6 +9,4 @@ Dat het tussen Grolsch en FC Twente niet echt schuimt van de gezelligheid, mag a
 
 Hier wordt letterlijk geschiedenis geschreven, en dat niet alleen vanwege "het allereerste muziekevenement ooit" wat we maar als een lullige verschrijving zullen afdoen. Nee, hier wordt met geen woord gerept over de Grolsch Veste. Wel over Stadion Het Diekman en het Arke Stadion, maar niet over de actuele benaming. Op de begeleidende illustratie is zelfs de naam verwijderd. En dat maakt het allemaal nog opmerkelijker. Is dit het begin van het einde? Of, om een bekend Enschedees gezegde te citeren: "Wat wordt hier verzweeg'n?"
 
-
-
 Copyright: Peter Bonder.

@@ -7,6 +7,4 @@ We krijgen dus een rechts minderheidskabinet met gedoogsteun van Geert Wilders, 
 
 De wonderen zijn de wereld dus nog niet uit. We krijgen een regering die eigenlijk niemand ziet zitten. En de Nederlandse hockeydames zijn op het WK in Argentinië  keihard .van hun troon gestoten. Onder de voormalige bondscoach Marc Lammers werd alles gewonnen wat er maar te winnen viel, maar sinds zijn vrijwillige vertrek na de Olympische Spelen van 2008 in Peking is die vanzelfsprekendheid ver te zoeken. Oranje werd vorig jaar in Nottingham nog wel Europees kampioen, maar dat is een titel die nauwelijks serieus te nemen is. Het wordt pas echt menens wanneer landen als China en Argentinië mee gaan doen. Ik heb die twee ploegen dit jaar op 3 juli bij EHV zien spelen en voorzag toen al grote problemen. Maar ja, niemand vraagt mij ooit wat.
 
-
-
 Copyright: Peter Bonder.

@@ -20,12 +20,12 @@ markup: markdown
 
 ## Opleiding
 
-**Sept 1966-Aug 1972 Gymnasium Alpha, Jacobus College, Enschede**
+Sept 1966-Aug 1972 Gymnasium Alpha, Jacobus College, Enschede
 
 ## Cursussen
 
-**1972 Basiscursus School voor de Journalistiek, Utrecht**
-**1976 Basiscursus Reclame en Marketing, Amsterdam**
+- 1972 Basiscursus School voor de Journalistiek, Utrecht
+- 1976 Basiscursus Reclame en Marketing, Amsterdam
 
 ## Werkervaring
 
@@ -55,6 +55,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 ## Bijzonderheden
 
 {.list-unstyled}
+
 - In 2009 uitgave boek “Oorlog in de 16 (2)” (bundeling columns 2006-2009).
 - In 2008 bijgedragen aan het boek “Enschede, de mensen, de stad” (57 van de 250 verhalen geschreven).
 - Sinds 2007 columnist voor www.twentesport.com.
@@ -72,6 +73,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 ## Referenties
 
 {.list-unstyled}
+
 - Robert Zandstra (Military Boekelo).
 - Gijs Eijsink (www.twentesport.com).
 - Vincent Steggink (Sportcentrum Universiteit Twente).
@@ -87,6 +89,7 @@ resultaatgericht, commercieel, creatief, nuchter, sociaal betrokken
 ## Interviews
 
 {.list-unstyled}
+
 - Paul Polman (CEO Unilever)
 - Henk Brusse (Button Boss)
 - Jan Mulder (De Wereld Draait Door)

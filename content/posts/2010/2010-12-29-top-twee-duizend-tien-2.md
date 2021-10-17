@@ -13,6 +13,4 @@ Op de één na laatste plaats, voor velen het dieptepunt van het jaar: de karate
 
 Mijn persoonlijke anticlimax: Mart Smeets die in De Wereld Draait Door vertelt dat zijn “goede vriend”  Jean Nelissen zich heeft “doodgezopen”. Dat had De Neel niet verdiend, Smeets!
 
-
-
 Copyright: Peter Bonder.

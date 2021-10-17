@@ -7,6 +7,4 @@ date: "2010-09-21"
 
 Vorige week dinsdag was hij nog één van de absolute uitblinkers op het gras van FC Twente tegen Inter Milaan, maar afgelopen zondag had hij net als vrijwel al zijn ploeggenoten constant ruzie met de bal op het kunstgras van Heracles, oftewel een schijtveld in zijn woorden. En terecht, want kunstgras is een ramp voor de echte voetballer en de ware liefhebber. De echte voetballer wil gras ruiken en kalk voelen. De ware liefhebber zit niet te wachten op zwarte wolken van rubber korrels die bij elke trap in het rond dwarrelen. Kunstgras is voor hockeyers. En als die het dan eenschijtveld noemen, dan komt dat omdat hockey een kaksport is.
 
-
-
 Copyright: Peter Bonder.

@@ -4,6 +4,7 @@
   "description": "Wie schrijft die blijft",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:md": "markdownlint {archetypes,content}/**/*.md",
     "lint:css": "stylelint {assets,content,layouts}/**/*.{css,scss}",
     "lint:fix": "stylelint {assets,content,layouts}/**/*.{css,scss} --fix"
   },
@@ -23,5 +24,8 @@
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.19.0"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.29.0"
   }
 }

@@ -42,5 +42,5 @@ fi;
 
 git add .
 git commit -am "feat: $COLUMN_DATE"
-git push
+git push --set-upstream origin $BRANCH
 gh pr create --title "feat: $COLUMN_DATE" --assignee "@me"

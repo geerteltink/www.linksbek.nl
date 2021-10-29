@@ -35,12 +35,12 @@ if [ -z "$2" ]; then
     exit 0;
 fi;
 
-if [ "$2" != "--merge" ]; then
-    echo "ERROR: Expected --merge as the second argument to create a merge request"
+if [ "$2" != "--mr" ]; then
+    echo "ERROR: Expected --mr as the second argument to create a merge request"
     exit 1;
 fi;
 
 git add .
 git commit -am "feat: $COLUMN_DATE"
 git push --set-upstream origin $BRANCH
-gh pr create --title "feat: $COLUMN_DATE" --assignee "@me"
+gh pr create --title "feat: $COLUMN_DATE" --assignee "@me" --label "feat" --fill

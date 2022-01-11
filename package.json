@@ -11,21 +11,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.2.6",
+    "autoprefixer": "^10.4.2",
     "bootstrap": "4.6.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
-    "postcss": "^8.3.4",
+    "postcss": "^8.4.5",
     "postcss-cli": "^8.3.1",
     "stylelint": "^13.13.1",
     "stylelint-config-idiomatic-order": "^8.1.0",
-    "stylelint-config-recess-order": "^2.4.0",
-    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-recess-order": "^2.6.0",
+    "stylelint-config-recommended-scss": "^4.3.0",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.19.0"
+    "stylelint-scss": "^3.21.0"
   },
   "devDependencies": {
-    "markdownlint-cli": "0.29.0"
+    "markdownlint-cli": "0.30.0"
   }
 }

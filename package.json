@@ -11,10 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.4.2",
     "bootstrap": "4.6.1",
     "jquery": "^3.6.0",
-    "popper.js": "^1.16.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "markdownlint-cli": "^0.30.0",
     "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0",
     "stylelint": "^14.2.0",
@@ -24,8 +27,5 @@
     "stylelint-config-standard": "^24.0.0",
     "stylelint-order": "^5.0.0",
     "stylelint-scss": "^4.1.0"
-  },
-  "devDependencies": {
-    "markdownlint-cli": "0.30.0"
   }
 }

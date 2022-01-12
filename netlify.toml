@@ -3,6 +3,9 @@
 publish = "public"
 command = "hugo --gc --minify -b $URL"
 
+[build.environment]
+NODE_VERSION = "16"
+
 [context.production.environment]
 HUGO_ENV = "production"
 

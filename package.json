@@ -16,14 +16,14 @@
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "postcss": "^8.4.5",
-    "postcss-cli": "^8.3.1",
-    "stylelint": "^13.13.1",
+    "postcss-cli": "^9.1.0",
+    "stylelint": "^14.2.0",
     "stylelint-config-idiomatic-order": "^8.1.0",
-    "stylelint-config-recess-order": "^2.6.0",
-    "stylelint-config-recommended-scss": "^4.3.0",
-    "stylelint-config-standard": "^22.0.0",
-    "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.21.0"
+    "stylelint-config-recess-order": "^3.0.0",
+    "stylelint-config-recommended-scss": "^5.0.2",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.1.0"
   },
   "devDependencies": {
     "markdownlint-cli": "0.30.0"

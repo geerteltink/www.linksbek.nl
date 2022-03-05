@@ -24,3 +24,7 @@ paginate = 25
 
 [permalinks]
     posts = "/:year/:month/:slug/"
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CONTEXT']

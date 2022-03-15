@@ -28,6 +28,6 @@
     "stylelint-config-recommended-scss": "^5.0.2",
     "stylelint-config-standard": "^25.0.0",
     "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.1.0"
+    "stylelint-scss": "^4.2.0"
   }
 }

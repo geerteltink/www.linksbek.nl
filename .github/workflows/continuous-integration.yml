@@ -3,7 +3,7 @@ name: qa
 on: [push]
 
 jobs:
-  qa:
+  continuous-integration:
     runs-on: ubuntu-latest
 
     strategy:

@@ -1,9 +1,9 @@
-name: qa
+name: continuous-integration
 
 on: [push]
 
 jobs:
-  continuous-integration:
+  build:
     runs-on: ubuntu-latest
 
     strategy:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install
+      - run: npm ci
       - run: npm run build --if-present
       - run: npm run lint:md
       - run: npm run lint:css

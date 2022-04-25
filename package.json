@@ -16,7 +16,7 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.4",
+    "autoprefixer": "^10.4.5",
     "markdown-it": "^12.3.2",
     "markdownlint": "^0.25.1",
     "markdownlint-cli": "^0.31.1",

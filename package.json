@@ -20,7 +20,7 @@
     "markdown-it": "^13.0.0",
     "markdownlint": "^0.25.1",
     "markdownlint-cli": "^0.31.1",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.13",
     "postcss-cli": "^9.1.0",
     "stylelint": "^14.8.0",
     "stylelint-config-idiomatic-order": "^8.1.0",

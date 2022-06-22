@@ -18,7 +18,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "markdown-it": "^13.0.1",
-    "markdownlint": "^0.25.1",
+    "markdownlint": "^0.26.0",
     "markdownlint-cli": "^0.31.1",
     "postcss": "^8.4.14",
     "postcss-cli": "^9.1.0",

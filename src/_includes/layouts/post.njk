@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+---
+
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
+
+<p><time datetime="{{ page.date | isoDate }}">({{ page.date | readableDate }})</time></p>
+<p>Copyright Peter Bonder.</p>
+<p>Met dank aan <a class="text-muted" href="https://360sportsintelligence.com/">360SportsIntelligence</a>.</p>

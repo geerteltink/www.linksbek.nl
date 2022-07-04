@@ -1,6 +1,4 @@
 const { DateTime } = require('luxon');
-const timeToRead = require('eleventy-plugin-time-to-read');
-const description = require('eleventy-plugin-description');
 const striptags = require("striptags");
 
 module.exports = function (eleventyConfig) {

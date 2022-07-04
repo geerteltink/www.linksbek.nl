@@ -1,10 +1,11 @@
 ---
+layout: layouts/base.njk
 title: "Curriculum Vitae"
 date: "2002-01-30"
-menu:
-  main:
-    weight: 30
-markup: markdown
+eleventyNavigation:
+  key: main
+  title: "Curriculum Vitae"
+  order: 30
 ---
 
 ## Personalia

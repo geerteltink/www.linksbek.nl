@@ -1,8 +1,30 @@
 const { DateTime } = require('luxon');
 const striptags = require("striptags");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const Image = require('@11ty/eleventy-img');
+
+async function imageShortcode(src, alt, sizes) {
+  let metadata = await Image(src, {
+    widths: [400, 800, 1280, 1920],
+    formats: ['webp', 'jpeg'],
+    outputDir: '_site/assets/images',
+    urlPath: '/assets/images',
+  });
+
+  let imageAttributes = {
+    alt,
+    class: 'img-fluid',
+    sizes: '100vw',
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  return Image.generateHTML(metadata, imageAttributes, {
+    whitespaceMode: "inline"
+  });
+}
 
 module.exports = function (eleventyConfig) {
-
   eleventyConfig.addCollection('posts', function (collectionApi) {
     return collectionApi.getFilteredByTag('post').reverse().filter(post => {
       if (process.env.NODE_ENV !== 'production') {
@@ -21,6 +43,11 @@ module.exports = function (eleventyConfig) {
       return true;
     });
   });
+
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
+  eleventyConfig.addAsyncShortcode('image', imageShortcode);
 
   eleventyConfig.addFilter('limit', function (array, limit) {
     return array.slice(0, limit);
@@ -41,8 +68,6 @@ module.exports = function (eleventyConfig) {
       .trim()
       .concat('...');
   });
-
-  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   return {
     dir: {

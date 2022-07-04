@@ -1,5 +1,2 @@
-/public
-/themes
-/vendor
+/_site
 /node_modules
-.hugo_build.lock

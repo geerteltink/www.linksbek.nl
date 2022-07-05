@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const postcss = require('postcss');
-const generateHash = require('../_includes/lib/generateHash');
+const generateHash = require('../_lib/generateHash');
 
 module.exports = class {
   async data() {

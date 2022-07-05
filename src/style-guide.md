@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: "layouts/base.njk"
 title: "Style Guide"
 date: "2022-07-04"
 ---

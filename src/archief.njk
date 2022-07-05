@@ -1,0 +1,54 @@
+---
+layout: "layouts/base.njk"
+title: "Archief"
+permalink: "archief/{% if pagination.pageNumber > 0 %}{{ posts }}/{% endif %}"
+eleventyNavigation:
+  key: main
+  title: "Archief"
+  order: 40
+pagination:
+  data: collections.postsByYear
+  size: 1
+  alias: posts
+  reverse: true
+---
+
+<ul class="listing">
+{% for post in collections.postsByYear[posts] %}
+  <li>
+    {% if post.data.canonical %}
+    <a href="{{ post.data.canonical }}" target="_blank" rel="noopener" class="listing__remote">
+    {% else %}
+    <a href="{{ post.url }}" class="listing__local">
+    {% endif %}
+      <date>{{ post.date | readableDate }}</date>
+      {{ post.date.getFullYear() }}
+      <h2>{{ post.data.title }}</h2>
+      <p>{{ post.data.excerpt }}</p>
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+<div class="yearList">
+  <h2>Year archive</h2>
+  <ol>
+  {%- for pageEntry in pagination.pages %}
+      <li>
+        <a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>
+          <h3>{{ pageEntry }}</h3>
+          {{ collections.postsByYear[pageEntry] | length }} thoughts
+        </a>
+      </li>
+  {%- endfor %}
+  </ol>
+</div>
+
+{% for year, yearPosts in collections.postsByYear %}
+  <h2>{{ year }}</h2>
+  <ul>
+    {% for post in yearPosts | reverse %}
+      <li>{{ post.data.title }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}

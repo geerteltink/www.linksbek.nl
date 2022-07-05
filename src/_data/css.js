@@ -1,5 +1,5 @@
 const path = require('path');
-const generateHash = require('../_includes/lib/generateHash');
+const generateHash = require('../_lib/generateHash');
 
 const hash = generateHash(path.join(__dirname, '../_includes/css/**/*.css'));
 

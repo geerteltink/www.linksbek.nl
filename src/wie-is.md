@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: "layouts/base.njk"
 title: "Who the f*** is Peter Bonder?"
 date: "2002-01-30"
 eleventyNavigation:

@@ -1,7 +1,9 @@
 const { DateTime } = require('luxon');
-const striptags = require("striptags");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const striptags = require('striptags');
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const Image = require('@11ty/eleventy-img');
+
+const collections = require('./src/_lib/collections.js');
 
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
@@ -15,33 +17,29 @@ async function imageShortcode(src, alt, sizes) {
     alt,
     class: 'img-fluid',
     sizes: '100vw',
-    loading: "lazy",
-    decoding: "async",
+    loading: 'lazy',
+    decoding: 'async',
   };
 
   return Image.generateHTML(metadata, imageAttributes, {
-    whitespaceMode: "inline"
+    whitespaceMode: 'inline'
   });
 }
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection('posts', function (collectionApi) {
-    return collectionApi.getFilteredByTag('post').reverse().filter(post => {
-      if (process.env.NODE_ENV !== 'production') {
-        return true;
-      }
+  /*
+  eleventyConfig.addCollection('postsByYear', (collectionApi) => {
+    return _.chain(collectionApi.getFilteredByTag('post'))
+      .groupBy((post) => post.date.getFullYear())
+      .toPairs()
+      .reverse()
+      .value();
+  });
+  */
 
-      if (post.data.draft === true) {
-        return false;
-      }
-
-      let now = new Date().getTime();
-      if (now < post.date.getTime()) {
-        return false;
-      }
-
-      return true;
-    });
+  // Collections
+  Object.keys(collections).forEach((collectionName) => {
+    eleventyConfig.addCollection(collectionName, collections[collectionName]);
   });
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -69,17 +67,19 @@ module.exports = function (eleventyConfig) {
       .concat('...');
   });
 
+  eleventyConfig.addWatchTarget('./src/_lib/');
+
   return {
     dir: {
-      input: "src",
-      output: "_site",
-      data: "_data",
-      includes: "_includes"
+      input: 'src',
+      output: '_site',
+      data: '_data',
+      includes: '_includes'
     },
-    templateFormats: ["html", "njk", "md", "11ty.js"],
+    templateFormats: ['html', 'njk', 'md', '11ty.js'],
     passthroughFileCopy: true,
-    //markdownTemplateEngine: "liquid",
-    //htmlTemplateEngine: "liquid",
+    //markdownTemplateEngine: 'liquid',
+    //htmlTemplateEngine: 'liquid',
     //dataTemplateEngine: false
   }
 };

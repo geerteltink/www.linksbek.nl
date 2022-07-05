@@ -77,6 +77,7 @@ module.exports = function (eleventyConfig) {
       includes: "_includes"
     },
     templateFormats: ["html", "njk", "md", "11ty.js"],
+    passthroughFileCopy: true,
     //markdownTemplateEngine: "liquid",
     //htmlTemplateEngine: "liquid",
     //dataTemplateEngine: false

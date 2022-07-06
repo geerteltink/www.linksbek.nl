@@ -5,7 +5,7 @@
 }
 
 .page-header {
-  background-color: rgb(var(--light-rgb) var(--bg-opacity)) !important;
+  background-color: rgb(var(--light-rgb));
 }
 
 .page-main {
@@ -16,6 +16,6 @@
 
 .page-footer,
 .page-footer a {
-  color: rgb(var(--light-rgb) var(--text-opacity));
-  background-color: rgb(var(--dark-rgb) var(--text-opacity));
+  color: rgb(var(--light-rgb));
+  background-color: rgb(var(--dark-rgb));
 }

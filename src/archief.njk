@@ -13,42 +13,32 @@ pagination:
   reverse: true
 ---
 
-<ul class="listing">
-{% for post in collections.postsByYear[posts] %}
-  <li>
-    {% if post.data.canonical %}
-    <a href="{{ post.data.canonical }}" target="_blank" rel="noopener" class="listing__remote">
-    {% else %}
-    <a href="{{ post.url }}" class="listing__local">
-    {% endif %}
-      <date>{{ post.date | readableDate }}</date>
-      {{ post.date.getFullYear() }}
-      <h2>{{ post.data.title }}</h2>
-      <p>{{ post.data.excerpt }}</p>
-    </a>
-  </li>
-{% endfor %}
+<h1>Archief {{ posts }}</h1>
+
+<ul class="list-unstyled">
+  {% for post in collections.postsByYear[posts] %}
+    <li>
+      <a href="{{ post.url }}">
+        <h2>{{ post.data.title }}</h2>
+      </a>
+      <p>
+        <time class="text-bold" datetime="{{ post.date | isoDate }}">({{ post.date | readableDate }})</time>
+        {{ post.templateContent | summary }}
+      </p>
+    </li>
+  {% endfor %}
 </ul>
 
 <div class="yearList">
-  <h2>Year archive</h2>
-  <ol>
+  <h2>Jaar archief</h2>
+  <ol class="list-unstyled">
   {%- for pageEntry in pagination.pages %}
       <li>
         <a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>
           <h3>{{ pageEntry }}</h3>
-          {{ collections.postsByYear[pageEntry] | length }} thoughts
+          {{ collections.postsByYear[pageEntry] | length }} columns
         </a>
       </li>
   {%- endfor %}
   </ol>
 </div>
-
-{% for year, yearPosts in collections.postsByYear %}
-  <h2>{{ year }}</h2>
-  <ul>
-    {% for post in yearPosts | reverse %}
-      <li>{{ post.data.title }}</li>
-    {% endfor %}
-  </ul>
-{% endfor %}

@@ -5,8 +5,8 @@ const generateHash = require('../_lib/generateHash');
 
 module.exports = class {
   async data() {
-    const rawFilepath = path.join(__dirname, '../_includes/css/styles.css');
-    const hash = generateHash(path.join(__dirname, '../_includes/css/**/*.css'));
+    const rawFilepath = path.join(__dirname, '../assets/css/styles.css');
+    const hash = generateHash(path.join(__dirname, '../assets/css/**/*.css'));
 
     return {
       permalink: `assets/css/styles.${hash}.css`,

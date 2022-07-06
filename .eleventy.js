@@ -27,15 +27,6 @@ async function imageShortcode(src, alt, sizes) {
 }
 
 module.exports = function (eleventyConfig) {
-  /*
-  eleventyConfig.addCollection('postsByYear', (collectionApi) => {
-    return _.chain(collectionApi.getFilteredByTag('post'))
-      .groupBy((post) => post.date.getFullYear())
-      .toPairs()
-      .reverse()
-      .value();
-  });
-  */
 
   // Collections
   Object.keys(collections).forEach((collectionName) => {
@@ -67,7 +58,10 @@ module.exports = function (eleventyConfig) {
       .concat('...');
   });
 
-  eleventyConfig.addWatchTarget('./src/_lib/');
+  eleventyConfig.addWatchTarget('./src/_lib');
+  eleventyConfig.addWatchTarget('./src/assets');
+
+  eleventyConfig.addPassthroughCopy('./src/favicon.png');
 
   return {
     dir: {

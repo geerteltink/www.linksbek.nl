@@ -3,6 +3,10 @@ const glob = require('fast-glob');
 const md5 = require('md5');
 
 function generateHash(source) {
+  if (process.env.NODE_ENV !== 'production') {
+    return 'dev';
+  }
+
   const files = glob.sync(source);
   const content = files
     .map((file) => fs.readFileSync(file))

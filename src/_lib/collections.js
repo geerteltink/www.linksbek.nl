@@ -24,14 +24,6 @@ function getByDate(collectionApi, dateFormat) {
   const postsByDate = {};
   const posts = getPosts(collectionApi);
 
-  /*
-  return _.chain(getPosts(collectionApi))
-    .groupBy((post) => post.date.getFullYear())
-    .toPairs()
-    .reverse()
-    .value();
-  */
-
   posts.forEach((post) => {
     if (!post.date) {
       return;

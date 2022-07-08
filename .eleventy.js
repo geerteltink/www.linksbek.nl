@@ -16,7 +16,7 @@ async function imageShortcode(src, alt, sizes) {
   let imageAttributes = {
     alt,
     class: 'img-fluid',
-    sizes: '100vw',
+    sizes: sizes || '100vw',
     loading: 'lazy',
     decoding: 'async',
   };
@@ -56,6 +56,12 @@ module.exports = function (eleventyConfig) {
       .replace(/^\s+|\s+$|\s+(?=\s)/g, '')
       .trim()
       .concat('...');
+  });
+
+  eleventyConfig.addFilter('getRandom', function(collection) {
+    const slicedCollection = collection.slice(0, 5);
+
+    return slicedCollection.splice(Math.floor(Math.random() * slicedCollection.length),1)[0];
   });
 
   eleventyConfig.addWatchTarget('./src/_lib');

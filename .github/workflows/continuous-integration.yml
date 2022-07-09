@@ -20,3 +20,4 @@ jobs:
       - run: npm run build --if-present
       - run: npm run lint:md
       - run: npm run lint:css
+      - run: npm run check-links

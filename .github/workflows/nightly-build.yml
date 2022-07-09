@@ -10,3 +10,7 @@ jobs:
       run: curl -s -X POST "https://api.netlify.com/build_hooks/${TOKEN}"
       env:
         TOKEN: ${{ secrets.NETLIFY_CRON_BUILD_HOOK }}
+    - name: Trigger Vercel deployment
+      run: curl -s -X POST "${BUILD_HOOK}"
+      env:
+        BUILD_HOOK: ${{ secrets.VERCEL_BUILD_HOOK }}

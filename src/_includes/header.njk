@@ -1,0 +1,17 @@
+<header class="page-header">
+  <nav class="container">
+    {% set navPages = collections.all | eleventyNavigation %}
+    <ul class="flex flex-align-center">
+      <li class="p-1">
+        <a class="navbar-brand" href="/" aria-label="linksbek.nl">
+          {% image "./src/images/logo-linksbek.gif", "logo linksbek.nl" %}
+        </a>
+      </li>
+      {% for entry in navPages %}
+        <li class="p-3">
+          <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

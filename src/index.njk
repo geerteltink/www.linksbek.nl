@@ -1,0 +1,46 @@
+---
+layout: layouts/home.njk
+title: "Welkom op de website van Linksbek Peter Bonder"
+summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds januari 2002 ook online."
+---
+
+<h1>{{ title }}</h1>
+
+<p>{{ summary }}</p>
+
+<div class="flex">
+  <div class="flex-grow pr-3 mr-3">
+    <ul>
+      {% for post in collections.posts | limit(5) %}
+        <li>
+          <a href="{{ post.url }}">
+            <h2>{{ post.data.title }}</h2>
+          </a>
+          <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+          <p>{{ post.templateContent | summary }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p>Meer columns vind je in <a href="{{ '/archief/' | url }}">het archief</a>.</p>
+  </div>
+
+  <div style="width:256px;">
+    <div class="bg-dark p-4 mb-4" style="width:256px;">
+      <a href="https://360sportsintelligence.com/">
+        {% image "./src/images/logo360-white.png", "360SportsIntelligence" %}
+      </a>
+    </div>
+    <div>
+      <h2>Kent u deze al?</h2>
+      {% set randomPost = collections.posts | getRandom %}
+      <time datetime="{{ randomPost.date | isoDate }}" class="text-muted small">
+        Gepubliceerd op {{ randomPost.date | readableDate }}
+      </time>
+      <a href="{{ randomPost.url }}">
+        <h3>{{ randomPost.data.title }}</h3>
+      </a>
+      <p>{{ randomPost.templateContent | summary }}</p>
+    </div>
+  </div>
+</div>

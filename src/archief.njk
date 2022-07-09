@@ -13,32 +13,36 @@ pagination:
   reverse: true
 ---
 
-<h1>Archief {{ posts }}</h1>
-
-<ul class="list-unstyled">
-  {% for post in collections.postsByYear[posts] %}
-    <li>
-      <a href="{{ post.url }}">
-        <h2>{{ post.data.title }}</h2>
-      </a>
-      <p>
-        <time class="text-bold" datetime="{{ post.date | isoDate }}">({{ post.date | readableDate }})</time>
-        {{ post.templateContent | summary }}
-      </p>
-    </li>
-  {% endfor %}
-</ul>
-
-<div class="yearList">
-  <h2>Jaar archief</h2>
-  <ol class="list-unstyled">
-  {%- for pageEntry in pagination.pages %}
-      <li>
-        <a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>
+<div class="flex">
+  <div class="flex-grow pr-3 mr-3">
+    <h1>Archief {{ posts }}</h1>
+    <ul class="list-unstyled">
+      {% for post in collections.postsByYear[posts] %}
+        <li>
+          <a href="{{ post.url }}">
+            <h2>{{ post.data.title }}</h2>
+          </a>
+          <p>
+            <time class="text-bold" datetime="{{ post.date | isoDate }}">({{ post.date | readableDate }})</time>
+            {{ post.templateContent | summary }}
+          </p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div style="min-width:256px;" class="text-right">
+    <h1>Jaar archief</h1>
+    <ol class="list-unstyled">
+      {% for pageEntry in pagination.pages %}
+      <li class="flex flex-align-end flex-justify-end">
+        <a class="pr-3" href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>
           <h3>{{ pageEntry }}</h3>
-          {{ collections.postsByYear[pageEntry] | length }} columns
         </a>
+        <div class="text-italic">
+          {{ collections.postsByYear[pageEntry] | length }} columns
+        </div>
       </li>
-  {%- endfor %}
-  </ol>
+      {% endfor %}
+    </ol>
+  </div>
 </div>

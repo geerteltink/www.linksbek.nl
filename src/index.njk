@@ -4,19 +4,17 @@ title: "Welkom op de website van Linksbek Peter Bonder"
 summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds januari 2002 ook online."
 ---
 
-<h1>Welkom op de website van Linksbek Peter Bonder</h1>
+<h1>{{ title }}</h1>
 
-<p>
-  Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 tot december 2001), vanaf zijn veertiende in de redactie van de EHV-post en sinds november 2002 wekelijks met een Kopstoot in de Roskam, onafhankelijk weekblad voor Twente. Wie schrijft die blijft, sinds 31 januari 2002 ook online.
-</p>
+<p>{{ summary }}</p>
 
 <div class="flex">
-  <div class="flex-grow pr-6 mr-4">
+  <div class="flex-grow pr-3 mr-3">
     <ul>
       {% for post in collections.posts | limit(5) %}
         <li>
           <a href="{{ post.url }}">
-            {{ post.data.title }}
+            <h2>{{ post.data.title }}</h2>
           </a>
           <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
           <p>{{ post.templateContent | summary }}</p>
@@ -27,7 +25,7 @@ summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 
     <p>Meer columns vind je in <a href="{{ '/archief/' | url }}">het archief</a>.</p>
   </div>
 
-  <div>
+  <div style="width:256px;">
     <div class="bg-dark p-4 mb-4" style="width:256px;">
       <a href="https://360sportsintelligence.com/">
         {% image "./src/images/logo360-white.png", "360SportsIntelligence" %}
@@ -39,11 +37,9 @@ summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 
       <time datetime="{{ randomPost.date | isoDate }}" class="text-muted small">
         Gepubliceerd op {{ randomPost.date | readableDate }}
       </time>
-      <h3>
-        <a href="{{ randomPost.url }}">
-          {{ randomPost.data.title }}
-        </a>
-      </h3>
+      <a href="{{ randomPost.url }}">
+        <h3>{{ randomPost.data.title }}</h3>
+      </a>
       <p>{{ randomPost.templateContent | summary }}</p>
     </div>
   </div>

@@ -12,6 +12,7 @@ module.exports = class {
       permalink: `assets/css/styles.${hash}.css`,
       rawFilepath,
       rawCss: fs.readFileSync(rawFilepath),
+      eleventyExcludeFromCollections: true
     };
   }
 

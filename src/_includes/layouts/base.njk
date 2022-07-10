@@ -6,22 +6,28 @@
     <title>{{ title or metadata.title }}</title>
     {% set desc %}{{ summary or content | summary }}{% endset %}
     <meta name="description" content="{{ desc }}">
+    <meta name="generator" content="Eleventy">
     <meta name="web_author" content="Geert Eltink, https://geert.elt.ink/">
     <meta name="google-site-verification" content="7gP8g5uBzP8KchB3lT4huxo0tlH-_m9fyiJ9Zb7h1uE">
     <meta name="dcterms.created" content="{{ page.date | isoDate }}">
     <meta name="dcterms.modified" content="{{ page.date | isoDate }}">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="{{ page.url | url }}">
+    <meta name="twitter:url" content="{{ page.url | url | absoluteUrl(meta.url) }}">
     <meta name="twitter:title" content="{{ title or metadata.title }}">
     <meta name="twitter:description" content="{{ desc }}">
-    <meta name="twitter:image" content="/img/logo-linksbek.gif">
-    <meta property="og:url" content="{{ page.url | url }}">
+    <meta name="twitter:image" content="{{ '/assets/images/logo-linksbek.gif' | absoluteUrl(meta.url) }}">
+    <meta name="twitter:image:alt" content="{{ meta.site_name }}">
+    <meta property="og:url" content="{{ page.url | url | absoluteUrl(meta.url) }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title or metadata.title }}">
-    <meta property="og:image" content="/img/logo-linksbek.gif">
+    <meta property="og:image" content="{{ '/assets/images/logo-linksbek.gif' | absoluteUrl(meta.url) }}">
+    <meta property="og:image:alt" content="{{ meta.site_name }}">
     <meta property="og:description" content="{{ desc }}">
     <meta property="og:site_name" content="{{ meta.site_name }}">
+    <meta property="og:locale" content="{{ meta.lang }}">
     <meta property="article:author" content="{{ meta.author }}">
+    <link rel="archives" href="/archief/">
+    <link rel="alternate" type="application/atom+xml" href="/feed.xml">
     <link rel="stylesheet" href="{{ css.stylesCss }}">
   </head>
   <body class="page">

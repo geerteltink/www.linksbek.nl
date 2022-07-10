@@ -74,6 +74,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/assets');
 
   eleventyConfig.addPassthroughCopy('./src/favicon.png');
+  eleventyConfig.addPassthroughCopy('./src/assets/images/logo-linksbek.gif');
 
   return {
     dir: {

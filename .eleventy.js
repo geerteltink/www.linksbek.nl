@@ -3,7 +3,7 @@ const striptags = require('striptags');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const Image = require('@11ty/eleventy-img');
-
+const htmlmin = require('html-minifier');
 const collections = require('./src/_lib/collections.js');
 
 async function imageShortcode(src, alt, sizes) {
@@ -75,6 +75,19 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy('./src/favicon.png');
   eleventyConfig.addPassthroughCopy('./src/assets/images/logo-linksbek.gif');
+
+	eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
+		if( process.env.NODE_ENV === 'production' && outputPath && outputPath.endsWith('.html') ) {
+			let minified = htmlmin.minify(content, {
+				useShortDoctype: true,
+				removeComments: true,
+				collapseWhitespace: true
+			});
+			return minified;
+		}
+
+		return content;
+	});
 
   return {
     dir: {

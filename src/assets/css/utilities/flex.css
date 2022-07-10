@@ -11,13 +11,35 @@
 }
 
 .flex-justify-end {
-  justify-content: flex-end !important;
+  justify-content: flex-end;
 }
 
 .flex-align-center {
   align-items: center;
 }
 
+.flex-align-self-center {
+  align-self: center;
+}
+
 .flex-align-end {
-  align-self: flex-end !important;
+  align-self: flex-end;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+@media (min-width: 768px) {
+  .flex-column-md {
+    flex-direction: column!important;
+  }
+
+  .flex-row-md {
+    flex-direction: row!important;
+  }
 }

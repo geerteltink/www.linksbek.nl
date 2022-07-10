@@ -8,7 +8,7 @@ summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 
 
 <p>{{ summary }}</p>
 
-<div class="flex">
+<div class="flex flex-column flex-row-md">
   <div class="flex-grow pr-3 mr-3">
     <ul>
       {% for post in collections.posts | limit(5) %}
@@ -21,7 +21,6 @@ summary: "Meer dan 250 columns in de Twentsche Courant Tubantia (september 1996 
         </li>
       {% endfor %}
     </ul>
-
     <p>Meer columns vind je in <a href="{{ '/archief/' | url }}">het archief</a>.</p>
   </div>
 

@@ -59,7 +59,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('getRandom', function(collection) {
-    const slicedCollection = collection.slice(0, 5);
+    const slicedCollection = collection.slice(5);
 
     return slicedCollection.splice(Math.floor(Math.random() * slicedCollection.length),1)[0];
   });

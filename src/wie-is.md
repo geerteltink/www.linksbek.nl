@@ -1,7 +1,7 @@
 ---
 layout: "layouts/base.njk"
 title: "Who the f*** is Peter Bonder?"
-date: "2002-01-30"
+date: "2002-01-01"
 eleventyNavigation:
   key: main
   title: "Wie is..."

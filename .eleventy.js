@@ -1,6 +1,7 @@
 const { DateTime } = require('luxon');
 const striptags = require('striptags');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 const Image = require('@11ty/eleventy-img');
 
 const collections = require('./src/_lib/collections.js');
@@ -34,6 +35,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
   eleventyConfig.addAsyncShortcode('image', imageShortcode);
@@ -48,6 +50,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter('isoDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
+  });
+
+  eleventyConfig.addFilter('isoDateTime', (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toISO();
   });
 
   eleventyConfig.addFilter('summary', (data) => {

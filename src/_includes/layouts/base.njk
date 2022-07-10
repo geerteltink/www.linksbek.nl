@@ -1,31 +1,27 @@
----
-modified: "git Last Modified"
----
-
 <!doctype html>
-<html lang="nl">
+<html lang="{{ meta.lang }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>{{ title or metadata.title }}</title>
-    <meta name="description" content="{{ content | summary }}">
-    <meta name="generator" content="{{ eleventy.generator }}">
+    {% set desc %}{{ summary or content | summary }}{% endset %}
+    <meta name="description" content="{{ desc }}">
     <meta name="web_author" content="Geert Eltink, https://geert.elt.ink/">
     <meta name="google-site-verification" content="7gP8g5uBzP8KchB3lT4huxo0tlH-_m9fyiJ9Zb7h1uE">
     <meta name="dcterms.created" content="{{ page.date | isoDate }}">
-    <meta name="dcterms.modified" content="{{ page.modified }}">
+    <meta name="dcterms.modified" content="{{ page.date | isoDate }}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="{{ page.url | url }}">
     <meta name="twitter:title" content="{{ title or metadata.title }}">
-    <meta name="twitter:description" content="{{ content | summary }}">
+    <meta name="twitter:description" content="{{ desc }}">
     <meta name="twitter:image" content="/img/logo-linksbek.gif">
     <meta property="og:url" content="{{ page.url | url }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title or metadata.title }}">
     <meta property="og:image" content="/img/logo-linksbek.gif">
-    <meta property="og:description" content="{{ content | summary }}">
-    <meta property="og:site_name" content="linksbek.nl">
-    <meta property="article:author" content="Peter Bonder">
+    <meta property="og:description" content="{{ desc }}">
+    <meta property="og:site_name" content="{{ meta.site_name }}">
+    <meta property="article:author" content="{{ meta.author }}">
     <link rel="stylesheet" href="{{ css.stylesCss }}">
   </head>
   <body class="page">

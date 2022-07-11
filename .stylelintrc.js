@@ -1,17 +1,13 @@
 module.exports = {
   extends: [
-    'stylelint-config-recommended-scss',
-    'stylelint-config-standard',
-    'stylelint-config-recess-order'
+    'stylelint-config-recommended',
+    'stylelint-config-recess-order',
   ],
 
-  plugins: [
-    'stylelint-order',
-    'stylelint-scss'
-  ],
+  plugins: ['stylelint-order'],
 
   rules: {
     'max-empty-lines': 4,
-    'max-nesting-depth': 2
+    'max-nesting-depth': 2,
   },
 };

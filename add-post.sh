@@ -20,18 +20,17 @@ else
     git switch $BRANCH
 fi;
 
-TEMPLATE=posts/${COLUMN_DATE:0:4}/$COLUMN_DATE.md
-COLUMN=content/posts/${COLUMN_DATE:0:4}/$COLUMN_DATE.md
+TEMPLATE="./src/posts/${COLUMN_DATE:0:4}/$COLUMN_DATE.md"
+#COLUMN=content/posts/${COLUMN_DATE:0:4}/$COLUMN_DATE.md
 
-if [ ! -f "./content/$TEMPLATE" ]; then
+if [ ! -f $TEMPLATE ]; then
     echo "Creating a new template"
-    hugo new $TEMPLATE
-    sed -i "/^date:/c\date: \"$COLUMN_DATE\"" ./content/$TEMPLATE
+    echo -e "---\ntitle: \"__TITLE__\"\ndate: \"$COLUMN_DATE\"\n---" > $TEMPLATE
 fi;
 
 if [ -z "$2" ]; then
     echo "Opening template for editing"
-    code "./content/$TEMPLATE"
+    code $TEMPLATE
     exit 0;
 fi;
 

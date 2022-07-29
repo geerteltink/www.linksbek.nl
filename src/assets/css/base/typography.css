@@ -70,6 +70,11 @@ hr {
   border-top: 1px solid #ddd;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 ol,
 ul {
   padding: 0;

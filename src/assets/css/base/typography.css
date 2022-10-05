@@ -75,6 +75,12 @@ img {
   height: auto;
 }
 
+figcaption {
+  font-style: italic;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
 ol,
 ul {
   padding: 0;

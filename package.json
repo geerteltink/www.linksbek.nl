@@ -18,7 +18,7 @@
     "format": "stylelint src/assets/**/*.css --fix"
   },
   "devDependencies": {
-    "@11ty/eleventy": "2.0.0-canary.30",
+    "@11ty/eleventy": "2.0.0-canary.35",
     "@11ty/eleventy-img": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",

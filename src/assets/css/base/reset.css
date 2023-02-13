@@ -27,11 +27,9 @@ h1,
 h2,
 h3,
 h4 {
-  /* Optional, not supported for all languages */
-  hyphens: auto;
-
-  /* Help prevent overflow of long words/names/URLs */
-  word-break: break-word;
+  /* Disable word break */
+  hyphens: none;
+  word-break: normal;
 }
 
 html,

@@ -29,15 +29,15 @@
     "html-minifier": "^4.0.0",
     "luxon": "^3.3.0",
     "markdown-it": "^13.0.1",
-    "markdownlint": "^0.27.0",
-    "markdownlint-cli": "^0.33.0",
+    "markdownlint": "^0.28.2",
+    "markdownlint-cli": "^0.34.0",
     "md5": "^2.3.0",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "striptags": "^3.2.0",
     "stylelint": "^15.2.0",
     "stylelint-config-recess-order": "^4.0.0",
-    "stylelint-config-recommended": "^10.0.1"
+    "stylelint-config-recommended": "^12.0.0"
   },
   "dependencies": {
     "lodash": "^4.17.21"

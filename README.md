@@ -6,20 +6,16 @@
 ## Create a new post
 
 ```bash
-$ git switch -c
-$ hugo new posts/2020/2020-12-31.md
-$ git commit -am "feat: 2020-12-31"
-$ gh pr create -t "feat: 2020-12-31" -b "" -l "feat"
+# create from template
+./add-post.sh 2023-05-28
+
+# merge
+./add-post.sh 2023-05-28 --mr
 ```
 
 ## Development
 
 ```bash
-$ make build
-$ make serve
+npm install
+npm run serve
 ```
-
-## Resources
-
-- https://gohugo.io/documentation/
-- https://mmark.miek.nl/post/syntax/

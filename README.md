@@ -7,10 +7,10 @@
 
 ```bash
 # create from template
-./add-post.sh 2023-06-11
+./add-post.sh 2023-10-24
 
 # merge
-./add-post.sh 2023-06-11 --mr
+./add-post.sh 2023-10-24 --mr
 ```
 
 ## Development

@@ -29,7 +29,7 @@
     "html-minifier": "^4.0.0",
     "luxon": "^3.4.3",
     "markdown-it": "^13.0.2",
-    "markdownlint": "^0.31.1",
+    "markdownlint": "^0.32.1",
     "markdownlint-cli": "^0.37.0",
     "md5": "^2.3.0",
     "postcss": "^8.4.31",

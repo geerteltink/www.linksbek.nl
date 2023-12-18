@@ -1,45 +1,45 @@
 {
-  "name": "www.linksbek.nl",
-  "description": "Wie schrijft die blijft",
-  "version": "1.0.0",
-  "author": "Geert Eltink",
-  "license": "MIT",
-  "main": ".eleventy.js",
-  "scripts": {
-    "clean": "rm -rf _site && rm -rf .cache",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint:md": "markdownlint -i src/style-guide.md src/**/*.md",
-    "lint:css": "stylelint src/assets/**/*.css",
-    "check-links": "npx check-html-links _site",
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve --port=8091",
-    "serve-production": "NODE_ENV=production npx @11ty/eleventy --serve --port=8091",
-    "build-production": "ELEVENTY_PRODUCTION=true NODE_ENV=production npx @11ty/eleventy",
-    "format": "stylelint src/assets/**/*.css --fix"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "2.0.1",
-    "@11ty/eleventy-img": "^3.1.1",
-    "@11ty/eleventy-navigation": "^0.3.5",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@types/markdown-it": "^13.0.4",
-    "autoprefixer": "^10.4.16",
-    "cssnano": "^6.0.1",
-    "fast-glob": "^3.3.1",
-    "html-minifier": "^4.0.0",
-    "luxon": "^3.4.3",
-    "markdown-it": "^13.0.2",
-    "markdownlint": "^0.31.1",
-    "markdownlint-cli": "^0.37.0",
-    "md5": "^2.3.0",
-    "postcss": "^8.4.31",
-    "postcss-import": "^15.1.0",
-    "striptags": "^3.2.0",
-    "stylelint": "^15.11.0",
-    "stylelint-config-recess-order": "^4.3.0",
-    "stylelint-config-recommended": "^13.0.0"
-  },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+    "name": "www.linksbek.nl",
+    "description": "Wie schrijft die blijft",
+    "version": "1.0.0",
+    "author": "Geert Eltink",
+    "license": "MIT",
+    "main": ".eleventy.js",
+    "scripts": {
+        "clean": "rm -rf _site && rm -rf .cache",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint:md": "markdownlint -i src/style-guide.md src/**/*.md",
+        "lint:css": "stylelint src/assets/**/*.css",
+        "check-links": "npx check-html-links _site",
+        "build": "npx @11ty/eleventy",
+        "serve": "npx @11ty/eleventy --serve --port=8091",
+        "serve-production": "NODE_ENV=production npx @11ty/eleventy --serve --port=8091",
+        "build-production": "ELEVENTY_PRODUCTION=true NODE_ENV=production npx @11ty/eleventy",
+        "format": "stylelint src/assets/**/*.css --fix"
+    },
+    "devDependencies": {
+        "@11ty/eleventy": "^2.0.1",
+        "@11ty/eleventy-img": "^3.1.8",
+        "@11ty/eleventy-navigation": "^0.3.5",
+        "@11ty/eleventy-plugin-rss": "^1.2.0",
+        "@types/markdown-it": "^13.0.7",
+        "autoprefixer": "^10.4.16",
+        "cssnano": "^6.0.2",
+        "fast-glob": "^3.3.2",
+        "html-minifier": "^4.0.0",
+        "luxon": "^3.4.4",
+        "markdown-it": "^14.0.0",
+        "markdownlint": "^0.32.1",
+        "markdownlint-cli": "^0.38.0",
+        "md5": "^2.3.0",
+        "postcss": "^8.4.32",
+        "postcss-import": "^15.1.0",
+        "striptags": "^3.2.0",
+        "stylelint": "^16.0.2",
+        "stylelint-config-recess-order": "^4.4.0",
+        "stylelint-config-recommended": "^14.0.0"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21"
+    }
 }

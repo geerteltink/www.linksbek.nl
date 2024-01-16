@@ -1,48 +1,48 @@
 {
-    "name": "www.linksbek.nl",
-    "description": "Wie schrijft die blijft",
-    "version": "1.0.1",
-    "author": "Geert Eltink",
-    "license": "MIT",
-    "main": ".eleventy.js",
-    "scripts": {
-        "clean": "rm -rf _site && rm -rf .cache",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lint:md": "markdownlint -i src/style-guide.md src/**/*.md",
-        "lint:css": "stylelint src/assets/**/*.css",
-        "check-links": "bunx check-html-links _site",
-        "build": "bunx @11ty/eleventy",
-        "serve": "bunx @11ty/eleventy --serve --port=8091",
-        "serve-production": "NODE_ENV=production bunx @11ty/eleventy --serve --port=8091",
-        "build-production": "ELEVENTY_PRODUCTION=true NODE_ENV=production bunx @11ty/eleventy",
-        "format": "stylelint src/assets/**/*.css --fix"
-    },
-    "devDependencies": {
-        "@11ty/eleventy": "^2.0.1",
-        "@11ty/eleventy-img": "^3.1.8",
-        "@11ty/eleventy-navigation": "^0.3.5",
-        "@11ty/eleventy-plugin-rss": "^1.2.0",
-        "@types/markdown-it": "^13.0.7",
-        "autoprefixer": "^10.4.16",
-        "cssnano": "^6.0.3",
-        "fast-glob": "^3.3.2",
-        "html-minifier": "^4.0.0",
-        "luxon": "^3.4.4",
-        "markdown-it": "^14.0.0",
-        "markdownlint": "^0.33.0",
-        "markdownlint-cli": "^0.38.0",
-        "md5": "^2.3.0",
-        "postcss": "^8.4.33",
-        "postcss-import": "^15.1.0",
-        "striptags": "^3.2.0",
-        "stylelint": "^16.1.0",
-        "stylelint-config-recess-order": "^4.4.0",
-        "stylelint-config-recommended": "^14.0.0"
-    },
-    "dependencies": {
-        "lodash": "^4.17.21"
-    },
-    "trustedDependencies": [
-        "sharp"
-    ]
+  "name": "www.linksbek.nl",
+  "description": "Wie schrijft die blijft",
+  "version": "1.0.1",
+  "author": "Geert Eltink",
+  "license": "MIT",
+  "main": ".eleventy.js",
+  "scripts": {
+    "clean": "rm -rf _site && rm -rf .cache",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:md": "markdownlint -i src/style-guide.md src/**/*.md",
+    "lint:css": "stylelint src/assets/**/*.css",
+    "check-links": "bunx check-html-links _site",
+    "build": "bunx @11ty/eleventy",
+    "serve": "bunx @11ty/eleventy --serve --port=8091",
+    "serve-production": "NODE_ENV=production bunx @11ty/eleventy --serve --port=8091",
+    "build-production": "ELEVENTY_PRODUCTION=true NODE_ENV=production bunx @11ty/eleventy",
+    "format": "stylelint src/assets/**/*.css --fix"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.8",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@types/markdown-it": "^13.0.7",
+    "autoprefixer": "^10.4.16",
+    "cssnano": "^6.0.3",
+    "fast-glob": "^3.3.2",
+    "html-minifier": "^4.0.0",
+    "luxon": "^3.4.4",
+    "markdown-it": "^14.0.0",
+    "markdownlint": "^0.33.0",
+    "markdownlint-cli": "^0.38.0",
+    "md5": "^2.3.0",
+    "postcss": "^8.4.33",
+    "postcss-import": "^15.1.0",
+    "striptags": "^3.2.0",
+    "stylelint": "^16.1.0",
+    "stylelint-config-recess-order": "^4.4.0",
+    "stylelint-config-recommended": "^14.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "trustedDependencies": [
+    "sharp"
+  ]
 }

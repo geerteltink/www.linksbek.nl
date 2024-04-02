@@ -4,7 +4,7 @@ set -e
 echo -e "Updating local repo...\n"
 git switch main
 git pull --rebase --autostash --prune
-bun install
+npm install
 
 if [ -z "$1" ]; then
     echo "ERROR: Expected date (YYYY-mm-dd) as the first argument"

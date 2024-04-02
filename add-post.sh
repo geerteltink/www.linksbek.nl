@@ -45,3 +45,7 @@ git commit -am "feat: $COLUMN_DATE"
 git push --set-upstream origin $BRANCH
 gh pr create --title "feat: $COLUMN_DATE" --assignee "@me" --label "feat" --fill
 gh pr merge $BRANCH --squash --auto
+
+git switch main
+git pull --rebase --autostash --prune
+git gone

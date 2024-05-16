@@ -22,7 +22,7 @@
     "@11ty/eleventy-img": "^4.0.2",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@types/markdown-it": "^13.0.8",
+    "@types/markdown-it": "^14.1.1",
     "autoprefixer": "^10.4.19",
     "cssnano": "^6.1.2",
     "fast-glob": "^3.3.2",

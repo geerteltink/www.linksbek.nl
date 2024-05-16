@@ -24,7 +24,7 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@types/markdown-it": "^14.1.1",
     "autoprefixer": "^10.4.19",
-    "cssnano": "^6.1.2",
+    "cssnano": "^7.0.1",
     "fast-glob": "^3.3.2",
     "html-minifier-terser": "^7.2.0",
     "luxon": "^3.4.4",

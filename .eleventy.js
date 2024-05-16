@@ -3,7 +3,7 @@ const striptags = require('striptags');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const Image = require('@11ty/eleventy-img');
-const htmlmin = require('html-minifier');
+const { minify } = require('html-minifier-terser');
 const collections = require('./src/_lib/collections.js');
 
 async function imageShortcode(src, alt, sizes) {
@@ -64,10 +64,10 @@ module.exports = function (eleventyConfig) {
       .concat('...');
   });
 
-  eleventyConfig.addFilter('getRandom', function(collection) {
+  eleventyConfig.addFilter('getRandom', function (collection) {
     const slicedCollection = collection.slice(5);
 
-    return slicedCollection.splice(Math.floor(Math.random() * slicedCollection.length),1)[0];
+    return slicedCollection.splice(Math.floor(Math.random() * slicedCollection.length), 1)[0];
   });
 
   eleventyConfig.addWatchTarget('./src/_lib');
@@ -76,18 +76,19 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/favicon.png');
   eleventyConfig.addPassthroughCopy('./src/assets/images/logo-linksbek.gif');
 
-	eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
-		if( process.env.NODE_ENV === 'production' && outputPath && outputPath.endsWith('.html') ) {
-			let minified = htmlmin.minify(content, {
-				useShortDoctype: true,
-				removeComments: true,
-				collapseWhitespace: true
-			});
-			return minified;
-		}
+  eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+    if (process.env.NODE_ENV === 'production' && outputPath && outputPath.endsWith('.html')) {
+      let minified = minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyJS: true,
+      });
+      return minified;
+    }
 
-		return content;
-	});
+    return content;
+  });
 
   return {
     dir: {

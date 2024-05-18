@@ -6,17 +6,17 @@ date: "2002-01-01"
 
 <h1>{{ title }}</h1>
 
-<p>{{ meta.desciption }}</p>
+<p class="text-italic mb-5">{{ meta.description }}</p>
 
 <div class="flex flex-column flex-row-md">
-  <div class="flex-grow pr-3 mr-3">
+  <div class="flex-grow pr-5 mr-5">
     <ul>
       {% for post in collections.posts | limit(5) %}
         <li>
           <a href="{{ post.url }}">
             <h2>{{ post.data.title }}</h2>
           </a>
-          <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+          <time datetime="{{ post.date | isoDate }}" class="text-italic">{{ post.date | readableDate }}</time>
           <p>{{ post.templateContent | summary }}</p>
         </li>
       {% endfor %}
@@ -24,17 +24,15 @@ date: "2002-01-01"
     <p>Meer columns vind je in <a href="{{ '/archief/' | url }}">het archief</a>.</p>
   </div>
 
-  <div style="width:256px;">
-    <div>
-      <h2>Kent u deze al?</h2>
-      {% set randomPost = collections.posts | getRandom %}
-      <time datetime="{{ randomPost.date | isoDate }}" class="text-muted small">
-        Gepubliceerd op {{ randomPost.date | readableDate }}
-      </time>
-      <a href="{{ randomPost.url }}">
-        <h3>{{ randomPost.data.title }}</h3>
-      </a>
-      <p>{{ randomPost.templateContent | summary }}</p>
-    </div>
+  <div style="min-width:256px; max-width:320px;">
+    <h2>Kent u deze al?</h2>
+    {% set randomPost = collections.posts | getRandom %}
+    <time datetime="{{ randomPost.date | isoDate }}" class="text-muted small">
+      Gepubliceerd op {{ randomPost.date | readableDate }}
+    </time>
+    <a href="{{ randomPost.url }}">
+      <h3>{{ randomPost.data.title }}</h3>
+    </a>
+    <p>{{ randomPost.templateContent | summary }}</p>
   </div>
 </div>

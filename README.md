@@ -12,6 +12,26 @@
 ./add-post.sh 2023-10-24 --mr
 ```
 
+## Code
+
+Image
+
+```md
+<figure>
+  {% image "./src/images/name.jpg", "Description" %}
+</figure>
+```
+
+Gallery
+
+```md
+<div class="image-gallery">
+  {% image "./src/images/name.jpg", "Description" %}
+  {% image "./src/images/name.jpg", "Description" %}
+  {% image "./src/images/name.jpg", "Description" %}
+</div>
+```
+
 ## Development
 
 ```bash

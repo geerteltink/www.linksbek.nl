@@ -22,6 +22,19 @@ Image
 </figure>
 ```
 
+Image with link
+
+```md
+<figure>
+  <a href="https://example.com">
+    {% image "./src/images/name.jpg", "Description" %}
+  </a>
+  <figcaption>
+    The Caption
+  </figcaption>
+</figure>
+```
+
 Gallery
 
 ```md

@@ -4,6 +4,14 @@
 
 ## Create a new post
 
+```PowerShell
+# create from template
+./add-post.ps1 2024-07-29
+
+# merge
+./add-post.ps1 2024-07-29 --mr
+```
+
 ```bash
 # create from template
 ./add-post.sh 2023-10-24

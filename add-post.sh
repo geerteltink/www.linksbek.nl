@@ -44,6 +44,7 @@ git add .
 git commit -am "feat: $COLUMN_DATE"
 git push --set-upstream origin $BRANCH
 gh pr create --title "feat: $COLUMN_DATE" --assignee "@me" --label "feat" --fill
+gh pr view --web
 gh pr merge $BRANCH --squash --auto
 
 git switch main

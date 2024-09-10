@@ -1,8 +1,8 @@
 .image-gallery {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   gap: 1%;
+  justify-content: center;
 }
 
 .image-gallery picture {
@@ -10,9 +10,9 @@
 }
 
 .image-gallery img {
-  object-fit: cover;
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  object-fit: cover;
   border-radius: 5px;
 }

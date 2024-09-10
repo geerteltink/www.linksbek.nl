@@ -76,9 +76,9 @@ img {
 }
 
 figcaption {
+    margin: 0.5rem;
     font-style: italic;
     font-weight: bold;
-    margin: 0.5rem;
 }
 
 ul {

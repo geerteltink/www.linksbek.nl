@@ -6,18 +6,18 @@
 
 ```PowerShell
 # create from template
-./add-post.ps1 2024-07-29
+./add-post.ps1 2024-10-19
 
 # merge
-./add-post.ps1 2024-07-29 --mr
+./add-post.ps1 2024-10-19 --mr
 ```
 
 ```bash
 # create from template
-./add-post.sh 2023-10-24
+./add-post.sh 2024-10-19
 
 # merge
-./add-post.sh 2023-10-24 --mr
+./add-post.sh 2024-10-19 --mr
 ```
 
 ## Code

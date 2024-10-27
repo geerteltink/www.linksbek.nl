@@ -1,7 +1,7 @@
 {
   "name": "www.linksbek.nl",
   "description": "Wie schrijft die blijft",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "author": "Geert Eltink",
   "license": "MIT",
   "main": ".eleventy.js",
@@ -18,7 +18,7 @@
     "format": "stylelint src/assets/**/*.css --fix"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-img": "^4.0.2",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",

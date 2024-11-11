@@ -1,7 +1,7 @@
 {
   "name": "www.linksbek.nl",
   "description": "Wie schrijft die blijft",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "author": "Geert Eltink",
   "license": "MIT",
   "main": ".eleventy.js",
@@ -33,7 +33,7 @@
     "markdownlint": "^0.36.1",
     "markdownlint-cli": "^0.42.0",
     "md5": "^2.3.0",
-    "postcss": "^8.4.47",
+    "postcss": "^8.4.48",
     "postcss-import": "^16.1.0",
     "striptags": "^3.2.0",
     "stylelint": "^16.10.0",

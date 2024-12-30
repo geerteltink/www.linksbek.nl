@@ -10,7 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:md": "markdownlint -i src/style-guide.md src/**/*.md",
     "lint:css": "stylelint src/assets/**/*.css",
-    "check-links": "npx check-html-links _site",
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve --port=8091",
     "serve-production": "NODE_ENV=production npx @11ty/eleventy --serve --port=8091",

@@ -15,7 +15,8 @@
     "serve": "npx @11ty/eleventy --serve --port=8091",
     "serve-production": "NODE_ENV=production npx @11ty/eleventy --serve --port=8091",
     "build-production": "ELEVENTY_PRODUCTION=true NODE_ENV=production npx @11ty/eleventy",
-    "format": "stylelint src/assets/**/*.css --fix"
+    "format": "stylelint src/assets/**/*.css --fix",
+    "compress-images": "mogrify -quality \"75%\" -resize 1024x1024\\> src/images/*.*"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

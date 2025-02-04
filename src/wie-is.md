@@ -31,7 +31,7 @@ eleventyNavigation:
   Tussen 2011 en 2024 teammanager EHV Heren I.
 </p>
 <p>
-  In 2008 met veel plezier en trots meegewerkt aan uitgave ‘Enschede, de mensen, de stad’ (idee en samenstelling: Willy Berends).
+  In 2008 met veel plezier, gepaste trots en ruim vijftig verhalen meegewerkt aan uitgave ‘Enschede, de mensen, de stad’ (idee en samenstelling: Willy Berends).
 </p>
 <p>
   Getrouwd met Anke, vader van Anne (1990) en Pim (1992), opa van Mare (2021) en Lune (2023).

@@ -36,7 +36,7 @@
     "postcss": "^8.5.3",
     "postcss-import": "^16.1.0",
     "striptags": "^3.2.0",
-    "stylelint": "^16.18.0",
+    "stylelint": "^16.19.0",
     "stylelint-config-recess-order": "^6.0.0",
     "stylelint-config-recommended": "^16.0.0"
   }

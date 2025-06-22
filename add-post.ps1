@@ -38,7 +38,7 @@ date: "$COLUMN_DATE"
 # Check if second argument is provided
 if (-not $args[1]) {
   Write-Host "Opening template for editing"
-  zed $TEMPLATE
+  code $TEMPLATE
   exit 0
 }
 

@@ -1,10 +1,11 @@
 const { DateTime } = require('luxon');
 const striptags = require('striptags');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 const Image = require('@11ty/eleventy-img');
 const { minify } = require('html-minifier-terser');
 const collections = require('./src/_lib/collections.js');
+const footnote_plugin = require('markdown-it-footnote');
 
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
@@ -23,12 +24,11 @@ async function imageShortcode(src, alt, sizes) {
   };
 
   return Image.generateHTML(metadata, imageAttributes, {
-    whitespaceMode: 'inline'
+    whitespaceMode: 'inline',
   });
 }
 
 module.exports = function (eleventyConfig) {
-
   // Collections
   Object.keys(collections).forEach((collectionName) => {
     eleventyConfig.addCollection(collectionName, collections[collectionName]);
@@ -45,7 +45,9 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('readableDate', (dateObj) => {
-    return DateTime.fromJSDate(dateObj).setLocale('nl').toLocaleString(DateTime.DATE_FULL);
+    return DateTime.fromJSDate(dateObj)
+      .setLocale('nl')
+      .toLocaleString(DateTime.DATE_FULL);
   });
 
   eleventyConfig.addFilter('isoDate', (dateObj) => {
@@ -67,8 +69,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('getRandom', function (collection) {
     const slicedCollection = collection.slice(5);
 
-    return slicedCollection.splice(Math.floor(Math.random() * slicedCollection.length), 1)[0];
+    return slicedCollection.splice(
+      Math.floor(Math.random() * slicedCollection.length),
+      1
+    )[0];
   });
+
+  eleventyConfig.amendLibrary('md', (mdLib) => mdLib.use(footnote_plugin));
 
   eleventyConfig.addWatchTarget('./src/_lib');
   eleventyConfig.addWatchTarget('./src/assets');
@@ -78,7 +85,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/assets/videos/');
 
   eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
-    if (process.env.NODE_ENV === 'production' && outputPath && outputPath.endsWith('.html')) {
+    if (
+      process.env.NODE_ENV === 'production' &&
+      outputPath &&
+      outputPath.endsWith('.html')
+    ) {
       let minified = minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -97,12 +108,12 @@ module.exports = function (eleventyConfig) {
       input: 'src',
       output: '_site',
       data: '_data',
-      includes: '_includes'
+      includes: '_includes',
     },
     templateFormats: ['html', 'njk', 'md', '11ty.js'],
     passthroughFileCopy: true,
     //markdownTemplateEngine: 'liquid',
     //htmlTemplateEngine: 'liquid',
     //dataTemplateEngine: false
-  }
+  };
 };

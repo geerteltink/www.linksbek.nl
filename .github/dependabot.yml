@@ -1,22 +1,23 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: 'github-actions'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     open-pull-requests-limit: 3
+    versioning-strategy: increase
     cooldown:
       default-days: 5
       semver-major-days: 30
       semver-minor-days: 7
       semver-patch-days: 3
     labels:
-      - "ci"
+      - 'ci'
 
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     versioning-strategy: increase
     open-pull-requests-limit: 3
     cooldown:
@@ -25,9 +26,9 @@ updates:
       semver-minor-days: 7
       semver-patch-days: 3
     labels:
-      - "build"
+      - 'build'
     groups:
-      all-dependencies:
+      dependencies:
         applies-to: version-updates
         update-types:
           - "minor"

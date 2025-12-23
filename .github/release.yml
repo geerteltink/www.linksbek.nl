@@ -29,4 +29,4 @@ changelog:
         - security-update
     - title: Other Changes
       labels:
-        - "*"
+        - '*'

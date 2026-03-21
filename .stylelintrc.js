@@ -1,8 +1,5 @@
-module.exports = {
-  extends: [
-    'stylelint-config-recommended',
-    'stylelint-config-recess-order',
-  ],
+export default {
+  extends: ['stylelint-config-recommended', 'stylelint-config-recess-order'],
 
   plugins: ['stylelint-order'],
 

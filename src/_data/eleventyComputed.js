@@ -1,6 +1,13 @@
-const meta = require('./meta.json');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-module.exports = {
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const meta = JSON.parse(
+  fs.readFileSync(path.join(__dirname, './meta.json'), 'utf-8'),
+);
+
+export default {
   summary: (data) => {
     if (data.description) {
       return data.description;
@@ -15,5 +22,5 @@ module.exports = {
     }
 
     return null;
-  }
-}
+  },
+};

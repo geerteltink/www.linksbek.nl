@@ -1,23 +1,25 @@
-const { DateTime } = require('luxon');
-const _ = require('lodash');
+import { DateTime } from 'luxon';
 
 function getPosts(collectionApi) {
-  return collectionApi.getFilteredByTag('post').reverse().filter(post => {
-    if (process.env.NODE_ENV !== 'production') {
+  return collectionApi
+    .getFilteredByTag('post')
+    .reverse()
+    .filter((post) => {
+      if (process.env.NODE_ENV !== 'production') {
+        return true;
+      }
+
+      if (post.data.draft === true) {
+        return false;
+      }
+
+      let now = new Date().getTime();
+      if (now < post.date.getTime()) {
+        return false;
+      }
+
       return true;
-    }
-
-    if (post.data.draft === true) {
-      return false;
-    }
-
-    let now = new Date().getTime();
-    if (now < post.date.getTime()) {
-      return false;
-    }
-
-    return true;
-  });
+    });
 }
 
 function getByDate(collectionApi, dateFormat) {
@@ -32,7 +34,7 @@ function getByDate(collectionApi, dateFormat) {
     let d = DateTime.fromJSDate(post.date).toFormat(dateFormat);
 
     if (!postsByDate[d]) {
-      postsByDate[d] = new Array();
+      postsByDate[d] = [];
     }
     postsByDate[d].push(post);
   });
@@ -40,10 +42,15 @@ function getByDate(collectionApi, dateFormat) {
   return postsByDate;
 }
 
-exports.postsByYear = (collectionApi) => {
+export const postsByYear = (collectionApi) => {
   return getByDate(collectionApi, 'yyyy');
-}
+};
 
-exports.posts = (collectionApi) => {
+export const posts = (collectionApi) => {
   return getPosts(collectionApi);
-}
+};
+
+export default {
+  postsByYear,
+  posts,
+};

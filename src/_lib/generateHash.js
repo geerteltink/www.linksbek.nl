@@ -1,17 +1,15 @@
-const fs = require('fs');
-const glob = require('fast-glob');
-const md5 = require('md5');
+import fs from 'fs';
+import glob from 'fast-glob';
+import md5 from 'md5';
 
-function generateHash(source) {
+export function generateHash(source) {
   if (process.env.NODE_ENV !== 'production') {
     return 'dev';
   }
 
   const files = glob.sync(source);
-  const content = files
-    .map((file) => fs.readFileSync(file))
-    .join('');
+  const content = files.map((file) => fs.readFileSync(file)).join('');
   return md5(content).slice(0, 8);
 }
 
-module.exports = generateHash;
+export default generateHash;

@@ -1,11 +1,11 @@
-const { DateTime } = require('luxon');
-const striptags = require('striptags');
-const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const Image = require('@11ty/eleventy-img');
-const { minify } = require('html-minifier-terser');
-const collections = require('./src/_lib/collections.js');
-const footnote_plugin = require('markdown-it-footnote');
+import { DateTime } from 'luxon';
+import striptags from 'striptags';
+import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import Image from '@11ty/eleventy-img';
+import { minify } from 'html-minifier-terser';
+import collections from './src/_lib/collections.js';
+import footnote_plugin from 'markdown-it-footnote';
 
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
@@ -28,7 +28,7 @@ async function imageShortcode(src, alt, sizes) {
   });
 }
 
-module.exports = function (eleventyConfig) {
+export default async function (eleventyConfig) {
   // Collections
   Object.keys(collections).forEach((collectionName) => {
     eleventyConfig.addCollection(collectionName, collections[collectionName]);
@@ -71,7 +71,7 @@ module.exports = function (eleventyConfig) {
 
     return slicedCollection.splice(
       Math.floor(Math.random() * slicedCollection.length),
-      1
+      1,
     )[0];
   });
 
@@ -102,18 +102,19 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+}
 
-  return {
-    dir: {
-      input: 'src',
-      output: '_site',
-      data: '_data',
-      includes: '_includes',
-    },
-    templateFormats: ['html', 'njk', 'md', '11ty.js'],
-    passthroughFileCopy: true,
-    //markdownTemplateEngine: 'liquid',
-    //htmlTemplateEngine: 'liquid',
-    //dataTemplateEngine: false
-  };
+// This named export is optional
+export const config = {
+  dir: {
+    input: 'src',
+    output: '_site',
+    data: '_data',
+    includes: '_includes',
+  },
+  templateFormats: ['html', 'njk', 'md', '11ty.js'],
+  passthroughFileCopy: true,
+  //markdownTemplateEngine: 'liquid',
+  //htmlTemplateEngine: 'liquid',
+  //dataTemplateEngine: false
 };

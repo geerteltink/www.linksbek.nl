@@ -19,7 +19,7 @@
     "compress-images": "mogrify -quality \"75%\" -resize 1024x1024\\> src/images/*.*"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy": "^3.1.6",
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^1.0.5",
     "@11ty/eleventy-plugin-rss": "^3.0.0",
@@ -30,14 +30,14 @@
     "html-minifier-terser": "^7.2.0",
     "lodash": "^4.18.1",
     "luxon": "^3.7.2",
-    "markdown-it": "^14.1.1",
+    "markdown-it": "^14.2.0",
     "markdownlint": "^0.40.0",
     "markdownlint-cli": "^0.48.0",
     "md5": "^2.3.0",
     "postcss": "^8.5.15",
     "postcss-import": "^16.1.1",
     "striptags": "^3.2.0",
-    "stylelint": "^17.11.1",
+    "stylelint": "^17.13.0",
     "stylelint-config-recess-order": "^7.7.0",
     "stylelint-config-recommended": "^18.0.0",
     "stylelint-order": "^8.1.1"

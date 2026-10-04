@@ -41,7 +41,7 @@ eleventyNavigation:
   <figcaption class="figure-caption">Mare en Lune</figcaption>
 </figure>
 <p>
-  Telefoon: 053 477 6473 – 06543 26251
+  Telefoon: 06543 26251
 </p>
 <p>
   Email: pcbonder@kpnplanet.nl

@@ -3,5 +3,9 @@
   "line-length": false,
   "no-inline-html": false,
   "no-bare-urls": false,
-  "no-emphasis-as-header": false
+  "no-emphasis-as-header": false,
+  "MD013": false,
+  "MD033": false,
+  "MD034": false,
+  "MD036": false
 }

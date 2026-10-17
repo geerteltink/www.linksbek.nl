@@ -11,7 +11,7 @@ date: "2002-01-01"
 <div class="flex flex-column flex-row-md">
   <div class="flex-grow pr-5 mr-5">
     <ul>
-      {% for post in collections.posts | limit(5) %}
+      {% for post in collections.posts | limit(10) %}
         <li>
           <a href="{{ post.url }}">
             <h2>{{ post.data.title }}</h2>

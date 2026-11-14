@@ -1,30 +1,31 @@
-import { DateTime } from 'luxon';
-import striptags from 'striptags';
-import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
-import pluginRss from '@11ty/eleventy-plugin-rss';
-import Image from '@11ty/eleventy-img';
-import { minify } from 'html-minifier-terser';
-import collections from './src/_lib/collections.js';
-import footnote_plugin from 'markdown-it-footnote';
+import { DateTime } from "luxon";
+import striptags from "striptags";
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import Image from "@11ty/eleventy-img";
+import { minify } from "html-minifier-terser";
+import collections from "./src/_lib/collections.js";
+import footnote_plugin from "markdown-it-footnote";
 
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
-    widths: [400, 800, 1280, 1920],
-    formats: ['webp', 'jpeg'],
-    outputDir: '_site/assets/images',
-    urlPath: '/assets/images',
+    //widths: [480, 768, 960, 1920],
+    widths: [768, 960],
+    formats: ["webp"],
+    outputDir: "_site/assets/images",
+    urlPath: "/assets/images",
   });
 
   let imageAttributes = {
     alt,
-    class: 'img-fluid',
-    sizes: sizes || '100vw',
-    loading: 'lazy',
-    decoding: 'async',
+    class: "img-fluid",
+    sizes: sizes || "(max-width: 960px) 100vw, 960px",
+    loading: "lazy",
+    decoding: "async",
   };
 
   return Image.generateHTML(metadata, imageAttributes, {
-    whitespaceMode: 'inline',
+    whitespaceMode: "inline",
   });
 }
 
@@ -37,36 +38,36 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(pluginRss);
 
-  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
-  eleventyConfig.addAsyncShortcode('image', imageShortcode);
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
-  eleventyConfig.addFilter('limit', function (array, limit) {
+  eleventyConfig.addFilter("limit", function (array, limit) {
     return array.slice(0, limit);
   });
 
-  eleventyConfig.addFilter('readableDate', (dateObj) => {
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj)
-      .setLocale('nl')
+      .setLocale("nl")
       .toLocaleString(DateTime.DATE_FULL);
   });
 
-  eleventyConfig.addFilter('isoDate', (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toFormat("yyyy-LL-dd");
   });
 
-  eleventyConfig.addFilter('isoDateTime', (dateObj) => {
+  eleventyConfig.addFilter("isoDateTime", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toISO();
   });
 
-  eleventyConfig.addFilter('summary', (data) => {
-    return striptags(data.replace(/<h1[^>]*>([\s\S]*?)<\/h1[^>]*>/, ''))
+  eleventyConfig.addFilter("summary", (data) => {
+    return striptags(data.replace(/<h1[^>]*>([\s\S]*?)<\/h1[^>]*>/, ""))
       .substring(0, 200)
-      .replace(/^\s+|\s+$|\s+(?=\s)/g, '')
+      .replace(/^\s+|\s+$|\s+(?=\s)/g, "")
       .trim()
-      .concat('...');
+      .concat("...");
   });
 
-  eleventyConfig.addFilter('getRandom', function (collection) {
+  eleventyConfig.addFilter("getRandom", function (collection) {
     const slicedCollection = collection.slice(5);
 
     return slicedCollection.splice(
@@ -75,20 +76,20 @@ export default async function (eleventyConfig) {
     )[0];
   });
 
-  eleventyConfig.amendLibrary('md', (mdLib) => mdLib.use(footnote_plugin));
+  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 
-  eleventyConfig.addWatchTarget('./src/_lib');
-  eleventyConfig.addWatchTarget('./src/assets');
+  eleventyConfig.addWatchTarget("./src/_lib");
+  eleventyConfig.addWatchTarget("./src/assets");
 
-  eleventyConfig.addPassthroughCopy('./src/favicon.png');
-  eleventyConfig.addPassthroughCopy('./src/assets/images/logo-linksbek.gif');
-  eleventyConfig.addPassthroughCopy('./src/assets/videos/');
+  eleventyConfig.addPassthroughCopy("./src/favicon.png");
+  eleventyConfig.addPassthroughCopy("./src/assets/images/logo-linksbek.gif");
+  eleventyConfig.addPassthroughCopy("./src/assets/videos/");
 
-  eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (
-      process.env.NODE_ENV === 'production' &&
+      process.env.NODE_ENV === "production" &&
       outputPath &&
-      outputPath.endsWith('.html')
+      outputPath.endsWith(".html")
     ) {
       let minified = minify(content, {
         useShortDoctype: true,
@@ -107,12 +108,12 @@ export default async function (eleventyConfig) {
 // This named export is optional
 export const config = {
   dir: {
-    input: 'src',
-    output: '_site',
-    data: '_data',
-    includes: '_includes',
+    input: "src",
+    output: "_site",
+    data: "_data",
+    includes: "_includes",
   },
-  templateFormats: ['html', 'njk', 'md', '11ty.js'],
+  templateFormats: ["html", "njk", "md", "11ty.js"],
   passthroughFileCopy: true,
   //markdownTemplateEngine: 'liquid',
   //htmlTemplateEngine: 'liquid',

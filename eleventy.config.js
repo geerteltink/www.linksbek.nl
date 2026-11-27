@@ -10,7 +10,7 @@ import footnote_plugin from "markdown-it-footnote";
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
     //widths: [480, 768, 960, 1920],
-    widths: [768, 960],
+    widths: [480, 768, 960],
     formats: ["webp"],
     outputDir: "_site/assets/images",
     urlPath: "/assets/images",
